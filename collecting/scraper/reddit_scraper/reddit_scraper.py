@@ -3,7 +3,7 @@ from tqdm import tqdm
 import os
 import csv
 
-from collecting.scraper.reddit_scraper.yars.src.yars.yars import YARS
+from collecting.scraper.reddit_scraper.yars.yars import YARS
 
 
 class RedditScraper():
