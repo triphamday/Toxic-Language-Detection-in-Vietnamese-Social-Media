@@ -1,0 +1,8 @@
+.venv/
+git/
+__pycache__/
+data/
+prompting/
+draft.ipynb
+README.md
+.env
