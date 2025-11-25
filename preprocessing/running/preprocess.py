@@ -40,7 +40,7 @@ def preprocess_platform(target_category, platform, raw_folder, preprocessed_fold
         elif platform == "facebook":
             data = process_facebook_comments(data)
         else:
-            raise("This platform is not supported.")
+            raise ValueError("This platform is not supported.")
         
         comments = []
         for comment in data:

@@ -32,7 +32,7 @@ def measure_agreement(
             annotators.append(file_name.split("_")[-1].split(".")[0])
 
     all_labelled_data = []
-    all_texts = {}
+    all_information = {}
     for i, file_name in enumerate(labelled_data_file_names):
         labelled_data = load_json(os.path.join(result_folder, file_name))
         mapping = {item["id"]: item["toxicity_fixed"] for item in labelled_data}
@@ -40,8 +40,8 @@ def measure_agreement(
         
         if i == 0:
             for item in labelled_data:
-                all_texts[item["id"]] = item["text"]
-
+                all_information[item["id"]] = [item["text"], item["category"]]
+                
     all_data_labels = sorted({label for labelled_data in all_labelled_data for label in labelled_data.values()})
 
     if not set(all_data_labels).issubset(set(all_labels)):
@@ -98,20 +98,42 @@ def measure_agreement(
         else:
             logging.info(f"Cohen' Kappa agreement with prompt round {prompt_round} in all data: {kappa_score}")
 
-    different_labelled_data = []
+    differently_labelled_data = []
+    final_data = []
     if kappa_score <= 0.9:
         for id in all_ids:
             labels = [labelled_data[id] for labelled_data in all_labelled_data]
             
             if len(set(labels)) > 1:
-                entry = {"id": id, "text": all_texts.get(id)}
+                entry = {
+                    "id": id,
+                    "text": all_information.get(id)[0],
+                    "category": all_information.get(id)[1]
+                }
+
+                different_entry = entry.copy()
                 for i, label in enumerate(labels):
-                    entry[f"{annotators[i]}_label"] = label
-                different_labelled_data.append(entry)
+                    different_entry[f"{annotators[i]}_label"] = label
+                different_entry["note"] = ""
+                different_entry["final"] = ""
+                differently_labelled_data.append(different_entry)
+                
+                entry[f"{label_type}"] = ""
+                final_data.append(entry)
+            else:
+                entry = {
+                    "id": id,
+                    "text": all_information.get(id)[0],
+                    "category": all_information.get(id)[1],
+                    f"{label_type}": labels[-1]
+                }
+                final_data.append(entry)
     
-    different_labelled_folder = os.path.join(result_folder, "different_labelled")
+    different_labelled_folder = os.path.join(result_folder, "differently_labelled")
     os.makedirs(different_labelled_folder, exist_ok=True)
-    save_json(different_labelled_data, os.path.join(different_labelled_folder, "different_labelled_data.json"))
+    save_json(differently_labelled_data, os.path.join(different_labelled_folder, "differently_labelled_data.json"))
+    
+    save_json(final_data, os.path.join(result_folder, "result.json"))
 
 def plot_different_labels_bar(file_path: str):
     different_data = load_json(file_path)
@@ -180,3 +202,16 @@ def plot_diffence_percentage_each_category(file_path: str, sample_size_per_label
 
     plt.tight_layout()
     plt.show()
+
+def create_final_result(result_path: str, differently_labelled_data_path: str, label_type: str):
+    result = load_json(result_path)
+    differently_labelled_data = load_json(differently_labelled_data_path)
+
+    mapping = {item["id"]: item["final"] for item in differently_labelled_data}
+    
+    for item in result:
+        if item[f"{label_type}"] == "":
+            item[f"{label_type}"] = mapping.get(item["id"])
+
+    save_json(result, result_path)
+    

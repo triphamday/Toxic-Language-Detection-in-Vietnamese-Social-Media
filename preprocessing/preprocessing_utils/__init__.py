@@ -200,8 +200,8 @@ REJECT the text as NOT Vietnamese if:
     - It has just a few Vietnamese words embedded in a sentence where the main message is not in Vietnamese
 
 Output instructions:
-- If the message is Vietnamese → return an *empty output*
-- If the message is NOT Vietnamese → return *None*
+- If the message is Vietnamese → return an <<empty output>>
+- If the message is NOT Vietnamese → return None
 - Do not include explanations, formatting, or punctuation
 
 Examples:
