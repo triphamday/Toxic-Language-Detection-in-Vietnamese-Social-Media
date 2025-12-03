@@ -24,18 +24,8 @@ class DataAnnotatorPipeline:
         data_path: str,
         output_folder: str,
         prompt_round: int,
-        result_path: str = None,
         optimization_flag: bool = False
     ):
-        if optimization_flag == False and result_path is not None:
-            raise ValueError("Cannot set result_path when optimization_flag is False.")
-
-        if prompt_round == 1 and result_path is not None:
-            raise ValueError("result_path is not allowed when prompt_round is 1.")
-        
-        if prompt_round != 1 and result_path is None:
-            raise ValueError("result_path must be provided when prompt_round is not 1.")
-        
         with open(annotating_system_prompt_path, "r", encoding="utf-8") as file:
             self.annotating_system_prompt = file.read()
 
@@ -59,7 +49,6 @@ class DataAnnotatorPipeline:
         self.label_type = label_type
 
         self.optimization_flag = optimization_flag
-        self.result_path = result_path
 
         self.deepseek_client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
         self.mistral_qwen_client = OpenAI(api_key=MISTRAL_QWEN_API_KEY, base_url="https://openrouter.ai/api/v1")
@@ -152,7 +141,7 @@ class DataAnnotatorPipeline:
                         deepseek_response_result = json.loads(re.search(r"\{.*\}", re.sub(r"```json|```", "", deepseek_response.choices[0].message.content).strip(), re.DOTALL).group(0))
                         mistral_response_result = json.loads(re.search(r"\{.*\}", re.sub(r"```json|```", "", mistral_response.choices[0].message.content).strip(), re.DOTALL).group(0))
                         qwen_response_result = json.loads(re.search(r"\{.*\}", re.sub(r"```json|```", "", qwen_response.choices[0].message.content).strip(), re.DOTALL).group(0))
-                    except json.JSONDecodeError:
+                    except:
                         error_data.append(item)
                         continue
                 
@@ -341,22 +330,11 @@ class DataAnnotatorPipeline:
     def create_fixed_labelled_data(self, labelled_data: list[dict], num_samples: int):
         fixed_labelled_data = []
         if self.optimization_flag:
-            if self.result_path is None:
-                for item in labelled_data:
-                    temp_item = item.copy()
-                    temp_item[f"{self.label_type}_fixed"] = temp_item[f"{self.label_type}"]
-                    temp_item[f"{self.label_type}_fixed_reason"] = ""
-                    fixed_labelled_data.append(temp_item)
-            else:
-                result_data = load_json(self.result_path)
-                result_dict = {item["id"]: item for item in result_data}
-        
-                for item in labelled_data:
-                    temp_item = item.copy()
-                    item_id = item["id"]
-                    temp_item["toxicity_fixed"] = result_dict[item_id]["toxicity_fixed"]
-                    temp_item["toxicity_fixed_reason"] = result_dict[item_id]["toxicity_fixed_reason"]
-                    fixed_labelled_data.append(temp_item)
+            for item in labelled_data:
+                temp_item = item.copy()
+                temp_item[f"{self.label_type}_fixed"] = temp_item[f"{self.label_type}"]
+                temp_item[f"{self.label_type}_fixed_reason"] = ""
+                fixed_labelled_data.append(temp_item)
         else:
             random_labelled_data = random.sample(labelled_data, num_samples)
             for item in random_labelled_data:

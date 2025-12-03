@@ -35,7 +35,7 @@ def measure_agreement(
     all_information = {}
     for i, file_name in enumerate(labelled_data_file_names):
         labelled_data = load_json(os.path.join(result_folder, file_name))
-        mapping = {item["id"]: item["toxicity_fixed"] for item in labelled_data}
+        mapping = {item["id"]: item[f"{label_type}_fixed"] for item in labelled_data}
         all_labelled_data.append(mapping)
         
         if i == 0:
@@ -81,9 +81,9 @@ def measure_agreement(
             logging.info(f"Fleiss' Kappa agreement with prompt round {prompt_round} in all data: {kappa_score}")
 
     else:
-        result_data = list(all_labelled_data[0].values())
-        llms_annotated_data = list(all_labelled_data[1].values())
-
+        llms_annotated_data = [all_labelled_data[0][id] for id in all_ids]
+        result_data = [all_labelled_data[1][id] for id in all_ids]
+        
         kappa_score = cohen_kappa_score(result_data, llms_annotated_data)
 
         print("Cohen' Kappa agreement:", kappa_score)
@@ -118,14 +118,14 @@ def measure_agreement(
                 different_entry["final"] = ""
                 differently_labelled_data.append(different_entry)
                 
-                entry[f"{label_type}"] = ""
+                entry[f"{label_type}_fixed"] = ""
                 final_data.append(entry)
             else:
                 entry = {
                     "id": id,
                     "text": all_information.get(id)[0],
                     "category": all_information.get(id)[1],
-                    f"{label_type}": labels[-1]
+                    f"{label_type}_fixed": labels[-1]
                 }
                 final_data.append(entry)
     
@@ -210,8 +210,8 @@ def create_final_result(result_path: str, differently_labelled_data_path: str, l
     mapping = {item["id"]: item["final"] for item in differently_labelled_data}
     
     for item in result:
-        if item[f"{label_type}"] == "":
-            item[f"{label_type}"] = mapping.get(item["id"])
+        if item[f"{label_type}_fixed"] == "":
+            item[f"{label_type}_fixed"] = mapping.get(item["id"])
 
     save_json(result, result_path)
     

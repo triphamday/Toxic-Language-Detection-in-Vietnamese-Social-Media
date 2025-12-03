@@ -10,7 +10,6 @@ parser.add_argument("--checking-system-prompt-path", type=str, required=True)
 parser.add_argument("--data-path", type=str, required=True)
 parser.add_argument("--output-folder", type=str, required=True)
 parser.add_argument("--prompt-round", type=int, required=True)
-parser.add_argument("--result-path", type=str, required=False)
 parser.add_argument("--optimization-flag", type=bool, required=False, default=False)
 parser.add_argument("--error-flag", type=bool, required=False, default=False)
 parser.add_argument("--error-batch-folder", type=str, required=False)
@@ -26,7 +25,6 @@ if __name__ == "__main__":
         data_path=args.data_path,
         output_folder=args.output_folder,
         prompt_round=args.prompt_round,
-        result_path=args.result_path,
         optimization_flag=args.optimization_flag
     )
     if args.error_flag:
