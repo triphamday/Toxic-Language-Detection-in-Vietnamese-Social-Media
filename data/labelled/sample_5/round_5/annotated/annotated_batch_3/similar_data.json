@@ -1,0 +1,605 @@
+[
+    {
+        "text": "quá chuẩn. 🥰",
+        "category": "religion",
+        "id": "religion_3091",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses agreement and admiration in a positive tone, using affectionate emoji, with no toxic elements.",
+        "toxicity_mistral_reason": "The phrase 'quá chuẩn' is a casual, positive expression meaning 'very accurate' or 'spot on.' The emoji 🥰 (smiling face with hearts) conveys affection or admiration, reinforcing a friendly and approving tone. There is no insult, mockery, or negative intent toward any individual or group.",
+        "toxicity_qwen_reason": "The phrase 'quá chuẩn' expresses strong agreement or approval in a positive and enthusiastic manner. The emoji 🥰 conveys affection and warmth, indicating a friendly and supportive tone. There is no insult, mockery, or negativity toward any individual or group."
+    },
+    {
+        "text": "người việt thờ tổ tiên thờ vua hùng thờ thần nông, họ của người việt là họ lạc",
+        "category": "religion",
+        "id": "religion_11009",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu này chỉ đơn thuần mô tả tập tục tín ngưỡng và nguồn gốc của người Việt (thờ cúng tổ tiên, Vua Hùng, Thần Nông, họ Lạc). Không chứa ngôn từ công kích, chế giễu, phân biệt đối xử hay thể hiện thái độ tiêu cực nhắm vào cá nhân/nhóm nào. Đây là một phát biểu mang tính thông tin, trung lập về văn hóa.",
+        "toxicity_mistral_reason": "The text expresses pride in Vietnamese cultural and historical traditions, specifically the worship of ancestors, the Hùng Kings, and Thần Nông, as well as the origin of Vietnamese surnames (họ Lạc). There is no disrespect, mockery, or negative targeting of any individual or group. The tone is neutral and informative, reflecting cultural identity without hostility.",
+        "toxicity_qwen_reason": "The text states cultural and historical facts about Vietnamese traditions—venerating ancestors, King Hung, and Thần Nông—and mentions the Lac surname as part of ethnic heritage. It does not mock, target, or贬低 any group or belief. The tone is descriptive and proud of Vietnamese identity, without religious dismissal or hostility toward others."
+    },
+    {
+        "text": "đúng 11h30p",
+        "category": "religion",
+        "id": "religion_2435",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận chỉ ghi nhận một mốc thời gian cụ thể ('đúng 11h30p'). Không chứa ngôn từ lăng mạ, công kích, chế giễu hay bất kỳ nội dung tiêu cực nào hướng đến cá nhân hoặc nhóm. Đây là một câu thông báo trung lập, không có dấu hiệu về ý định độc hại.",
+        "toxicity_mistral_reason": "The text 'đúng 11h30p' simply states a specific time (11:30 AM/PM) without any slang, insults, mockery, or negative connotations. It is a neutral statement with no toxic elements.",
+        "toxicity_qwen_reason": "The text 'đúng 11h30p' is a neutral statement indicating a time. It has no offensive language, derogatory implications, or harmful intent. Without additional context, it is a factual and non-toxic expression."
+    },
+    {
+        "text": "ng việt chỉ thờ đinh bộ lĩnh, ai như kia lại thờ lĩnh bộ đinh🗿🤣",
+        "category": "religion",
+        "id": "religion_17148",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu sử dụng lối chơi chữ 'thờ đinh bộ lĩnh' (chỉ anh hùng dân tộc) so sánh châm biếm với 'thờ lĩnh bộ đinh' (đảo ngược vô nghĩa), kết hợp với emoji 🗿🤣 để chế giễu, mỉa mai tín ngưỡng hoặc nhóm người có niềm tin khác, gây chia rẽ và thiếu tôn trọng.",
+        "toxicity_mistral_reason": "The text uses wordplay to mock a religious or cultural practice by reversing the name 'Đinh Bộ Lĩnh' into 'Lĩnh Bộ Đinh,' which is nonsensical and implies absurdity or ignorance. The emojis 🗿 (stone face, often used to imply stupidity) and 🤣 (laughing) further emphasize mockery and disrespect toward the beliefs or practices of a group (likely Vietnamese people or a specific religious community). This constitutes demeaning language targeting a cultural or religious identity.",
+        "toxicity_qwen_reason": "The phrase 'lĩnh bộ đinh' is a deliberate reversal of 'đinh bộ lĩnh', mocking those who revere historical or cultural figures like Đinh Bộ Lĩnh, a respected founding emperor of Vietnam. The reversal, combined with the stone emoji 🗿 and laughter 😂, signals sarcasm and disrespect toward people's cultural or national reverence, constituting cultural mockery and derision."
+    },
+    {
+        "text": "2 thằng thầy tu lưu manh chuyên lừa gạt bá tánh.",
+        "category": "religion",
+        "id": "religion_28264",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory terms ('thằng', 'lưu manh') to label monks as frauds who deceive the public. It directly attacks the character and integrity of religious figures, showing clear disrespect and hostility. The accusation is demeaning and introduces negativity without constructive basis.",
+        "toxicity_mistral_reason": "The text uses derogatory language ('thầy tu lưu manh') to generalize and accuse an entire religious group (monks) of being deceitful ('chuyên lừa gạt bá tánh'). This constitutes hate speech and perpetuates harmful stereotypes, targeting a specific group negatively.",
+        "toxicity_qwen_reason": "The text uses derogatory language ('lưu manh' -流氓, thug) to describe two monks ('thầy tu'), accusing them of deceiving the public ('lừa gạt bá tánh'). This is a direct attack on religious figures, undermining their integrity and using disrespectful stereotypes, which constitutes religious disrespect and personal insult in a harsh, negative tone."
+    },
+    {
+        "text": "vnam vì vậy tổn tại 02 đạo phật. 1 đạo phật thuộc giáo hội phật giáo trực thuộc ban dân vận qly đc vô đảng thành đảng viên và 1 đạo phật ko chấp nhận thuộc nhà nước qly. mấy ông bên đạo phật này bị đàn áp dữ lắm có ông nhốt cả chục năm.",
+        "category": "religion",
+        "id": "religion_3702",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Text makes serious, unverified accusations of religious persecution ('bị đàn áp dữ lắm', 'nhốt cả chục năm') against state religious management bodies. It frames the issue in a polarized, hostile manner that promotes resentment and negative views toward governmental and religious institutions, creating a divisive and accusatory narrative.",
+        "toxicity_mistral_reason": "The comment discusses sensitive religious and political issues in Vietnam, specifically the division within Buddhism and the treatment of certain Buddhist groups by the state. While it does not use explicit insults or profanity, it frames the topic in a way that could be seen as critical of the government and implies oppression ('bị đàn áp dữ lắm', 'nhốt cả chục năm'). This could be interpreted as politically charged or divisive, potentially fostering hostility or negativity toward specific institutions or groups. The tone is implicitly negative and may contribute to tension in discussions about religion and state control.",
+        "toxicity_qwen_reason": "The text spreads false and inflammatory claims about the existence of two types of Buddhism in Vietnam, one controlled by the Communist Party and the other oppressed, implying religious persecution. This misrepresents the legal and social reality of religious practice in Vietnam and carries a clear accusatory tone against state authorities, promoting distrust and division. Such content is politically charged and can incite social unrest, qualifying as toxic due to its harmful, misleading, and confrontational nature."
+    },
+    {
+        "text": "rework-clothingmê tín là gì ạ ?",
+        "category": "religion",
+        "id": "religion_34494",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a polite and neutral question asking for the definition of 'mê tín' (superstition), with no offensive language, targeting, or negative intent implied.",
+        "toxicity_mistral_reason": "Câu hỏi mang tính chất tìm hiểu thông tin về thuật ngữ 'mê tín' trong bối cảnh thời trang ('rework-clothing'). Không chứa ngôn từ xúc phạm, công kích, hoặc biểu hiện tiêu cực nào. Ngữ điệu trung lập, lịch sự và mang tính chất trao đổi kiến thức.",
+        "toxicity_qwen_reason": "Câu hỏi mang tính thắc mắc, tìm hiểu về ý nghĩa của từ 'mê tín', được viết bằng phong cách teen-code (viết sát nhau, không dấu), nhưng không có nội dung miệt thị, chế giễu hay nhắm vào nhóm đối tượng nào. Không có dấu hiệu của độc hại về mặt ngôn ngữ."
+    },
+    {
+        "text": "chúa của t là trái đất",
+        "category": "religion",
+        "id": "religion_1478",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses a personal belief ('my god is the earth') in a neutral, declarative manner without targeting, insulting, or mocking any individual or group. It lacks hostile tone, sarcasm, or derogatory language.",
+        "toxicity_mistral_reason": "The phrase 'chúa của t là trái đất' literally translates to 'my god is the Earth,' which is a neutral or even positive expression of personal belief or environmentalism. There is no mockery, insult, or derogatory intent toward any individual, group, or religion. The tone is respectful and does not introduce hostility or negativity.",
+        "toxicity_qwen_reason": "The statement 'chúa của t là trái đất' expresses a personal, metaphorical reverence for Earth, possibly reflecting environmental or spiritual beliefs. It does not attack, mock, or demean any religious group or individual. While it redefines 'chúa' (lord) in a non-traditional way, it does so without hostility or disrespect toward religious beliefs, and thus remains non-toxic in tone and intent."
+    },
+    {
+        "text": "ông thì bt cái đéo gì",
+        "category": "religion",
+        "id": "religion_947",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses the vulgar word 'đéo' in a confrontational phrase aimed at belittling someone's knowledge, making it disrespectful and abusive.",
+        "toxicity_mistral_reason": "The phrase 'ông thì bt cái đéo gì' uses profanity ('đéo') and is dismissive/derogatory toward the subject ('ông'). It implies ignorance or incompetence in a harsh and disrespectful tone, making it toxic.",
+        "toxicity_qwen_reason": "The phrase 'ông thì bt cái đéo gì' uses vulgar language ('đéo') and expresses dismissiveness and disrespect toward the person being addressed. It questions their knowledge in a rude and aggressive tone, which constitutes verbal aggression and falls under toxic language."
+    },
+    {
+        "text": "thiện tai thiện tai",
+        "category": "religion",
+        "id": "religion_34468",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Cụm từ 'thiện tai thiện tai' có nguồn gốc từ Phật giáo, thường dùng để bày tỏ sự tán thán, đồng ý với một điều thiện lành, đúng đắn. Nó mang sắc thái trang trọng, tích cực, không chứa ngôn ngữ thô tục, công kích, mỉa mai hay nhắm vào mục tiêu nào để xúc phạm. Trong ngữ cảnh này, câu nói thể hiện thái độ ủng hộ hoặc ca ngợi, hoàn toàn không có yếu tố độc hại.",
+        "toxicity_mistral_reason": "The phrase 'thiện tai thiện tai' is a playful, lighthearted expression often used in Vietnamese internet culture to mockingly imitate Buddhist chanting or to humorously react to something absurd or amusing. It does not carry any inherent insult, profanity, or negative intent toward any individual or group. The tone is neutral to mildly humorous, without hostility or derogatory implications.",
+        "toxicity_qwen_reason": "The phrase 'thiện tai thiện tai' is a Buddhist-influenced expression meaning 'good deed, good deed' or 'well done, well done', often used to acknowledge virtuous actions or express mild, ironic approval. It does not target anyone negatively, lacks hostile intent, and is generally used in a light-hearted or humorous way without disrespect. While sometimes used ironically, it does not contain profanity, slurs, or toxic implications in this context."
+    },
+    {
+        "text": "bố thằng ngáo .",
+        "category": "religion",
+        "id": "religion_1456",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses derogatory slang ('thằng ngáo') to insult or demean someone, implying they are crazy or foolish, which is harsh, disrespectful, and constitutes name-calling.",
+        "toxicity_mistral_reason": "The phrase 'bố thằng ngáo' is a direct insult, using derogatory language ('ngáo' implies stupidity or foolishness) to target someone's parent. This is considered disrespectful and hostile in Vietnamese culture, especially when directed at family members.",
+        "toxicity_qwen_reason": "The phrase 'bố thằng ngáo' is a vulgar and aggressive insult in Vietnamese, using 'ngáo' (meaning crazy or insane) to demean someone, and 'bố' (father) in a confrontational way to assert dominance. The tone is hostile and disrespectful, fitting the definition of toxic language due to its abusive and emotionally negative nature."
+    },
+    {
+        "text": "kimmyle0 toi nghiep di theo cai ta dao ca the gioi nguyen rua",
+        "category": "religion",
+        "id": "religion_27886",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu này sử dụng cụm từ miệt thị 'ta đạo' (cách gọi xúc phạm tín đồ Công giáo) và khẳng định việc theo đạo này khiến 'cả thế giới nguyền rủa'. Nó có mục đích công kích, hạ thấp và tạo sự kỳ thị đối với một nhóm tôn giáo cụ thể, hoàn toàn phù hợp với định nghĩa về ngôn từ độc hại.",
+        "toxicity_mistral_reason": "The phrase 'toi nghiệp đi theo cái tà đạo cả thế giới nguyền rủa' uses strong, derogatory language ('tà đạo' - heretical/evil religion, 'cả thế giới nguyền rủa' - cursed by the whole world) to attack a religious belief or group. This is a direct and hostile dismissal of a faith, implying it is universally condemned, which qualifies as toxic under the definition of hate speech or discriminatory language.",
+        "toxicity_qwen_reason": "The phrase 'kimmyle0' appears to be a personalized mockery, while 'toi nghiep di theo cai ta dao ca the gioi nguyen rua' uses distorted and slang-like language. 'Nguyen rua' is a derogatory deformation of 'Nguyễn', likely targeting people with the common Vietnamese surname Nguyễn, implying contamination ('rua' sounds like 'rửa' – to wash, but in context suggests 'dirt'). The overall tone is scornful and dehumanizing, with intent to insult a group or individual based on identity, which aligns with toxic speech."
+    },
+    {
+        "text": "xin lỗi ng đại việt ta là rồng châu á chứ ko pk lũ rồng âu có cánh ác ma rồng châu á là sự sức mạnh hài hoà là loài thích sự chính nghĩa ban phước lành giúp đời chứ ko pk rồng có cánh của kinh thánh nhà ôg đâu cha sứ ơi😂😂😂",
+        "category": "religion",
+        "id": "religion_15430",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng ngôn từ so sánh và đối lập để gián tiếp chế giễu, hạ thấp biểu tượng trong kinh thánh (rồng châu Âu), gán cho nó nhãn mác 'ác ma'. Cụm từ 'cha sứ ơi' kết hợp với emoji cười 😂😂😂 thể hiện rõ ý mỉa mai, công kích vào một nhóm tôn giáo cụ thể, tạo ra sự thù địch và khinh miệt trong giao tiếp.",
+        "toxicity_mistral_reason": "Bình luận này sử dụng giọng điệu châm biếm, mỉa mai ('ng đại việt ta là rồng châu á', 'lũ rồng âu có cánh ác ma') để hạ thấp và phủ nhận giá trị của một tôn giáo (đặc biệt là Kitô giáo, qua hình ảnh 'rồng có cánh của kinh thánh'). Cụm từ 'nhà ôg đâu cha sứ ơi' kết hợp với biểu tượng cười lớn 😂😂😂 thể hiện sự chế giễu rõ ràng, mang tính công kích và thiếu tôn trọng đối với niềm tin của một nhóm người.",
+        "toxicity_qwen_reason": "The text uses derogatory comparisons to elevate 'Asian dragon' (symbolizing Đại Việt) while demeaning 'European dragon with wings' as 'evil' and linking it to 'the Bible' ('kinh thánh nhà ông đâu'). The mocking tone (with laughing emojis 😂) and religious insinuation—portraying a biblical symbol as satanic—constitutes religious disrespect. This creates a divisive narrative that belittles a religious symbol, which falls under indirect hate speech and cultural-religious hostility."
+    },
+    {
+        "text": "đuổi mẹ thích này sang cho thăngf kim ủn nó dạy đi.",
+        "category": "religion",
+        "id": "religion_28396",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Văn bản sử dụng ngôn ngữ thô tục ('đuổi mẹ', 'thăngf' - biến tấu của 'thằng'), mang ý miệt thị, thiếu tôn trọng khi đề cập đến việc 'đuổi' và 'dạy' một cá nhân nào đó. Ngữ điệu và từ ngữ thể hiện sự khiếm nhã, xúc phạm, tạo ra cảm giác tiêu cực và thù địch.",
+        "toxicity_mistral_reason": "The text contains profanity ('đuổi mẹ') and derogatory language ('thăngf kim ủn'), which is a mocking deformation likely targeting a person or group. The tone is aggressive and disrespectful, aiming to insult or demean.",
+        "toxicity_qwen_reason": "The text uses derogatory and mocking language: 'thích' is a slang deformation of 'Thích Ca' (referring to Buddha), reducing a religious figure to a trivialized name; 'kim ủn' is a demeaning phonetic play on 'Kim Un' (referring to North Korea's leader), implying absurdity and disrespect. The phrase 'dạy đi' in this context carries a sarcastic, provocative tone. Together, this shows disrespect toward both religious and political figures, using mockery and cultural insensitivity, which aligns with toxic behavior."
+    },
+    {
+        "text": "hai con rồng chả liên quan gì đến nhau lôi vào nói là t thấy chúng m đỉnh rồi",
+        "category": "religion",
+        "id": "religion_14821",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu này là lời chỉ trích mang tính châm biếm về một lập luận so sánh vô lý ('hai con rồng chả liên quan gì'). Cụm 'thấy chúng m đỉnh rồi' dùng để mỉa mai, thể hiện sự không đồng tình và có thể gây khó chịu, nhưng không chứa lời lẽ thô tục, đe dọa, phân biệt đối xử, hoặc công kích cá nhân dựa trên đặc điểm nhận dạng nào. Đây thuộc phạm trù tranh luận hoặc bày tỏ thái độ tiêu cực một cách tương đối nhẹ nhàng, chưa đạt mức độ 'toxic'.",
+        "toxicity_mistral_reason": "The comment uses playful, informal language ('hai con rồng chả liên quan gì đến nhau', 'm đỉnh') to express admiration or agreement in a lighthearted way. There is no insult, mockery, or negative targeting of any individual or group. The tone is casual and non-hostile.",
+        "toxicity_qwen_reason": "The text uses informal language but does not contain insults, profanity, or targeting of individuals or groups. The phrase 't thấy chúng m đỉnh rồi' expresses sarcasm or exaggeration, possibly mocking the relevance of the 'two dragons', but lacks hostile intent or discriminatory context. No regional, religious, or identity-based slurs are present. The tone is dismissive but not toxic."
+    },
+    {
+        "text": "chúa là thằng nào,nó có hiểu tiếng việt ko,hay là thằng tội phạm bị đóng đinh",
+        "category": "religion",
+        "id": "religion_15547",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu nói sử dụng từ ngữ miệt thị ('thằng') để chỉ Chúa, mô tả Ngài như 'tội phạm bị đóng đinh', thể hiện sự xúc phạm và thiếu tôn trọng nghiêm trọng đối với niềm tin tôn giáo (Cơ Đốc giáo). Điều này tạo ra sự công kích, gây hằn học và có thể làm tổn thương đến cộng đồng tín đồ.",
+        "toxicity_mistral_reason": "The text uses derogatory and disrespectful language to refer to a religious figure ('chúa là thằng nào'), implying mockery and contempt. The phrase 'thằng tội phạm bị đóng đinh' is a direct insult, demeaning the religious belief and its followers. The tone is hostile and dismissive, targeting Christianity in a toxic manner.",
+        "toxicity_qwen_reason": "The text uses disrespectful and mocking language toward Jesus ('Chúa'), referring to him as 'thằng nào' (some guy) and 'thằng tội phạm bị đóng đinh' (a criminal who was crucified), which is blasphemous and derogatory in the context of Christianity. This constitutes religious disrespect and emotional negativity, targeting a religious figure in a demeaning way."
+    },
+    {
+        "text": "ê kênh đó ko phải của công giáo mng ơi bên đó tin lành ạ",
+        "category": "religion",
+        "id": "religion_12612",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Comment provides factual clarification about a religious channel's affiliation (Protestant vs. Catholic) without using disrespectful language, mocking tone, or negative intent. The tone is informational and polite ('ạ').",
+        "toxicity_mistral_reason": "The comment is a neutral correction about religious affiliation ('kênh đó không phải của Công giáo... bên đó Tin Lành'). It does not contain insults, mockery, or derogatory language toward any group or individual. The tone is informative and lacks hostility or negativity.",
+        "toxicity_qwen_reason": "The statement is a factual clarification about religious affiliation (distinguishing between Catholicism and Protestantism), using neutral and polite language ('mng ơi', 'ạ'). There is no mockery, stereotyping, or derogatory implication toward any religious group. It aims to inform, not to offend."
+    },
+    {
+        "text": "lũ chó đội lốt sư nghiêm trọng hơn chúng còn là phản động nữa",
+        "category": "religion",
+        "id": "religion_28320",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses a dehumanizing metaphor ('dogs disguised as monks') to insult a group, accuses them of being 'reactionary/subversive' (phản động), and employs a harsh, aggressive, and contemptuous tone that incites hostility and negativity.",
+        "toxicity_mistral_reason": "The text uses the derogatory term 'lũ chó đội lốt sư' (dogs disguised as monks), which is a harsh insult targeting religious figures (likely Buddhist monks). The phrase 'phản động' (reactionary/anti-revolutionary) further escalates the toxicity by politically labeling them as enemies. The tone is aggressive, dehumanizing, and disrespectful toward a specific group.",
+        "toxicity_qwen_reason": "The phrase 'lũ chó đội lốt sư' uses strong dehumanizing language and religiously charged insult, implying Buddhist monks are hypocrites disguised as animals (dogs). The addition of 'phản động' (reactionary/anti-revolutionary) escalates the severity by accusing them of political subversion. The tone is aggressively hostile, targeting both religious figures and their legitimacy, which constitutes toxic speech under Vietnamese cultural and social norms."
+    },
+    {
+        "text": "hồ chí minh",
+        "category": "religion",
+        "id": "religion_4824",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Chỉ đề cập đến tên của một nhân vật lịch sử. Không đi kèm ngôn ngữ chế giễu, xúc phạm, hoặc có ý tiêu cực.",
+        "toxicity_mistral_reason": "The text 'hồ chí minh' is a neutral reference to the historical figure and former leader of Vietnam. It does not contain any insults, mockery, slurs, or negative connotations. Without additional context or derogatory modifiers, this is a factual or neutral mention.",
+        "toxicity_qwen_reason": "The text 'hồ chí minh' is a neutral mention of the name of a historical and national figure in Vietnam, without any additional context, tone, or modifiers that would indicate disrespect, mockery, or negativity. It stands alone as a proper noun and does not contain slang, teen-code, or implicit toxicity."
+    },
+    {
+        "text": "lướt lên vài video của minh mạng xem , có giải thích về chữ viết rồi",
+        "category": "religion",
+        "id": "religion_14357",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a neutral suggestion to watch videos explaining writing, with no offensive, abusive, or disrespectful content. It is informative and helpful in tone.",
+        "toxicity_mistral_reason": "The text translates to 'Scrolled through a few videos of influencers, there are explanations about writing.' It is a neutral observation without any harsh, disrespectful, or emotionally negative content. There is no slang, insult, or implicit toxicity present.",
+        "toxicity_qwen_reason": "The text is a neutral suggestion to watch videos by 'Minh Mạng' for explanation about writing. It does not contain offensive language, mockery, or negative intent toward any individual or group. There is no indication of sarcasm, insult, or culturally sensitive content."
+    },
+    {
+        "text": "chế ra thôi nhé, m đang lật sử đó, t nói có sai ko, m nói t nhiwng chính m là kẻ đang lật sử😂😂",
+        "category": "religion",
+        "id": "religion_6993",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text accuses the other person of falsifying history ('lật sử') in a mocking tone, using informal pronouns ('m', 't') and laughter emojis to belittle and disrespect them, which introduces hostility and negativity into the discussion.",
+        "toxicity_mistral_reason": "The comment uses mocking language ('chế ra thôi nhé') and sarcasm ('m đang lật sử đó... chính m là kẻ đang lật sử') to dismiss and ridicule the other person's argument. The laughing emojis (😂😂) amplify the derisive tone, implying the speaker is belittling the target's perspective rather than engaging in constructive debate. This creates hostility and negativity.",
+        "toxicity_qwen_reason": "The phrase 'm đang lật sử' (you’re flipping history) is an accusation of distorting or denying historical facts, which is a serious and sensitive charge in Vietnamese cultural context, often implying dishonesty or betrayal of national values. The use of '😂😂' adds mocking tone, intensifying the hostility. The exchange is confrontational, with the speaker accusing the other of historical revisionism ('lật sử'), a term with strong negative connotation in Vietnam, especially regarding politicized historical narratives."
+    },
+    {
+        "text": "bởi thầy nào cũng tròn quay ,an tiền cung duong của bá tánh, bỏ túi riêng ,tham thì thâm thôi",
+        "category": "religion",
+        "id": "religion_29932",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment makes a sweeping negative generalization, accusing religious figures ('thầy') of being uniformly corrupt, greedy, and misusing devotees' offerings for personal gain. It uses derogatory terms ('tròn quay' implying hypocrisy/greed) and promotes a hostile, disrespectful view of a religious group.",
+        "toxicity_mistral_reason": "The comment criticizes teachers as corrupt ('tròn quay', 'ăn tiền cúng dường của bá tánh', 'bỏ túi riêng') and uses the phrase 'tham thì thâm' to generalize their greed. While it expresses frustration, the tone is harsh, accusatory, and disrespectful toward an entire profession, which can be seen as toxic due to its sweeping negativity and lack of constructive intent.",
+        "toxicity_qwen_reason": "The text uses sarcasm and derogatory implication to accuse religious figures ('thầy' – often referring to Buddhist monks or spiritual leaders) of corruption, greed ('an tiền cúng dường của bá tánh, bỏ túi riêng'), and moral failure. The phrase 'tham thì thâm thôi' generalizes and vilifies religious practitioners, promoting disrespect and negative stereotypes about a group based on their role in society, which constitutes toxic speech."
+    },
+    {
+        "text": "vkl 🤣",
+        "category": "religion",
+        "id": "religion_14894",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The abbreviation 'vkl' is a vulgar slang term (derived from 'vãi cả lồn'), which is highly profane and offensive in Vietnamese. Even though it is used as an exclamation without a specific target, its inherent crudeness and the laughing emoji create a harsh, disrespectful tone that falls under toxic language according to the definition.",
+        "toxicity_mistral_reason": "Viết tắt 'vkl' là biến thể của 'vãi cả lồn', một cụm từ tục tĩu và thô tục trong tiếng Việt. Mặc dù có thể được sử dụng trong ngữ cảnh hài hước hoặc thân mật giữa bạn bè, nhưng về bản chất nó vẫn mang tính chất chửi thề và thiếu tôn trọng trong giao tiếp công cộng. Emoji 🤣 thể hiện sự cười nhạo, có thể làm tăng tính tiêu cực của phát ngôn.",
+        "toxicity_qwen_reason": "‘vkl’ là viết tắt của ‘vãi cả l*’, một từ thô tục, biểu hiện sự khiếm nhã. Kết hợp với biểu tượng cảm xúc 🤣 cho thấy sự chế giễu hoặc thích thú với ngôn từ tục tĩu, thể hiện thái độ thiếu tôn trọng và mang tính tiêu cực."
+    },
+    {
+        "text": "địt mẹ mày thằng oắt con giai tơ sủa như chó con vậy",
+        "category": "sexism",
+        "id": "sexism_1161",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Văn bản chứa lời lẽ tục tĩu, xúc phạm nghiêm trọng ('địt mẹ mày'), sỉ nhục đối tượng ('thằng oắt con giai tơ') và sử dụng phép so sánh hạ nhục ('sủa như chó con'). Ngôn ngữ mang tính công kích, miệt thị và gây thù địch rõ ràng.",
+        "toxicity_mistral_reason": "The text contains explicit profanity ('địt mẹ mày') and direct insults ('thằng oắt con giai tơ', 'sủa như chó con'). It is highly aggressive, disrespectful, and targets an individual with demeaning language, clearly falling under toxic speech.",
+        "toxicity_qwen_reason": "The text contains direct profanity ('địt mẹ mày'), aggressive insults ('thằng oắt con', 'giai tơ'), and dehumanizing language comparing someone to a barking puppy ('sủa như chó con'). The overall tone is hostile and disrespectful, targeting an individual with strong vulgar language and contempt."
+    },
+    {
+        "text": "phận trai 12 bến nước trong nhờ đục chịu...",
+        "category": "sexism",
+        "id": "sexism_247",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a traditional Vietnamese proverb describing the role and fate of men in the past, implying they must be resilient and adaptable ('trong nhờ đục chịu'). It does not contain insults, hate speech, profanity, or target any individual or group with negativity. The tone is neutral and reflective of cultural wisdom.",
+        "toxicity_mistral_reason": "Câu này trích từ ca dao Việt Nam ('Phận trai 十 二 bến nước trong nhờ đục chịu'), diễn tả số phận long đong của người con trai trong xã hội cũ, không mang tính công kích, xúc phạm hay tiêu cực đối với cá nhân hay nhóm nào. Ngữ cảnh văn hóa là trung tính, không có ẩn ý xấu.",
+        "toxicity_qwen_reason": "The phrase 'phận trai 12 bến nước trong nhờ đục chịu' is a playful, poetic reinterpretation of the traditional saying 'phận gái 12 bến nước' which refers to the uncertain fate of women in old Vietnamese literature. Here, it's humorously adapted to 'phận trai' (fate of a man) and includes a stoic acceptance ('trong nhờ đục chịu'), reflecting resilience rather than toxicity. There is no personal attack, mockery, or derogatory intent toward any individual or group. The tone is self-deprecating or philosophical, using cultural metaphor in a non-hostile way."
+    },
+    {
+        "text": "phản khoa học ! 😁",
+        "category": "religion",
+        "id": "religion_3433",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'phản khoa học' is a critical term meaning 'anti-science', and when combined with the grinning emoji 😁, it conveys a sarcastic or mocking tone. This implicit ridicule introduces hostility and disrespect towards the target (whether a person, group, or idea), aligning with toxic behavior through demeaning expression.",
+        "toxicity_mistral_reason": "The phrase 'phản khoa học' (anti-science) is used in a dismissive or mocking tone, especially when combined with the emoji 😁, which can imply sarcasm or ridicule. While not explicitly profane, it carries a negative and derogatory connotation toward scientific perspectives or those who hold them, introducing hostility into the discussion.",
+        "toxicity_qwen_reason": "The phrase 'phản khoa học' (anti-science) is used negatively to dismiss or ridicule an idea or person, and the emoji 😁 adds a mocking tone. In Vietnamese online discourse, labeling something as 'phản khoa học' often serves as a rhetorical attack to undermine credibility, especially in debates about health, religion, or pseudoscience, implying ignorance or irrationality in a derisive way."
+    },
+    {
+        "text": "cúng tiền cho nó, nó là ai, nó có xài được tiền không",
+        "category": "religion",
+        "id": "religion_29991",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses informal and disrespectful language ('nó') to refer to a deity or spiritual entity in the context of offering money, and questions the practicality of such offerings in a mocking tone, which disrespects religious practices and introduces negativity towards believers.",
+        "toxicity_mistral_reason": "The comment uses a dismissive and mocking tone toward a religious or spiritual belief ('cúng tiền cho nó'). The phrase 'nó là ai, nó có xài được tiền không' implies skepticism or ridicule of the practice of offering money to deities or ancestors, which can be seen as disrespectful or demeaning to those who hold such beliefs. This introduces negativity and hostility into the discussion about cultural or religious practices.",
+        "toxicity_qwen_reason": "The text sarcastically questions the value or legitimacy of someone's spiritual or religious beliefs, particularly around ancestral or ritual offerings ('cúng tiền'). By mocking the idea of whether 'it' (referring to a spirit or deity) can even use money, the statement dismisses and ridicules culturally respected practices, showing disrespect toward beliefs tied to identity and tradition."
+    },
+    {
+        "text": "nghe không vào",
+        "category": "religion",
+        "id": "religion_22056",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'nghe không vào' is a neutral statement indicating an inability to hear or understand, without any offensive, abusive, discriminatory, or targeting elements. It lacks sarcasm, mockery, or negative cultural implications, and maintains a plain, non-hostile tone.",
+        "toxicity_mistral_reason": "The phrase 'nghe không vào' literally means 'can't hear (or understand) well' and is often used casually to express confusion or disbelief in a lighthearted way. It does not contain insults, profanity, or derogatory implications toward any individual or group. The tone is neutral and lacks hostility or mockery.",
+        "toxicity_qwen_reason": "The phrase 'nghe không vào' literally means 'can't hear' or 'doesn't get through,' which may express frustration or difficulty in communication, but it lacks offensive language, targeted insults, or toxic intent. Without additional context suggesting mockery or aggression, it remains a neutral statement about ineffective communication."
+    },
+    {
+        "text": "ông nghĩ đơn giản thế này. phụ nữ đẻ thì họ sẽ phải nghỉ việc ít nhất 6 tháng đến 1 năm, không có thu nhập, bhxh chỉ cover cho 6 tháng thôi mà chưa chắc được nhận 100% lương. tiếp đến là đánh đổi về mặt sức khoẻ, sức khoẻ sau sinh nở chắc chắn sẽ kém đi, trí thông minh lẫn trí nhớ đều giảm, thai nhi hút chất dinh dưỡng của người mẹ nên đa phần phụ nữ sau sinh họ bị loãng xương, nhiều người còn bị di chứng về già. nếu như ông muốn bình đẳng chứ gì, trả tiền sinh bằng nửa chi phí đẻ thuê, tiền viện phí và trả nửa tiền thâm hụt lương/sự nghiệp, chưa kể đến phí đảm bảo nếu ông không muốn nuôi con và chọn ly hôn.",
+        "category": "sexism",
+        "id": "sexism_44",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Văn bản trình bày quan điểm phân tích về gánh nặng và chi phí khi sinh con của phụ nữ, đề xuất chia sẻ công bằng. Ngôn ngữ nghiêm túc, lập luận, không có từ ngữ thô tục, xúc phạm, hoặc mỉa mai nhắm vào cá nhân/nhóm cụ thể nào.",
+        "toxicity_mistral_reason": "The comment discusses social and economic challenges faced by women during and after childbirth, including financial, health, and career impacts. While the tone is critical and highlights systemic inequalities, it does not contain insults, slurs, or demeaning language toward any individual or group. The argument is framed as a logical discussion about gender equality and compensation, not as an attack or harassment.",
+        "toxicity_qwen_reason": "The text expresses a critical but rational perspective on gender inequality in the context of childbirth, highlighting real socio-economic and health burdens faced by women. It uses strong arguments about career loss, health risks, and financial costs not to attack or belittle, but to emphasize the need for greater equity. While the tone is firm and emotionally charged, it does not include insults, slurs, mockery, or targeting individuals or groups with derogatory language. The use of 'ông' is rhetorical, addressing a hypothetical male listener to illustrate imbalance, not to demean."
+    },
+    {
+        "text": "ông này không hiểu gì về kinh thánh nếu học sơ qua kinh thánh phải mất 7 năm ông nói về chúa mà không có câu kinh thánh nào dẫn chứng chứng tỏ ông không biết gì về kinh thánh kinh thánh là con đường của bậc thánh không phải của phàm nhân ông nên hiểu tổ tiên của loài người là ai các ông tin vượn thành người và gà trâu thành gì ông không học kinh thánh thì đừng nói về kinh thánh kinh là quy luật vận hành của tạo hoá chứ không phải con người thánh là không phải phàm nhân mà là thánh nhân chống con người thì có thể tha nhưng chống chúa không được tha ông nói về kinh thánh mà không có dẫn chứng về kinh thánh thế mà ông nói về kinh thánh ông thử đọy kinh thánh mỗi tuần một chương thì suy ngẫm cũng mất 7 năm ông nói trăm trứng ông thấy con người cú ai sinh từ trứng không gia súc cũng không sinh từ truwng chỉ có gia cầm mới sinh từ trứng biết thì thưa thớt khoing biết thì dựa cột mà nghe chúa nói trong sách sáng thế chương 1 cáu một ban đầu đức chúa trời tạo nên trời đất có ai da má tự xưng minh dựng nên trời đất không nước nga có dám nói nước nga tạo nên trời đất không việt nam có dám nói nước việt nam dựng nên trời đất không hay một ông vua nào dám nói tôi dựng nên trời đất không kinh thánh nói ban đầu đức chúa trời tạo nên trời đất có ai dán cãi không nếu không dám cãi việt nam vân coing nhận kinh thánh nếu không coing nhận thì công giáo và tin lành có được hoạt đikng không câu 26 sách sáng thế ngài nói chúng ta hãy làm nên loài người như hình ảnh chúng ta có ai thế gian này dám nói mjnhf tạo nên loài người không ông phú trọng hay ông tô lâm có dám tuyên bố là ông tạo nên loài người không chỉ có loại gia cầm ngan ngông vịt mới đẻ trứng thôi người có chui ra từ quả trứng khokng hay mẹ đau bụng đẻ ra mình không đọc kinh thánh không hiểu kinh thánh mà nói kinh thánh thì ông cũng chỉ như con két nhái okng chủ nhà tại sao mỹ là dùng đaoh chúa làm quốc đạo nó khokng ngu như mâý ông tưởng đâu hiến ohaps mỹ được soạn trên tiêu chuẩn kinh thánh kinh thánh là chân lý do trời viết chứ không phải loài người hiens pháp việt nam là con người lập ra chứ không phải chúa lập ra con người viets theo cái lợi của nhà cai trị chứ không phải chân lý ông hồ cũng chỉ là con người chúa không phải là đáng tạo hoá cjngx sinh già bệnh chết ông cũng khokng theo chúa ông phật cũng khokng theo chúa trên đời d này có hai loại chúa một là chúa quỷ hai là chúa trời vậy việt nam chắc chắn là khokng theo chúa trời rồi vậy thì việt nam theo chúa nào các vị tự hiểu đảng cũng khokng ra từ chýa trời vậy đảng ra từ chúa nào khôn ngoan khoing lại được với trời người tính không bằng trời tính vậy khoing đọc kinh thánh thì đừng nói đạo chúa môn đồ chúa được tinh luyện chứ khokng học giả không nois dối vì đại chúa là đường đi là chân lý là sự thật chống người thì được chống chúa thì không ai còn sống không tin cứ thử xem",
+        "category": "religion",
+        "id": "religion_24343",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses insulting and mocking language to belittle non-Christian beliefs, dismisses evolution and other views as foolish, and creates a hostile dichotomy between God and the devil, which is disrespectful and discriminatory in tone.",
+        "toxicity_mistral_reason": "The text contains multiple elements of toxicity, including: (1) **Disrespectful and dismissive tone** toward the target ('ông này không hiểu gì về kinh thánh', 'ông không học kinh thánh thì đừng nói về kinh thánh'), (2) **Religious intolerance** by aggressively asserting the superiority of one belief system while mocking others ('các ông tin vượn thành người và gà trâu thành gì', 'chỉ có gia cầm mới sinh từ trứng'), (3) **Condescending language** ('biết thì thưa thớt không biết thì dựa cột mà nghe'), and (4) **Implied threats or warnings** ('chống chúa không được tha', 'không tin cứ thử xem'). The text goes beyond criticism or debate, crossing into hostility, personal attacks, and demeaning rhetoric against those with differing beliefs.",
+        "toxicity_qwen_reason": "Text sử dụng giọng điệu chỉ trích, mỉa mai và áp đặt niềm tin tôn giáo, đồng thời phủ nhận các quan điểm khoa học (ví dụ: 'tổ tiên loài người' là Adam-Eve, chối bỏ tiến hóa). Người viết xúc phạm người khác là 'như con két nhái', cho rằng không đọc Kinh Thánh thì không được quyền nói về đạo Chúa, và so sánh chế độ chính trị với 'chúa quỷ', mang tính phân biệt, kích động tôn giáo và miệt thị những ai không theo giáo lý Cơ đốc. Nội dung thể hiện sự cực đoan tôn giáo, thiếu tôn trọng đa dạng tín ngưỡng và phủ nhận tư tưởng tự do, vi phạm nguyên tắc ngôn ngữ an toàn."
+    },
+    {
+        "text": "1 điều tao chắc chắn đó là người dân việt nam có tư duy làm thuê kiếm sống chứ ít ai làm chủ,nếu trong một cuộc giao tiếp cũng có kiểu như làm ở đâu làm công ty nào lương lậu bao nhiêu chứ không hỏi là làm kinh doanh gì hay bán gì,tao làm việc tại nhà cũng bị đồn là thất nghiệp cơ",
+        "category": "sexism",
+        "id": "sexism_292",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text offers a critical observation about perceived societal mindsets (employee vs. entrepreneur mentality) in Vietnam and shares a personal anecdote about being misunderstood when working from home. The tone is analytical and expresses personal frustration, but it does not attack, insult, demean, or target any specific individual or group with hostility, profanity, or hate speech. The critique is directed at a general cultural tendency, not used to propagate discrimination or negativity toward a protected class.",
+        "toxicity_mistral_reason": "The comment expresses frustration about societal attitudes toward employment and entrepreneurship in Vietnam, particularly the tendency to equate success with salaried jobs rather than self-employment or business ownership. While the tone is critical and somewhat negative, it does not target any individual or group with insults, slurs, or demeaning language. The focus is on systemic observations rather than personal attacks or hostility.",
+        "toxicity_qwen_reason": "The text expresses a personal observation about societal tendencies in Vietnam regarding employment mindset (employee vs. entrepreneur), and shares a subjective experience of being misunderstood when working from home. While it uses informal language and the pronoun 'tao' (which can be rude in some contexts), it does not contain direct insults, slurs, mockery, or targeting of individuals or groups. The tone is critical but reflective, not hostile or abusive. It falls within the scope of non-toxic expression as it conveys frustration without verbal aggression or discriminatory intent."
+    },
+    {
+        "text": "hãy coi những đứa như vậy là sex toys không đáng để quan tâm",
+        "category": "sexism",
+        "id": "sexism_966",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text dehumanizes people by labeling them as 'sex toys' (đồ chơi tình dục), which is a degrading and objectifying term. The phrase 'không đáng để quan tâm' (not worth caring about) reinforces a dismissive and contemptuous attitude. This constitutes harassing, demeaning, and emotionally negative language.",
+        "toxicity_mistral_reason": "The comment uses dehumanizing and sexually objectifying language ('sex toys') to dismiss and degrade a group of people. This is disrespectful, degrading, and promotes a hostile tone, making it toxic.",
+        "toxicity_qwen_reason": "The text dehumanizes and objectifies people by referring to them as 'sex toys' ('sex toys không đáng để quan tâm'), which is a derogatory and disrespectful way to describe human beings. This language promotes contempt and emotional cruelty, especially toward individuals who may already be marginalized. The use of English term 'sex toys' within a Vietnamese sentence does not reduce its offensiveness; it still carries a demeaning and hostile tone."
+    },
+    {
+        "text": "quânnguyenanh .trên thế dưới này ko có một ai ko yẻu tổ quốc .quê hương mình cả là con người cho dù trong hoàn cãnh nào họ yêu nơi chôn nhau cắt rốn .bạn ko nên có tư tưởng cục đoan .",
+        "category": "religion",
+        "id": "religion_24416",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Văn bản thể hiện quan điểm tích cực về lòng yêu nước và đưa ra lời khuyên tránh tư tưởng cực đoan một cách ôn hòa. Không có ngôn từ xúc phạm, chế giễu, kỳ thị hay nhắm vào bất kỳ cá nhân hay nhóm cụ thể nào.",
+        "toxicity_mistral_reason": "Bình luận thể hiện tình yêu quê hương, đất nước và khuyên nhủ người khác không nên có tư tưởng cục bộ, hẹp hòi. Ngôn từ mang tính tích cực, xây dựng và không có dấu hiệu xúc phạm, chế giễu hay công kích cá nhân hay nhóm nào.",
+        "toxicity_qwen_reason": "The text expresses a patriotic sentiment and disagrees with a perceived narrow-minded viewpoint ('tư tưởng cục đoan'), but does so without using offensive language, slurs, or personal attacks. It affirms love for the homeland and national unity without targeting any individual or group negatively. The tone is firm but respectful, aiming to correct a perspective rather than demean someone."
+    },
+    {
+        "text": "thời mạt pháp ma tăng hiện nguyên hình",
+        "category": "religion",
+        "id": "religion_30051",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu nói sử dụng ngôn ngữ miệt thị, công kích giới tu hành Phật giáo bằng cách gọi họ là 'ma tăng' và ám chỉ thời kỳ suy đồi ('thời mạt pháp'), thể hiện sự thiếu tôn trọng, định kiến và có thể gây tổn thương đến cộng đồng tín đồ tôn giáo.",
+        "toxicity_mistral_reason": "The phrase 'thời mạt pháp ma tăng hiện nguyên hình' (literally 'in the degenerate age, demonic monks reveal their true form') carries strong negative connotations. It implies that Buddhist monks are inherently deceitful or evil, using religious terminology ('mạt pháp' - a concept in Buddhism referring to a degenerate age) to generalize and disparage an entire religious group. This constitutes hate speech and religious discrimination.",
+        "toxicity_qwen_reason": "The phrase 'thời mạt pháp ma tăng hiện nguyên hình' uses Buddhist terminology to imply that monks ('ma tăng') are now revealing their true, demonic nature. This is a derogatory and disrespectful portrayal of religious figures, suggesting corruption or evil within the clergy. In the context of religious sensitivity in Vietnam, such statements can be deeply offensive and constitute spiritual or religious defamation, fitting the definition of toxic speech through demeaning and hostile insinuation."
+    },
+    {
+        "text": "nói hay quá, em ái mộ anh.",
+        "category": "sexism",
+        "id": "sexism_957",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Đây là một lời khen chân thành, thể hiện sự ngưỡng mộ ('ái mộ') đối với khả năng nói chuyện của người khác. Không có ngôn ngữ thô tục, xúc phạm, chế giễu hay bất kỳ yếu tố tiêu cực nào nhắm vào cá nhân hay nhóm nào.",
+        "toxicity_mistral_reason": "The comment expresses admiration ('nói hay quá', 'em ái mộ anh') in a polite and respectful tone. There is no insult, mockery, or negative intent toward any individual or group. The language is friendly and non-toxic.",
+        "toxicity_qwen_reason": "The statement expresses admiration and praise in a polite and affectionate manner. There is no sarcasm, insult, or negative implication. The tone is positive and respectful, using terms like 'nói hay quá' (speak so well) and 'ái mộ' (admire), which are clearly complimentary without any hidden derogatory meaning or cultural insensitivity."
+    },
+    {
+        "text": "mấy người ngồi nge được hay vậy, cũng đc đi học mà, ngồi nge đc quá hay 😂😂",
+        "category": "religion",
+        "id": "religion_21728",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Text uses sarcastic praise ('nghe được hay vậy', 'quá hay') with laughing emojis to mock a group's ability to listen, implying that their education is wasted or that they are passive, which is disrespectful and introduces negativity through implicit ridicule.",
+        "toxicity_mistral_reason": "The comment uses a mocking tone ('ngồi nge được hay vậy', 'ngồi nge đc quá hay') combined with laughing emojis (😂😂) to ridicule people for listening to something. This implies disdain or belittlement toward others' actions, creating a negative and dismissive atmosphere.",
+        "toxicity_qwen_reason": "The text uses sarcasm to mock people for being able to listen or learn, implying they are unintelligent or incapable ('ngồi nghe được hay vậy'). The repetition and laughing emojis (😂😂) amplify the ridicule, suggesting superiority over others in an insulting and demeaning way."
+    },
+    {
+        "text": "t ở với bồ. t địt mỗi ngày mày ơi. nhưng mà là ng còn gái tốt đẹp thơm tho. tội j phải ám ảnh. mày phải phóng khoáng lên. miễn là nó không bị dẩm lồn thì làm đàn ông thì nhường nhịn con gái một tí",
+        "category": "sexism",
+        "id": "sexism_1159",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Văn bản sử dụng ngôn ngữ tục tĩu, thô tục trực tiếp ('địt', 'dẩm lồn') để miêu tả quan hệ tình dục, mang tính chất khiếm nhã và thiếu tôn trọng. Mặc dù có vẻ là lời khuyên ('phóng khoáng lên', 'nhường nhịn'), nhưng cách diễn đạt bằng từ ngữ chửi thề và khẩu ngữ thô lỗ tạo ra nội dung mang tính xúc phạm và tiêu cực.",
+        "toxicity_mistral_reason": "The text contains explicit and vulgar language ('t địt mỗi ngày'), which is profane and sexually explicit. While the intent may not be to directly insult someone, the use of crude language in this context introduces unnecessary hostility and negativity. Additionally, the phrase 'không bị dẩm lồn' is a derogatory and objectifying way to refer to women, reinforcing harmful stereotypes and disrespect.",
+        "toxicity_qwen_reason": "Text contains explicit sexual language ('địt mỗi ngày', 'dẩm lồn') and promotes a dismissive, trivializing attitude toward sexual relationships. It uses vulgar terms and normalizes potentially exploitative behavior under the guise of being 'lenient' as a man, reinforcing harmful gender stereotypes and objectifying the female partner despite calling her 'tốt đẹp thơm tho'. The overall tone is disrespectful and vulgar."
+    },
+    {
+        "text": "thì đúng rồi mà, ai chẳng có quyền đưa ra tiêu chuẩn của mình, còn bạn ko thích thì kiếm cô khác thôi. cơ mà đúng là lướt reddit nước ngoài chẳng thấy ai nói chuyện này bh, có vn.",
+        "category": "sexism",
+        "id": "sexism_854",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận tranh luận về việc ai cũng có quyền có tiêu chuẩn riêng và đưa ra quan sát so sánh văn hóa. Lời lẽ không có yếu tố xúc phạm, miệt thị, kỳ thị hoặc công kích cá nhân/nhóm nào. Ngôn từ mang tính chất bàn luận, dù có phần thẳng thắn nhưng không mang tính thù địch hay gây hằn học.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion about setting standards in relationships and suggests an alternative if someone disagrees. While it may come across as slightly dismissive ('kiếm cô khác thôi'), it does not contain insults, profanity, or targeted hostility. The tone is neutral and does not perpetuate stereotypes, discrimination, or negativity toward any individual or group.",
+        "toxicity_qwen_reason": "Văn bản thể hiện quan điểm cá nhân một cách hợp lý, khẳng định quyền đặt tiêu chuẩn của mỗi người và đề xuất lựa chọn thay thế nếu không phù hợp ('kiếm cô khác thôi'). Dù có phần so sánh Việt Nam với nước ngoài ('chẳng thấy ai nói chuyện này bh, có vn'), nhưng không mang tính miệt thị, không sử dụng ngôn từ tục tĩu, chế giễu hay tấn công cá nhân/nhóm. Tông giọng là bình luận xã hội, mang tính trao đổi hơn là công kích."
+    },
+    {
+        "text": "t nghĩ là tuỳ quan điểm từng người thôi, t first date thì k quan trọng ai trả lắm t với ny t first date đi lượn cmnl nè, có mất đồng đéo nào đâu =))",
+        "category": "sexism",
+        "id": "sexism_4",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses a personal perspective on first dates with informal slang and mild vulgarities (e.g., 'cmnl', 'đéo') used for emphasis in a casual, humorous tone. It does not target, insult, or show hostility towards any individual or group, and the intent is to share an anecdote without negativity or discrimination.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion about first-date etiquette ('tùy quan điểm từng người') and shares a lighthearted, humorous experience ('đi lượn cmnl', 'có mất đồng đéo nào đâu'). While it contains mild slang ('cmnl', 'đéo'), these terms are not directed at anyone in a derogatory or aggressive manner. The tone is casual and playful, not hostile or disrespectful.",
+        "toxicity_qwen_reason": "The text expresses a personal opinion about first dates and who pays, using informal and colloquial language (e.g., 'cmnl', 'đéo'). However, it does not target or insult any individual or group. The tone is casual and conversational, not hostile or disrespectful. While slang is present, it's not used abusively but rather for emphasis and humor among peers."
+    },
+    {
+        "text": "ừ ừ ông với mấy thằng người quen của ông toàn nạn nhân hết. khổ thân quá.",
+        "category": "sexism",
+        "id": "sexism_240",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Uses sarcastic repetition ('ừ ừ') and a mocking tone ('khổ thân quá') to belittle and ridicule the target and their friends, implying they falsely portray themselves as victims. The comment is disrespectful and conveys contempt.",
+        "toxicity_mistral_reason": "The comment uses a condescending and mocking tone ('ừ ừ', 'khổ thân quá') to dismissively label the person ('ông') and their acquaintances as 'nạn nhân' (victims). This implies ridicule and disrespect toward the individuals mentioned, creating a negative and demeaning atmosphere.",
+        "toxicity_qwen_reason": "The statement uses sarcasm ('ừ ừ', 'khổ thân quá') to mock and dismiss others' suffering, implying insincerity or exaggeration of victimhood. The tone belittles genuine experiences, creating emotional negativity and derision, which constitutes hostile and disrespectful communication."
+    },
+    {
+        "text": "quá thơm",
+        "category": "sexism",
+        "id": "sexism_400",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Cụm từ 'quá thơm' mang ý khen ngợi, tích cực, thường dùng để chỉ mùi hương hoặc hương vị hấp dẫn. Không có yếu tố lăng mạ, chế nhạo, hoặc ngôn từ tiêu cực nào hướng đến cá nhân hay nhóm nào.",
+        "toxicity_mistral_reason": "The phrase 'quá thơm' literally means 'very fragrant' or 'smells great.' It is a neutral or positive expression, often used to compliment food, drinks, or even a pleasant scent. There is no slang, sarcasm, or implicit negativity in this context, and it does not target any individual or group negatively.",
+        "toxicity_qwen_reason": "The phrase 'quá thơm' literally means 'too fragrant' or 'very nice-smelling', and is often used colloquially to express approval or admiration in a positive, lighthearted way. Without additional context or targeting, it carries no offensive, derogatory, or harmful intent. It does not contain slang, mockery, or toxic implications in this standalone form."
+    },
+    {
+        "text": "tôi con gái đi date chia đôi tiền vì ko muốn đối phương chịu hết đống đấy, công bằng cho cả hai vs cả chỉ là tìm hiểu nhau đâu phải tìm hiểu tài chính, tôi nghĩ v đấy về nhà tôi kể vs hội chị e vì đối tượng tôi gặp cũng khá ổn ấy vậy mà chị e làm tôi nghi ngờ nhân sinh vc, tôi share tiền là tôi sai trong first date ( trước đó bạn nam cũng đòi trả hết nhma lương tâm ko cho tôi lm v) tôi nghĩ để có mqh thì nên có qua có lại mấy bà cô cty ông cũng dạng ích kỉ quá rồi hoặc có thể tư duy của tôi khác người vc, ngay cả bạn tôi cũng làm tôi nghi ngờ bản thân dễ dãi vch",
+        "category": "sexism",
+        "id": "sexism_866",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Văn bản là lời tâm sự cá nhân về trải nghiệm đi date và quan điểm chia đôi chi phí. Người viết bày tỏ sự bối rối khi bị bạn bè/đồng nghiệp phản đối, nhưng không sử dụng ngôn từ lăng mạ, đe dọa, kỳ thị hay có ý công kích cá nhân/nhóm nào. Giọng điệu mang tính chất chia sẻ và tự vấn, không có yếu tố độc hại.",
+        "toxicity_mistral_reason": "The text expresses personal opinions and frustrations about dating norms and financial expectations in relationships. While the tone is somewhat critical of others' perspectives ('ích kỉ', 'tư duy khác người'), it does not contain insults, slurs, or demeaning language toward any individual or group. The speaker is reflecting on their own experiences and societal judgments, not attacking or mocking others in a toxic manner.",
+        "toxicity_qwen_reason": "Text thể hiện chia sẻ cá nhân về trải nghiệm đi date, quan điểm chia đôi chi phí và cảm xúc hoang mang khi bị phản ứng từ người khác. Không có ngôn ngữ xúc phạm, miệt thị hay tấn công cá nhân/nhóm. Dù có sự thất vọng và nghi ngờ bản thân, nhưng giọng điệu trung lập, mang tính tự sự và tìm kiếm sự đồng cảm, không mang tính công kích hay độc hại."
+    },
+    {
+        "text": "vậy mất tiền oan hả m, tao thấy nhiều em lên date chỉ để kiếm free meal",
+        "category": "sexism",
+        "id": "sexism_6",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses informal, confrontational pronouns ('m', 'tao') and makes a negative generalization about a gender group ('nhiều em'), implying women frequently engage in dates for exploitative reasons ('kiếm free meal'). This perpetuates a demeaning stereotype and introduces a hostile, judgmental tone into the discussion.",
+        "toxicity_mistral_reason": "The comment uses a dismissive and slightly aggressive tone ('mất tiền oan hả m'), implying frustration or blame. It also generalizes negatively about a group ('nhiều em lên date chỉ để kiếm free meal'), which can be seen as stereotyping or demeaning toward women in this context. The phrasing carries a subtle but clear negative connotation.",
+        "toxicity_qwen_reason": "The statement uses derogatory generalization by implying that many girls go on dates solely to get free meals, which disrespects and mocks a group of people based on gender. The phrase 'kiếm free meal' carries a mocking tone, suggesting dishonesty or greed, and combined with 'mất tiền oan', it reinforces a negative stereotype about relationships and women, creating a hostile and demeaning implication."
+    },
+    {
+        "text": "đây là tính hôn nhân thôi m t đang nói cú vả hiện thực xã hội cho mấy cháu trẻ tuổi bớt ảo tưởng lại thôi, nhận ra giá trị mình ở đâu khi đến kết hôn thì nên bớt mang tư tưởng đó lại vì xứ này làm đéo chính sách cho người sinh con đẻ cái",
+        "category": "sexism",
+        "id": "sexism_471",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text contains vulgar language ('đéo'), demeans young people by calling them delusional, and uses a hostile, aggressive tone to criticize social policies, which aligns with toxic criteria such as profanity, disrespect, and emotional negativity.",
+        "toxicity_mistral_reason": "The comment contains profanity ('làm đéo chính sách') and expresses a harsh, cynical tone toward marriage and societal expectations. While the intent may be to offer a reality check, the use of vulgar language and dismissive phrasing ('mấy cháu trẻ tuổi bớt ảo tưởng') introduces hostility and negativity, making it toxic.",
+        "toxicity_qwen_reason": "Ngôn ngữ sử dụng từ thô tục ('đéo') và mang tính miệt thị, khinh thường ('mấy cháu trẻ tuổi bớt ảo tưởng', 'xứ này làm đéo chính sách...'), thể hiện thái độ phẫn nộ, châm biếm xã hội một cách tiêu cực. Câu nói có ý định hạ thấp tư tưởng của người khác, gây chia rẽ thế hệ và thể hiện sự bất mãn với chính sách xã hội theo cách xúc phạm, không xây dựng."
+    },
+    {
+        "text": "trẫm nam, hong vịt ... nhưng ... hong quen ngươi vì : ngươi hôi hôi mùi vịt",
+        "category": "sexism",
+        "id": "sexism_314",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu nói sử dụng ngôn ngữ hài hước ('trẫm', 'hong') nhưng có nội dung xúc phạm trực tiếp, chê bai mùi cơ thể của người khác ('hôi hôi mùi vịt'), tạo ra sự thiếu tôn trọng và tiêu cực.",
+        "toxicity_mistral_reason": "The text uses derogatory slang ('hong vịt' as a mocking term for LGBTQ+ individuals, particularly gay men) and insults ('hôi hôi mùi vịt' implying unpleasant odor or disgust). The tone is disrespectful, targeting a person or group based on sexual orientation or identity, which aligns with toxic language.",
+        "toxicity_qwen_reason": "The text uses 'hổm vịt' and 'hôi hôi mùi vịt' as a play on words to mock the person by associating them with ducks, implying they smell bad. This is a derogatory and disrespectful joke about personal hygiene, using phonetic slang ('trẫm' for 'ta', 'hổm' for 'hổng') to mock in a sarcastic tone. The insult is targeted and carries a demeaning, mocking intent."
+    },
+    {
+        "text": "ừ! thì ảnh hưởng gì ả?",
+        "category": "sexism",
+        "id": "sexism_323",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'ừ! thì ảnh hưởng gì ả?' is a casual, conversational question meaning 'So what's the effect?' or 'What does it matter?'. It contains no insults, profanity, discriminatory language, or hostile intent. The tone is neutral to slightly dismissive but lacks any elements of toxicity such as mockery, hate speech, or targeting of individuals or groups.",
+        "toxicity_mistral_reason": "Câu nói 'ừ! thì ảnh hưởng gì ả?' mang tính chất phản ứng bình thường, không chứa từ ngữ xúc phạm, chửi thề, hay có ý mỉa mai, chế giễu. 'Ả' ở đây là cách gọi thân mật hoặc suồng sã trong giao tiếp hàng ngày, không mang ý nghĩa xúc phạm nặng nề. Ngữ điệu có thể hơi khó chịu nhưng không đủ để coi là toxic theo định nghĩa đã nêu.",
+        "toxicity_qwen_reason": "Câu 'ừ! thì ảnh hưởng gì ả?' thể hiện sự phản biện mang tính cá nhân, có thể mang sắc thái thách thức nhưng không chứa nội dung phỉ báng, miệt thị hay nhắm vào đối tượng cụ thể với ý định xúc phạm. Ngữ cảnh cho thấy đây là phản ứng mang tính tranh luận hơn là ngôn ngữ độc hại."
+    },
+    {
+        "text": "k care mà mày như bị đạp đuôi ý nhỉ",
+        "category": "sexism",
+        "id": "sexism_1149",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu sử dụng thành ngữ 'bị đạp đuôi' mang tính châm biếm, so sánh người nghe với động vật phản ứng thái quá, kết hợp với từ 'mày' và giọng điệu mỉa mai ('k care mà...') nhằm hạ thấp và chế nhạo người đối diện.",
+        "toxicity_mistral_reason": "The phrase 'k care' (short for 'không care' - 'don't care') combined with 'mày như bị đạp đuôi' (you act like you got your tail stepped on) is dismissive and mocking. It implies irritation or contempt toward the target, using a demeaning comparison (being stepped on) to belittle their reaction or feelings. The tone is rude and disrespectful.",
+        "toxicity_qwen_reason": "The phrase 'mày như bị đạp đuôi ý nhỉ' uses sarcasm and mocking tone to imply someone is overreacting or behaving irrationally, likening them to an animal that has been stepped on. This dehumanizing comparison, combined with the dismissive 'k care', shows disrespect and belittles the other person’s feelings, which constitutes toxic behavior in communication."
+    },
+    {
+        "text": "sai chỗ đéo nào?",
+        "category": "sexism",
+        "id": "sexism_1183",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu sử dụng từ thô tục 'đéo' để nhấn mạnh, tạo ra giọng điệu thách thức, khinh thị và thiếu tôn trọng. Mặc dù có thể là một câu hỏi, nhưng việc sử dụng ngôn ngữ tục tĩu ngay trong cấu trúc câu khiến nó trở nên độc hại, gây ra sự thù địch và tiêu cực trong giao tiếp.",
+        "toxicity_mistral_reason": "The phrase 'sai chỗ đéo nào?' uses the vulgar word 'đéo' (a strong profanity equivalent to 'fuck' in English) to express frustration or disagreement in a harsh and disrespectful manner. The tone is aggressive and emotionally negative, fitting the definition of toxic language.",
+        "toxicity_qwen_reason": "The phrase 'sai chỗ đéo nào?' uses the vulgar word 'đéo' (a profane negation) in a confrontational and aggressive tone. It challenges the other person rudely, implying they are wrong without constructive intent. The use of profanity in this context conveys disrespect and hostility, making it toxic in tone despite the absence of a direct personal attack."
+    },
+    {
+        "text": "vấn đề đặt ra là tụi nó có đẹp hay không. đệp thì ko trách dc, nhiều đứa bú thì nó sinh ra tư tưởng như vậy. còn chỉ sợ nhiều đứa xấu vkl mà ảo tưởng kkkk",
+        "category": "sexism",
+        "id": "sexism_846",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng ngôn ngữ thô tục ('vkl'), chế giễu ngoại hình của người khác ('xấu vkl'), gán ghép tính cách tiêu cực ('ảo tưởng'), và tạo ra sự phân biệt đối xử dựa trên vẻ bề ngoài. Giọng điệu mỉa mai và tiếng cười 'kkkk' làm tăng tính xúc phạm, gây ra cảm giác tiêu cực và thiếu tôn trọng.",
+        "toxicity_mistral_reason": "The comment contains derogatory and mocking language targeting individuals based on their appearance. The phrase 'nhiều đứa xấu vkl mà ảo tưởng' (many are ugly as hell but still delusional) is harsh, insulting, and perpetuates negativity about physical appearance. The use of 'kkkk' further amplifies the mocking tone, making it toxic.",
+        "toxicity_qwen_reason": "The text uses derogatory and mocking language such as 'xấu vkl' (extremely ugly) and 'ảo tưởng kkkk' (delusional lol) to ridicule people's appearance, especially targeting those perceived as unattractive. The tone is contemptuous and promotes negative stereotypes about physical appearance, which constitutes appearance-based mockery and emotional negativity."
+    },
+    {
+        "text": "mẹ đã no homo 2 lần lần này lần thứ 3 rồi đấy.",
+        "category": "sexism",
+        "id": "sexism_1090",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses the phrase 'no homo', which is a dismissive and mocking term that reinforces negative stereotypes about homosexuality, contributing to discrimination against LGBTQ+ identities even if not directly targeting an individual.",
+        "toxicity_mistral_reason": "The phrase 'no homo' is a slang term often used to deny any homosexual implication in a statement, but when combined with 'mẹ' (mother) in this context, it carries a derogatory and mocking tone toward LGBTQ+ individuals. The repetition ('2 lần lần này lần thứ 3 rồi đấy') amplifies the sarcastic and disrespectful intent, making it toxic.",
+        "toxicity_qwen_reason": "The phrase 'no homo' is used in a mocking way to imply same-sex attraction while denying it, which is a common form of subtle homophobia. In Vietnamese context, combining it with 'mẹ' (mother) adds a layer of irreverence and shock value, amplifying the offensive tone. The repetition ('2 lần', 'lần thứ 3') emphasizes mockery, targeting LGBTQ+ identity in a derogatory and dismissive manner."
+    },
+    {
+        "text": "nghe gì mấy thg không biết phân biệt đến rồng đông tượng chưng cho nét đẹp uy nghiêm trên thiên cung lại đi nhầm với mấy con rồng tây thằn lằn có cánh :)) m có dùng cái đầu để nói chuyện không em",
+        "category": "religion",
+        "id": "religion_14412",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu sử dụng từ ngữ miệt thị ('thg'), giọng điệu mỉa mai (':))') và đặt câu hỏi mang tính xúc phạm trí thông minh của người nghe ('m có dùng cái đầu để nói chuyện không'). Mục đích là công kích và hạ thấp đối phương hơn là thảo luận về văn hóa.",
+        "toxicity_mistral_reason": "The text contains derogatory language and cultural insensitivity. The phrase 'mấy con rồng tây thằn lằn có cánh' (Western dragons with wings like lizards) is a derogatory reference to Western dragons, implying they are inferior or less majestic compared to Eastern dragons. The use of the phrase 'm có dùng cái đầu để nói chuyện không em' (do you use your head to talk, em?) is sarcastic and dismissive, implying that the person being addressed is not intelligent or capable of rational thought. The overall tone is mocking and disrespectful, targeting a cultural and intellectual aspect of the person.",
+        "toxicity_qwen_reason": "The text uses derogatory language ('mấy thg', 'có dùng cái đầu để nói chuyện không em') to insult and mock others for not knowing a cultural distinction. The sarcastic tone and condescending phrasing (':)') express disdain and belittle the audience, promoting negative and hostile communication."
+    },
+    {
+        "text": "trời phật ơi cái đám cu tăng chim ni nó nhí nhố ở chùa 3 đốm, 3 vàng nè!",
+        "category": "religion",
+        "id": "religion_29113",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu sử dụng từ ngữ miệt thị 'cu tăng chim ni' (biến thể của 'cù lần' mang tính chê bai) và 'nhí nhố' để mô tả hành động tại một địa điểm tôn giáo ('chùa'), thể hiện thái độ coi thường, chế giễu, thiếu tôn trọng không gian và có thể là những người thực hành tôn giáo tại đó.",
+        "toxicity_mistral_reason": "The text uses derogatory language to describe monks ('cu tăng chim ni') and implies they are lazy or unproductive ('nhí nhố'). The phrase '3 đốm, 3 vàng' is a play on words that suggests they are only interested in receiving offerings and money, which is disrespectful and mocking towards the monks and the Buddhist community.",
+        "toxicity_qwen_reason": "- 'Cu tăng chim ni' là cách nói chế giễu, xúc phạm tu sĩ Phật giáo (tăng ni). \n- 'Chùa 3 đốm, 3 vàng' là cách gọi méo mó, mang tính mỉa mai một cơ sở tôn giáo. \n- Ngữ cảnh sử dụng mang tính thô lỗ, thiếu tôn trọng tôn giáo và những người tu hành, thể hiện thái độ miệt thị, chế giễu. \n→ Đây là lời nói độc hại dưới hình thức sử dụng teen-code và tiếng lóng để hạ thấp, bôi nhọ hình ảnh tôn giáo."
+    },
+    {
+        "text": "không có công giáo thì không có columbus(người công giáo)đi tìm ấn độ(thật ra là châu mỹ mà columbus nhầm nghĩ đó là ấn độ) mà châu mỹ sau này có thomas edison tạo ra đèn đầu tiên trên thế giới kiểu gì mày không biết kiến thức lịch sử này do mày làm gì chịu học sử đâu mà đòi hỏi",
+        "category": "religion",
+        "id": "religion_10982",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory language ('mày') and directly attacks the listener's knowledge and education with phrases like 'mày không biết' and 'mày làm gì chịu học sử đâu mà đòi hỏi'. It adopts a hostile, condescending tone that introduces negativity and personal blame, fitting the definition of toxic language.",
+        "toxicity_mistral_reason": "The text contains a mix of historical facts and sarcastic remarks that are used to belittle and mock the person being addressed. The phrase 'mày không biết kiến thức lịch sử này do mày làm gì chịu học sử đâu mà đòi hỏi' (you don't know this historical knowledge, what are you doing to learn history, and yet you demand) is particularly toxic as it is dismissive and condescending. The use of 'mày' (a derogatory term for 'you') and the sarcastic tone imply disrespect and mockery, making the overall tone of the comment toxic.",
+        "toxicity_qwen_reason": "Text sử dụng giọng điệu chế giễu, miệt thị người đối thoại bằng cách nói 'mày không biết kiến thức lịch sử này do mày làm gì chịu học sử đâu', kết hợp với cách diễn đạt thô ráp và thái độ coi thường. Mặc dù có chứa thông tin lịch sử, nhưng mục đích không phải để chia sẻ kiến thức mà để hạ thấp người khác, thể hiện sự thiếu tôn trọng và mang tính công kích cá nhân."
+    },
+    {
+        "text": ">mà thể thao nữ là sao bạn nhỉ, trên đấu trường quốc tế này kia đa dạng và gần như môn nào hai giới cũng điều tham gia mà tính trung bình, thể trạng của đàn ông là mạnh mẽ và trâu bò hơn phụ nữ. để ví von, ông cứ nghĩ là ông 2x tuổi đi thì đánh vần với bọn mẫu giáo. việc mấy ông \"tự xưng là trans\" rồi thi đấu trong thể thao nữ, đấu lại các vận động viên nữ khác, nó cũng tệ như thế =)) thôi được rồi, nó ko tệ đến thế. nhưng dân mạng quốc tế thì rần rần chia phe",
+        "category": "sexism",
+        "id": "sexism_1967",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Comment uses dismissive language ('tự xưng là trans') to invalidate transgender identities and makes a demeaning analogy comparing transgender women in sports to adults competing against kindergarteners, perpetuating discrimination and expressing disrespect.",
+        "toxicity_mistral_reason": "The text contains derogatory language and stereotypes about transgender individuals, comparing them to kindergarteners and implying they are not legitimate athletes. The use of 'tự xưng là trans' (self-identifying as trans) is dismissive and demeaning. The text also perpetuates harmful stereotypes about the physical capabilities of women in sports, which is toxic and discriminatory.",
+        "toxicity_qwen_reason": "Có thái độ mỉa mai, coi thường khi nói về vận động viên chuyển giới ('ông 2x tuổi đánh vần với mẫu giáo', '=))'), đồng thời thể hiện định kiến rõ ràng về giới và sự phân biệt đối xử khi cho rằng người chuyển giới thi đấu ở nội dung nữ là 'tệ'. Dù không dùng từ thô tục, nhưng giọng điệu thiếu tôn trọng và mang tính xúc phạm cộng đồng chuyển giới, đặc biệt trong bối cảnh nhạy cảm về quyền lợi và sự công bằng trong thể thao."
+    },
+    {
+        "text": "thế mày nghĩ mấy việc như rửa ô tô, sửa chữa đồ điện, hút bụi, bê vác, sửa đường nước, dọn kho, nâng cấp thiết bị, đấu điện, lau quạt trần, sửa điều hòa, sửa nhà là việc của ai? việc của con chó con mèo trong nhà à? còn mày nghĩ đàn ông ngày nay đéo biết nấu ăn bắt vợ nấu á? đàn ông ngày nay đéo biết nấu ăn thì đến đàn ông với nhau nó còn khinh cho.",
+        "category": "sexism",
+        "id": "sexism_2167",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Sử dụng ngôn ngữ thô tục ('đéo'), xưng hô xúc phạm ('mày'), và có giọng điệu công kích, hằn học. Mặc dù nội dung bàn về vai trò giới, cách diễn đạt chứa sự miệt thị (so sánh công việc với 'việc của con chó con mèo') và gây thù địch trong tranh luận.",
+        "toxicity_mistral_reason": "The text uses derogatory language and stereotypes to belittle and mock men. It implies that men are only good for manual labor and not for domestic tasks like cooking, which is a form of gender-based discrimination and disrespect. The phrase 'đàn ông ngày nay đéo biết nấu ăn' (men these days don't know how to cook) is particularly offensive as it perpetuates a harmful stereotype and is used to ridicule men. Additionally, the phrase 'đến đàn ông với nhau nó còn khinh cho' (men together still despise) suggests a derogatory attitude towards men, implying they are incapable and unworthy.",
+        "toxicity_qwen_reason": "The text uses aggressive and confrontational language (e.g., 'mày nghĩ... đéo biết', 'nó còn khinh cho') with a hostile tone. It generalizes and mocks men who don’t cook, implying they are looked down upon even by other men, which fosters negativity and gender-based stereotyping. Phrases like 'việc của con chó con mèo' devalue labor and use animal comparison as an insult, adding to the demeaning tone. The overall expression promotes contempt rather than constructive dialogue."
+    },
+    {
+        "text": "ủa mấy ông. mấy ông ko thuộc 5 điều bác hồ dạy à. tôi người đạo phật mà cảm thấy tội cho các bạn công giáo. hành động mấy ông là đag chia rẻ đất nc đấy😇(ykr)",
+        "category": "religion",
+        "id": "religion_12601",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu nói sử dụng '5 điều Bác Hồ dạy' làm thước đo đạo đức để buộc tội một nhóm người (mấy ông) có hành động 'chia rẽ đất nước'. Dù bề ngoài thể hiện sự 'thương cảm' cho người Công giáo, nó thực chất là một lời buộc tội nghiêm trọng, gán ghép hành vi của một nhóm với tội phản quốc, tạo ra sự chia rẽ và kỳ thị ngầm giữa các nhóm tôn giáo và những người không tuân thủ một chuẩn mực chính trị - đạo đức cụ thể. Emoji 😇 và '(ykr)' có thể mang hàm ý mỉa mai, làm tăng tính chất công kích và thiếu tôn trọng.",
+        "toxicity_mistral_reason": "The text contains derogatory language and religious bias. The phrase 'mấy ông' is used in a dismissive and disrespectful manner, targeting a group of people. The reference to '5 điều bác hồ dạy' (the five commandments of Hồ Chí Minh) is used sarcastically to mock and belittle the beliefs of a specific religious group, implying that they are not following these principles. The use of 'đag chia rẻ đất nc' (a derogatory term for land division) further adds to the negative and hostile tone, suggesting that the actions of the group are divisive and harmful. The emoji 😇 (angel) is used ironically, adding to the mocking tone. Overall, the text is toxic due to its disrespectful and derogatory language, religious bias, and hostile intent.",
+        "toxicity_qwen_reason": "The comment uses religious identity to create division, implying that Catholic people (công giáo) are being pitied by Buddhists (người đạo Phật) and falsely accusing others of 'chia rẽ đất nước' (dividing the nation). The tone is accusatory and promotes inter-religious tension. The use of 'tôi người đạo Phật mà cảm thấy tội cho các bạn công giáo' positions one religion as morally superior, which is a form of implicit religious discrimination. The angel emoji (😇) and '(ykr)' add a sarcastic, self-righteous tone, undermining its seemingly peaceful appearance."
+    },
+    {
+        "text": "ăn bám kiếm free meal m nghĩ dễ à? m nghĩ phụ nữ làm vậy được bao lâu? rồi chăm chút bản thân để ưng mắt mấy thằng nhà giàu, bộ đéo tốn tiền à? người ta có 1 cái objective là đổi đời thì đéo có gì là nhục cả, ít ra nó còn tiến lên đê đc ngồi trong con maybach. còn mày lên reddit ngồi bình phẩm. hết thời phong kiến rồi thằng loser à, giờ không biết ga lăng, không biết tôn trọng phụ nữ thì sau này đéo có vợ con đâu.",
+        "category": "sexism",
+        "id": "sexism_156",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Text contains profanity ('đéo'), direct insults ('thằng loser'), and aggressive personal attacks, creating a hostile and disrespectful tone.",
+        "toxicity_mistral_reason": "The text contains multiple toxic elements. It uses derogatory language and stereotypes, targeting individuals based on their actions and gender. The phrase 'bám kiếm free meal' implies taking advantage of others, and 'người ta có 1 cái objective là đổi đời' suggests that people who seek to improve their lives are doing something shameful. The text also includes insults such as 'thằng loser' and 'đéo có vợ con' which are directed at individuals, implying they are failures. The overall tone is disrespectful, mocking, and demeaning, promoting negativity and hostility.",
+        "toxicity_qwen_reason": "The text uses aggressive, derogatory language such as 'thằng loser', 'đéo có gì là nhục cả', and 'mày', showing clear contempt and hostility toward the target. It mocks and belittles individuals who comment on social behaviors, particularly women's choices in relationships, using classist implications (e.g., aiming to ride in a Maybach) and making sweeping, stereotypical claims. The tone is confrontational, sarcastic, and promotes divisiveness based on gender and socioeconomic status, which constitutes emotionally charged and toxic discourse."
+    },
+    {
+        "text": "nữ quyền phương tây tạo ra để kiểm soát châu á và những nước arab, khi vai trò của đàn ông suy yếu đi thì dễ thỏa hiệp hơn. nếu chỉ tính châu á thì xưa nữ vẫn được đi học \"cầm kỳ thi họa\", vai trò của nữ vốn tạo hóa là không phải để đi làm nhiều việc như đàn ông vì họ còn sinh con và có chu kỳ kinh nguyệt gây mệt mỏi, nhưng nay thì họ vừa phải sinh con vừa phải đi làm lại trong vài tháng.",
+        "category": "sexism",
+        "id": "sexism_534",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text promotes harmful gender stereotypes by claiming women's primary role is biologically determined (childbirth, menstruation), framing feminism as a foreign control tool, and implying gender inequality is natural. This demeans women's capabilities and agency, reinforcing discriminatory views under the guise of cultural or biological analysis.",
+        "toxicity_mistral_reason": "The text contains derogatory statements about Western feminism, implying it is a tool to control Asia and Arab countries. It also perpetuates stereotypes about women's roles, suggesting that women are naturally less capable of working due to biological factors. The text is dismissive and disrespectful towards feminist movements and women's abilities, making it toxic.",
+        "toxicity_qwen_reason": "The text promotes harmful gender stereotypes by claiming women are biologically unsuited for work due to menstruation and childbearing, and frames Western feminism as a tool of control over Asian and Arab societies. It dismisses women’s agency, perpetuates sexist views, and undermines gender equality efforts, creating a hostile narrative against women’s rights and feminist movements."
+    },
+    {
+        "text": "phong trào nào cũng có cao trào vs thoái trào thôi. ở thời điểm cao trào thì sẽ xuất hiện 2 tư tưởng cực kì cực đoan đấu đá chửi nhau là chính, như trường hợp này thì chắc là apha mêu vs wu mần các thứ. tới gđ thoái trào thì sẽ dần ổn định hơn, ít chửi nhau hơn và mn cũng chả thèm care nữa đâu. bạn chả làm j để đẩy nhanh tiến độ đc, từ từ nó tới thôi, vd như vn mấy chục năm trước ai cũng kết hôn sinh con rất sớm, h kết hôn muộn thậm chí độc thân chả ai nói ra nói vào nhiều nx.",
+        "category": "sexism",
+        "id": "sexism_523",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận này mang tính phân tích xã hội một cách khách quan, nêu lên quy luật 'cao trào - thoái trào' của các phong trào. Tác giả không sử dụng ngôn từ công kích, miệt thị hay nhắm vào bất kỳ cá nhân/nhóm cụ thể nào. Các cụm từ 'alpha mêu', 'wu mần' là cách viết biến tấu (meme/teen code) nhưng trong ngữ cảnh này chỉ để chỉ các tư tưởng cực đoan nói chung, không mang hàm ý xúc phạm. Giọng điệu trung lập, có tính giải thích và an ủi ('bạn chả làm j... từ từ nó tới thôi').",
+        "toxicity_mistral_reason": "The text discusses the natural cycle of movements and trends, comparing it to the rise and fall of extreme ideologies. It uses examples of historical and social changes, such as marriage trends in Vietnam, to illustrate the point. The language is neutral and does not directly attack or insult any individual or group. The tone is informative and reflective, without any explicit or implicit toxicity.",
+        "toxicity_qwen_reason": "Text discusses social trends in a neutral, observational manner, using general terms like 'pha mêu vs wu mần' as colloquial or slang references to polarized viewpoints without directly insulting anyone. It compares current online conflicts to natural cycles of social movements and draws a parallel with changing marriage norms in Vietnam to illustrate gradual societal change. The tone is reflective and sociological rather than hostile or demeaning. No targeted attacks, profanity, or toxic intent is evident."
+    },
+    {
+        "text": "mày thấy phụ nữ làm ở công trường rồi mày thấy tỉ lệ bao nhiêu giữa phụ nữ và nam giới? đc 3 phần 10 ko? h hết lý do đẻ đái rồi lôi bạo hành gia đình ra à? thế có thấy những vụ con vợ vì ghét thằng chồng, vì có thằng bồ mới,..... rồi đập thằng chồng ra bã, thập chí còn tìm cách chuốc thuốc giết thằng chồng ko? có thấy những vụ thằng chồng đi làm tối ngày sáng đêm để đem tiền về nuôi vợ con mà con vợ ở nhà bồ bịch, bỏ bê con cái khiến thằng chồng khổ não mà tự tử ko? có vợ hay ko có vợ, rồi sao? thằng có vợ biết mọi thứ còn thằng ko vợ đéo biết gì? ý mày là vậy? tư duy con cặc gì vậy? coi có giống mấy thằng nhõi con mới lớn tỏ vẻ ta đây ko? chính mày là thằng giãy đành đạch lên nói phụ nữ khổ hơn đàn ông. đụ con mẹ, người ta nói đàn ông sống hard mode thì mày giãy đành đạch lên đéo chịu, kể lể phụ nữ thế này thế kia, lôi chuyện đẻ đái chết chóc ra trong khi đéo ai bảo phụ nữ hoàn toàn sung sướng.",
+        "category": "sexism",
+        "id": "sexism_1899",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Văn bản sử dụng ngôn ngữ tục tĩu, lăng mạ nghiêm trọng ('con cặc', 'đụ con mẹ'), có giọng điệu công kích, chế giễu và gán ghép tiêu cực cho người đối thoại ('tư duy con cặc', 'giãy đành đạch'). Nó thể hiện sự thù địch rõ ràng và tạo ra không khí tranh luận căng thẳng, thiếu tôn trọng, bất chấp việc có đề cập đến các vấn đề xã hội.",
+        "toxicity_mistral_reason": "The text contains derogatory language, insults, and aggressive tone. It uses phrases like 'tư duy con cặc gì vậy?' and 'đụ con mẹ' which are highly offensive and disrespectful. The text also includes derogatory references to women and men, and it mocks and dismisses the struggles of both genders. The overall tone is hostile and disrespectful, making it toxic.",
+        "toxicity_qwen_reason": "Text contains aggressive, vulgar language (e.g., 'tư duy con cặc', 'đụ con mẹ'), mocking tone, and hostile dismissal of women's issues while exaggerating men's suffering. It uses rhetorical questions to belittle others' perspectives, promotes gender conflict, and includes profanity to express contempt. The overall tone is confrontational, disrespectful, and emotionally charged, aiming to demean opposing views rather than engage constructively."
+    },
+    {
+        "text": "nó chỉ giả lập thui , chứ gặp dzone là chạy có cờ ngay ! thời nay wánh nhau bằng tên lửa mờ phẻ hay khum phẻ có nghĩa lý mẹ gì !",
+        "category": "sexism",
+        "id": "sexism_290",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Sử dụng ngôn ngữ mang tính khinh miệt ('giả lập', 'chạy có cờ ngay') và câu kết có từ ngữ thô tục ('nghĩa lý mẹ gì') để hạ thấp/chế giễu đối tượng được nói đến, tạo ra sự thù địch và thiếu tôn trọng trong giao tiếp.",
+        "toxicity_mistral_reason": "The text uses derogatory language and implies cowardice and disrespect. The phrase 'gặp dzone là chạy có cờ ngay' suggests running away in fear, and 'wánh nhau bằng tên lửa mờ phẻ hay khum phẻ có nghĩa lý mẹ gì' is a derogatory and disrespectful statement, implying that the use of weapons or threats is meaningless and disrespectful.",
+        "toxicity_qwen_reason": "The phrase 'chạy có cờ ngay' (run immediately, even dropping your flag) is a mocking expression implying cowardice. The addition of 'có nghĩa lý mẹ gì' (what the fuck does it matter) includes profanity ('mẹ gì') and displays aggressive, dismissive tone. The statement ridicules the idea of combat and indirectly belittles those who engage in or support such activities, showing disrespect and using vulgar language."
+    },
+    {
+        "text": "với tao , một đứa con gái hiểu thế nào là nữ quyền sẽ không lải nhải về nữ quyền . nếu nó lải nhải và nói người khác đã sai , họ không hiểu những gì nó hiểu thì chứng tỏ nó cũng chẳng hiểu gì về họ . những người muốn thể hiện rằng bản thân mình đặc biệt đầu tiên phải tự nhận thức được bản thân mình khác biệt ! (nói thẳng ra là quái dị , khác người) người khác đi bộ trong lề thì tao đang đi giữa lộ , người ta đi đúng chiều làn xe con thì tao đi ngược chiều làn xe khách ,... chứ cái kiểu mà nữ quyền rởm đòi hỏi này kia nhưng bắt người khác phải xem chuyện đó là bình thường thì tao cũng chỉ có thể nói một từ thôi : \"woman ☕\"",
+        "category": "sexism",
+        "id": "sexism_532",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng giọng điệu châm biếm, miệt thị ('nữ quyền rởm', 'quái dị, khác người') và kết thúc bằng meme 'woman ☕' mang tính chế giễu phụ nữ nói chung. Nó phủ nhận và công kích những người đấu tranh cho nữ quyền, tạo ra sự chia rẽ và thể hiện thái độ thiếu tôn trọng.",
+        "toxicity_mistral_reason": "The text contains derogatory language and mocks the concept of feminism. The phrase 'woman ☕' is a derogatory term used to belittle and dismiss feminist ideas. The text also implies that those who advocate for feminism are 'quái dị' (strange or abnormal) and 'khác người' (different from others), which is offensive and dismissive. The overall tone is mocking and disrespectful towards feminist views.",
+        "toxicity_qwen_reason": "The text uses mocking and derogatory language toward feminist discourse, labeling advocates of gender equality as 'fake feminists' (nữ quyền rởm) and implying they are overly vocal and unreasonable. The phrase 'woman ☕' mimics a dismissive internet meme pattern (similar to 'not like other girls' tropes) to belittle women who speak about gender rights, using sarcasm and trivialization. The tone is contemptuous, promotes a negative stereotype of feminists as 'abnormal' or 'quái dị', and frames assertiveness as deviance, which contributes to hostility toward a social group advocating for equality."
+    },
+    {
+        "text": "dễ hiểu thội: phần lớn bọn nái sẽ theo đực trội! không chỉ nái mà lũ homo theo đực trội, hay còn gọi là:\" giai trò lãnh đạo\" hoặc **alphal** &gt;tại sao con gái trong tư tưởng nó luôn thích công an, quân đội, dân some trổ, làm nghề dịch vụ xã hộ nên chả có gì ngạc nhiên khi cấp 2, cấp 3 thì mấy bé gái thành \"bình chứa tôn\" cho \"côn.an, quân đội, dân some trổ, làm nghề dịch vụ xã hộ\"",
+        "category": "sexism",
+        "id": "sexism_317",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses derogatory slang ('bọn nái', 'lũ homo') and objectifying language ('bình chứa tôn') to demean women and LGBTQ+ individuals, perpetuating harmful stereotypes and promoting discrimination based on gender and sexual orientation.",
+        "toxicity_mistral_reason": "The text contains derogatory language and stereotypes targeting women and the LGBTQ+ community. It uses phrases like 'bọn nái' (group of females) and 'lũ homo' (group of homosexuals) in a derogatory manner, implying that they follow dominant males. The text also uses the term 'bình chứa tôn' (a derogatory term for a person who is easily manipulated or controlled) in a way that suggests women are submissive and easily controlled by men in positions of authority. The use of the term 'côn.an, quân đội, dân some trổ, làm nghề dịch vụ xã hộ' further reinforces stereotypes and negative perceptions about women and LGBTQ+ individuals.",
+        "toxicity_qwen_reason": "Ngôn ngữ mang tính miệt thị, phân biệt đối xử và suy giảm nhân phẩm. Cách dùng từ như 'bọn nái', 'lũ homo', 'bình chứa tôn' là thô lỗ, phi nhân tính, đồng thời thể hiện định kiến mạnh mẽ về giới, xu hướng tính dục và nghề nghiệp (như công an, quân đội, dân 'some trổ', nghề dịch vụ xã hội'). Câu nói cổ súy cho định kiến gái trẻ 'phải' theo đuổi người có quyền lực, đồng thời miệt thị cộng đồng LGBTQ+ và các nhóm xã hội khác. Đây là nội dung độc hại, kích động phân biệt đối xử và hạ thấp con người."
+    },
+    {
+        "text": "không có quay lại gì hết. tui đã từng quen thể loại này và nó chỉ làm tui đi từ stress này đến stress khác. lúc nào ẻm cũng đóng vai nạn nhân, vì lý do này abcd nên êm mới làm vậy, rồi nào là “nhìn người yêu của người ta kìa, thấy chưa?” lúc chia tay xong thấy cuộc đời sang hẳn trang mới .",
+        "category": "sexism",
+        "id": "sexism_2025",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Văn bản là lời chia sẻ cá nhân về trải nghiệm mối quan hệ trong quá khứ, diễn đạt sự căng thẳng (stress) và cảm giác nhẹ nhõm sau khi chia tay. Ngôn ngữ sử dụng (như 'thể loại này', 'đóng vai nạn nhân') mang tính mô tả và chủ quan, không chứa lời lẽ xúc phạm, đe dọa, kỳ thị, hoặc chế giễu có hệ thống nhằm vào một cá nhân/nhóm cụ thể nào. Đây là biểu đạt cảm xúc cá nhân một cách trực tiếp và trung lập.",
+        "toxicity_mistral_reason": "The text expresses frustration and disappointment with a relationship, but it does not target any individual or group with insults, threats, or derogatory language. The tone is reflective and personal, focusing on the speaker's own experiences and emotions. There are no implicit or explicit signals of toxicity.",
+        "toxicity_qwen_reason": "The text expresses personal experience and emotional reflection about a past relationship, describing feelings of stress and relief after breakup. It criticizes an ex-partner's behavior (playing the victim, comparisons) but does so without offensive language, slurs, or targeted insults. The tone is retrospective and critical, but remains within the bounds of respectful self-expression."
+    },
+    {
+        "text": "có lând 1 ắt có lần 2, cho cút luôn đi bro đàn bà gặp phải đàn ô dễ dãi là chúng nó bị nhờn đấy, nó ko bào giờ chịu phận đi xin lỗi trong nhục nhã đâu. ăn bám nốt r im ỉm tìm mối khác r lại dựng chuyện ct cho coi",
+        "category": "sexism",
+        "id": "sexism_747",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses aggressive language ('cút luôn'), makes demeaning generalizations about women ('đàn bà... chúng nó bị nhờn'), and promotes a hostile, disrespectful attitude towards a gender group, fitting the definition of toxic content.",
+        "toxicity_mistral_reason": "The text contains derogatory language and negative stereotypes about women. It uses phrases like 'đàn bà gặp phải đàn ô dễ dãi là chúng nó bị nhờn đấy' which implies that women are easily taken advantage of and are submissive. The text also includes 'nó ko bào giờ chịu phận đi xin lỗi trong nhục nhã đâu' which suggests that women should apologize in a humiliating manner. The overall tone is disrespectful and demeaning towards women, making it toxic.",
+        "toxicity_qwen_reason": "The text uses derogatory and dehumanizing language toward women ('đàn bà', 'ăn bám', 'bị nhờn', 'dựng chuyện'), portraying them as manipulative and morally inferior. It generalizes and shames women who are in relationships, implying they are inherently deceitful and lack dignity. The tone is hostile, misogynistic, and perpetuates harmful gender stereotypes, which constitutes emotional and verbal toxicity."
+    },
+    {
+        "text": "ý mày nói là bọn con trai về sau sẽ bú cu giảng hòa mỗii khi đụng chuyện thay vì để dao làm chiệng của tao như thằng wowy à !",
+        "category": "sexism",
+        "id": "sexism_820",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text contains highly vulgar language ('bú cu'), disrespectfully refers to an individual ('thằng wowy'), and uses a mocking, aggressive tone to target a group. It promotes offensive stereotypes and is hostile in nature.",
+        "toxicity_mistral_reason": "The text contains derogatory language and implies violence. The phrase 'bọn con trai' (group of boys) is used in a disrespectful manner, and the mention of 'bú cu' (sucking breast) and 'đao làm chiếng' (knife fight) suggests aggressive and harmful behavior. The tone is mocking and disrespectful, targeting a group negatively.",
+        "toxicity_qwen_reason": "The text uses vulgar and sexually explicit language ('bú cu', 'đao làm chiệng') in a mocking and aggressive tone to ridicule a behavior in conflict resolution, comparing it to the rapper Wowy in a demeaning way. The phrasing is deliberately offensive and degrading, promoting toxic masculinity and using crude imagery to insult."
+    },
+    {
+        "text": "nhiều chỗ nó đ' tuyển nữ đâu m, đẻ đái thai sản 6 tháng + 6 tháng đi muộn tạo điều kiện. tất nhiên đều là đi làm có hợp đồng đàng hoàng, đóng bảo hiểm mức thấp... t không có chê, nhưng t thấy m đang áp đặt ý kiến trong khi m chưa đủ cọ xát kinh nghiệm về mặt bằng việc làm thời điểm hiện tại. riêng cái câu đẻ \"rặn dễ\" t đã thấy buồn cười r. \"chửa là cửa mả\" nhé, câu cửa miệng của các cụ. m đ' biết cái cảnh 3 tháng cuối thai kỳ uống 1 cốc là đi đái 1 cốc, đi lại dạng háng như sumo thượng đài. con mụ cùng chỗ làm cũ cách đây 2 năm, lên bàn đẻ băng huyết máu tồng tộc, có thời điểm huyết áp = 0, suýt chết. giờ vẫn bị hậu sản đau lưng rụng hói cả tóc. *đm, chỗ t làm đóng bhxh đủ mức, nên tụi nó thi nhau lần lượt đẻ, lúc đ' nào cũng có 1 con bầu (bầu nghiêm túc nhé đ' phải chơi vớ vẩn). đợt vừa rồi cắt giảm, hr méo mặt để đá hết mấy đứa nữ \"có khả năng đẻ\" đi. giờ toàn đực rựa và lũ con 3-4 tuổi.* đm đi làm mà đồng nghiệp chửa đẻ vừa thông cảm vừa bực mình vướng việc vkl, mà đ' khác đc vì 1 thời mẹ/cô/chị trong nhà cũng thế và sau này vợ cũng sẽ như thế. giờ nữ 25-30t đã lấy chồng mà chưa kịp đẻ là cty nó đẩy cmn đi luôn. mùa này cắt giảm, cty nó dí lol vào \"nữ quyền\". **sếp nữ chỉ thị xuống nhé, tởm máu lạnh ko?** m đừng nhắc đến chuyện chăm con. nghe là t biết m đ' đủ tuổi. *vú sề mà dễ à ? tắc sữa m 1 phát là đến lượt m mút đến trợn mắt ra nhé. ko đc thì phải đưa vợ m vào viện chọc thông sữa, ko là nó viêm nhiễm trùng tuyến sữa, vợ m sốt đùng đùng giật như cá giẫy nhé.* non lắm tml ạ. m nói chăm con dễ thì tự ngẫm lại m chui từ lỗ nào mà ra ? mẹ của con m mà mày coi nó như rác thì xác định nó đi kiếm buoi thằng khác luôn nhé. m nghĩ bố vợ m ko có khả năng đập m lòi kèn ra chắc? thôi, khen ông có lòng khoe chữ. nhưng nói thật đừng tự ái chứ ông viết thế là sai/ phiến diện bỏ moẹ. bớt xem redpill vừa thôi. giờ nam hay nữ cơ hội việc tuỳ theo chỗ. có kara nào tuyển vịn nam ko? có sở điện nào tuyển nữ đi leo cột ko? giờ móm hết nhé, đ' tìm đc việc.",
+        "category": "sexism",
+        "id": "sexism_463",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment contains extensive profanity, insults, and aggressive language directed at the listener ('m'), including threats and demeaning remarks. It uses vulgar terms, hostile tone, and graphic descriptions to criticize, which qualifies as toxic under the definition of harsh, disrespectful, or abusive content.",
+        "toxicity_mistral_reason": "The text contains derogatory language and stereotypes about women, particularly those who are pregnant or have children. It also includes insensitive and mocking comments about the challenges of pregnancy and child-rearing, such as 'đẻ rặn dễ' and 'chửa là cửa mả'. The text also mocks the difficulties of breastfeeding and the physical changes during pregnancy, implying that women are a burden in the workplace. Additionally, it uses derogatory terms and phrases to describe women, such as 'đm' and 'lũ con 3-4 tuổi', and implies that women are less capable or less desirable in the workplace. The text also contains personal attacks and insults, such as 'tắc sữa m 1 phát là đến lượt m mút đến trợn mắt ra nhé' and 'm nghĩ bố vợ m ko có khả năng đập m lòi kèn ra chắc?'. The overall tone is hostile, disrespectful, and demeaning towards women, making it toxic.",
+        "toxicity_qwen_reason": "Text contains aggressive, vulgar language (e.g., 'đm', 'đập m lòi kèn', 'tụi nó thi nhau lần lượt đẻ'), derogatory generalizations about women (e.g., blaming female employees for being a burden due to pregnancy), mocking of serious health issues related to childbirth, and hostile sarcasm toward both genders. While it discusses real workplace challenges, the tone is emotionally charged, disrespectful, and uses strong profanity and dehumanizing metaphors. The intent is confrontational and belittling, especially toward the interlocutor, implying ignorance and attacking personal identity. This constitutes explicit and implicit toxicity."
+    }
+]

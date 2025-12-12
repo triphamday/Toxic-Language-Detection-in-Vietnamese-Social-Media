@@ -1,0 +1,13 @@
+[
+    {
+        "text": "tuỳ cái phụ nữ mà mày đang nói là ai? chỉ là bồ mày chơi cho sướng cu hay mẹ của con mày. nếu mày xác định bồ chơi rồi bỏ thì mày đối xử sao mà ko được. nhưng nếu nó là mẹ của con mày, hoặc con gái của mày. hoặc xa hơn là chị, là dì, là mẹ mày thì trừ cái 3,4 ra mày có thấy mấy cái còn lại có hợp lý không? thời đại này không phải tôn vinh phụ nữ vô điều kiện. thời đại này là thời đại mà đàn ông nhận ra giá trị và sức mạnh của mình. khi mày nhận ra 2 cái đó, tự mày sẽ đặt bản thân mày vào đúng chỗ. và tôn trọng phụ nữ là điều mà một thằng đàn ông phải thấy là đúng đắn. chứ không phải bitching về thứ mà đàn bà đáng ra phải được hưởng.",
+        "category": "sexism",
+        "id": "sexism_1046",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Text contains vulgar and objectifying language (e.g., 'chơi cho sướng cu'), disrespectful terms for women, and an aggressive tone that demeans women while promoting toxic masculinity. It uses profanity and harsh expressions that introduce hostility and negativity into the discussion.",
+        "toxicity_mistral_reason": "Bình luận này thể hiện quan điểm cá nhân về vai trò giới và sự bảo vệ, không chứa ngôn từ xúc phạm, công kích hay phân biệt đối xử. Mặc dù có thể có yếu tố định kiến giới truyền thống ('muốn có một người đàn ông bảo vệ'), nhưng nó không mang tính chất thù địch, hạ thấp hay gây tổn thương cho bất kỳ nhóm nào. Ngữ điệu trung lập, không có từ ngữ tục tĩu hay ác ý.",
+        "toxicity_qwen_reason": "Bình luận thể hiện quan điểm cá nhân về mong muốn được bảo vệ như một người phụ nữ, dù có thể mạnh mẽ. Ngôn ngữ trung lập, không miệt thị, không đe dọa hay phân biệt đối xử. Câu cuối mang tính gợi ý sự phân công nhiệm vụ xã hội một cách nhẹ nhàng, không mang tính công kích hay độc hại."
+    }
+]

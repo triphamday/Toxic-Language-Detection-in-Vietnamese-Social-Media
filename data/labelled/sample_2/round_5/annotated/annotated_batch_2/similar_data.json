@@ -1,0 +1,533 @@
+[
+    {
+        "text": "cayy 🗿",
+        "category": "lgbtq",
+        "id": "lgbtq_27818",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'cayy 🗿' uses Vietnamese internet slang for mild frustration ('cayy' meaning 'salty' or annoyed) paired with a stoic or humorous emoji (🗿), conveying a casual, non-aggressive tone without targeting any individual or group, and lacks toxic elements like insults, hate speech, or hostility.",
+        "toxicity_mistral_reason": "The text 'cayy 🗿' is a casual, informal expression using teen-code ('cayy' as a playful elongation of 'cay' or 'cay cú' meaning salty/annoyed) and the 🗿 emoji, which is often used humorously or neutrally in Vietnamese online culture to convey indifference or a deadpan reaction. There is no insult, mockery, or hostility directed at any individual or group, nor does it contain profanity or discriminatory language.",
+        "toxicity_qwen_reason": "The text 'cayy 🗿' uses slang 'cayy' (meaning frustration or irritation, similar to 'salty') and the emoji 🗿 (Moai, often expressing stoic or unemotional endurance). While it conveys mild frustration, there is no target, insult, profanity, or intent to harm. It remains within the bounds of non-toxic expression, commonly used in casual online discourse without hostility."
+    },
+    {
+        "text": "đây là lưỡng giới chứ đéo phải les hẳn .kiểu người gì cũng chơi được .",
+        "category": "lgbtq",
+        "id": "lgbtq_798",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses profane language ('đéo') and makes a stereotype about bisexuals ('kiểu người gì cũng chơi được'), implying promiscuity or objectification, which is disrespectful and targets a group based on sexual orientation, introducing negativity and potential harm.",
+        "toxicity_mistral_reason": "The comment uses derogatory language ('đéo phải les hẳn') to dismiss and mock non-binary or bisexual identities ('lưỡng giới'). The phrase 'kiểu người gì cũng chơi được' implies promiscuity or indecency, reinforcing negative stereotypes about LGBTQ+ individuals. The tone is disrespectful and perpetuates discrimination.",
+        "toxicity_qwen_reason": "The statement uses derogatory language ('đéo') and mocks bisexuality or gender identity by reducing it to 'chơi được' (can sleep with anyone), showing disrespect toward LGBTQ+ identities. It perpetuates negative stereotypes and expresses judgment in a demeaning, vulgar tone."
+    },
+    {
+        "text": "phạm hiếu nghĩa phim set còn lịch sự hơn",
+        "category": "lgbtq",
+        "id": "lgbtq_12388",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses slang 'phim set' (implying pornographic content) to sarcastically mock the individual named Phạm Hiếu Nghĩa, suggesting association with vulgar material in a disrespectful and demeaning manner, which introduces negativity and disrespect.",
+        "toxicity_mistral_reason": "The comment implies that 'Phạm Hiếu' (likely referring to a person) is less polite or civilized than a 'phim set' (movie set), which carries a derogatory and mocking tone. The comparison is demeaning and suggests the person is rude or unrefined, making it toxic.",
+        "toxicity_qwen_reason": "The phrase 'phim set còn lịch sự hơn' implies that Phạm Hiếu Nghĩa's behavior or speech is less polite than that of a 'phim set' (slang for unsanitized, often low-quality or pornographic video clips). This is a direct insult questioning the person's decency and civility, using derogatory cultural reference to belittle them. The statement carries a mocking tone and is intended to humiliate."
+    },
+    {
+        "text": "cuộc đời thật ngắn ngủi và nhiều điều bất ngờ..chúng ta không thể lường trước được điều gì ngoài việc mỉm cười và đón nhận nó!",
+        "category": "lgbtq",
+        "id": "lgbtq_12053",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu nói mang tính triết lý nhẹ nhàng, khuyến khích thái độ lạc quan và chấp nhận những điều bất ngờ trong cuộc sống. Không chứa ngôn từ công kích, miệt thị, phân biệt đối xử hay bất kỳ yếu tố tiêu cực, gây hại nào. Giọng điệu trung lập và tích cực.",
+        "toxicity_mistral_reason": "Bình luận này thể hiện một thái độ tích cực, lạc quan và triết lý sống nhẹ nhàng về cuộc đời. Không có ngôn từ xúc phạm, châm biếm, hoặc mang tính công kích cá nhân hay nhóm nào. Ngữ điệu và ý nghĩa đều mang tính động viên, khuyến khích sự đón nhận và tận hưởng cuộc sống.",
+        "toxicity_qwen_reason": "Lời văn mang tính triết lý, tích cực, khuyến khích thái độ sống lạc quan, chấp nhận những bất ngờ trong cuộc sống. Không có nội dung miệt thị, chỉ trích, hay nhắm vào cá nhân, nhóm người nào. Ngữ điệu nhẹ nhàng, nhân văn và không mang hàm ý mỉa mai hay tiêu cực."
+    },
+    {
+        "text": "sẽ phát triển👍",
+        "category": "lgbtq",
+        "id": "lgbtq_18695",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'sẽ phát triển👍' translates to 'will develop' with a thumbs-up emoji, conveying a positive and encouraging tone. It contains no offensive language, slurs, mockery, or negative targeting, and aligns with neutral or supportive communication in Vietnamese context.",
+        "toxicity_mistral_reason": "The comment 'sẽ phát triển👍' translates to 'will develop👍' and expresses a positive, encouraging sentiment. The thumbs-up emoji reinforces support or approval. There is no harsh, disrespectful, or negative language, nor any implicit toxicity.",
+        "toxicity_qwen_reason": "The text 'sẽ phát triển👍' literally means 'will develop' with a thumbs-up emoji, indicating a positive and supportive sentiment. There is no offensive language, mockery, or negative implication in this expression. It is a neutral to positive statement without any toxic intent or cultural insensitivity."
+    },
+    {
+        "text": "chứ con trai các ng cũng yêu nhau hết r còn j 😒",
+        "category": "lgbtq",
+        "id": "lgbtq_18369",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng việc gán ghép xu hướng tính dục ('yêu nhau' giữa những người con trai) như một lời công kích, chế nhạo mang tính định kiến đối với một nhóm người. Ngữ điệu mỉa mai ('còn j') và biểu tượng cảm xúc 😒 thể hiện thái độ khinh thường, gây tổn thương và củng cố định kiến tiêu cực về cộng đồng LGBTQ+.",
+        "toxicity_mistral_reason": "The comment uses a dismissive and sarcastic tone ('chứ... còn j') to mock same-sex relationships among men, reinforced by the eye-roll emoji (😒). This perpetuates stereotypes and introduces negativity toward LGBTQ+ individuals, making it toxic.",
+        "toxicity_qwen_reason": "The statement uses sarcasm and derisive tone (with '😒') to mock male same-sex relationships, implying absurdity or contempt toward homosexuality. The phrase 'yêu nhau hết r còn j' dismisses or ridicules the idea of men loving each other, contributing to a negative stereotype about LGBTQ+ individuals, which constitutes toxic language."
+    },
+    {
+        "text": "ừ ngưỡng mộ một đất nước biết yêu thương và ủng hộ đồng bào thật sự rất ngưỡng mộ",
+        "category": "lgbtq",
+        "id": "lgbtq_30644",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses genuine admiration for a country's unity and support for compatriots, using positive and respectful language without any insults, sarcasm, or negative intent.",
+        "toxicity_mistral_reason": "The comment expresses admiration ('ngưỡng mộ') for a country that genuinely loves and supports its people ('yêu thương và ủng hộ đồng bào'). There is no insult, mockery, or negative intent toward any individual or group. The tone is positive and respectful.",
+        "toxicity_qwen_reason": "Lời bình luận thể hiện sự ngưỡng mộ đối với một đất nước biết yêu thương và ủng hộ đồng bào, với tông giọng tích cực và không hướng đến việc chế giễu hay công kích cá nhân, nhóm người nào. Không có ngôn ngữ tục tĩu, miệt thị hay ẩn ý tiêu cực. Dù có thể mang tính so sánh ngầm, nhưng không đủ để cấu thành ngôn ngữ độc hại."
+    },
+    {
+        "text": "xinh vd",
+        "category": "lgbtq",
+        "id": "lgbtq_2984",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'xinh vd' is a positive compliment, likely meaning 'very pretty/beautiful' (with 'vd' being an abbreviation or slang intensifier like 'vãi'). It expresses admiration without any hostile, disrespectful, or demeaning intent toward any individual or group.",
+        "toxicity_mistral_reason": "The comment 'xinh vd' is a phonetic approximation of 'xinh vl' (where 'vl' is a mild slang abbreviation for 'vãi lol' or 'vãi lồn,' a common intensifier in Vietnamese teen slang). While 'vl' can be vulgar in some contexts, here it is used as an exaggerated expression of admiration for someone's beauty ('xinh' means 'pretty'). There is no intent to insult, demean, or target anyone negatively. The tone is playful and complimentary rather than hostile or toxic.",
+        "toxicity_qwen_reason": "The phrase 'xinh vd' is a slang abbreviation where 'vd' likely stands for 'vãi đạn' – a casual intensifier meaning something like 'extremely' or 'crazy'. So 'xinh vd' means 'crazy beautiful'. While informal and using teen-code, it expresses a positive compliment without targeting anyone disrespectfully or using abusive language. There is no hostility, mockery, or derogatory intent detectable in this context."
+    },
+    {
+        "text": "bunny hoàng yến châu á có 3 nước đài loan, nepal, thái lan rồi em 😁",
+        "category": "lgbtq",
+        "id": "lgbtq_31352",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text lists Taiwan as a separate country, a politically sensitive statement that can provoke conflict and disrespect geopolitical norms in Vietnamese and international contexts. The tone with 'em 😁' may be patronizing or sarcastic, potentially mocking the recipient or introducing hostility into the discussion.",
+        "toxicity_mistral_reason": "The comment uses the term 'bunny' in a derogatory manner, often implying sexual objectification or mockery of women in the entertainment industry. The phrase 'có 3 nước đài loan, nepal, thái lan rồi em' is a crude and demeaning joke referencing sexual experiences, which is disrespectful and perpetuates harmful stereotypes. The emoji 😁 adds a tone of mockery, reinforcing the toxicity.",
+        "toxicity_qwen_reason": "The text uses 'Bunny Hoàng Yến Châu Á' sarcastically, implying mockery of the person's title or achievements. Listing only three countries—Taiwan, Nepal, Thailand—while omitting others, combined with the smiley emoji, carries a teasing and dismissive tone, potentially belittling her accomplishments or implying she is exaggerating her international presence. This kind of ridicule, especially around national representation or professional identity, constitutes indirect toxicity."
+    },
+    {
+        "text": "ước có cả việt nam thì tốt biết mấy",
+        "category": "lgbtq",
+        "id": "lgbtq_25991",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a hopeful wish for Vietnam's inclusion in a positive context, using respectful language with no offensive, abusive, or mocking elements. It maintains a neutral to friendly tone without targeting any individual or group negatively.",
+        "toxicity_mistral_reason": "The comment expresses a wish ('ước') for national unity or prosperity ('có cả Việt Nam'), which is a positive and patriotic sentiment. There is no insult, mockery, or negative targeting of any individual or group. The tone is neutral and aspirational.",
+        "toxicity_qwen_reason": "The statement expresses a wish for unity or inclusion of Vietnam (possibly implying overseas Vietnamese or a diaspora context) in a positive and nostalgic way. There is no insulting language, mockery, or targeting of any individual or group. The tone is hopeful and sentimental, without any toxic implications."
+    },
+    {
+        "text": "nếu có cơ hội được đi học thì mình nên gắng học thật tốt môn sinh học nhé em :)))",
+        "category": "lgbtq",
+        "id": "lgbtq_19372",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a positive and encouraging piece of advice to study biology, using a friendly tone with endearing terms and smileys, with no elements of toxicity such as insults, sarcasm, discrimination, or negativity.",
+        "toxicity_mistral_reason": "The comment is encouraging and supportive, advising someone to study biology well if given the opportunity. There is no harsh, rude, or disrespectful language, nor any implicit negativity or mockery. The tone is friendly and positive.",
+        "toxicity_qwen_reason": "The statement is a friendly and encouraging remark suggesting someone should study biology well if given the chance. The use of 'nhé em' and ':)))' conveys a warm, supportive tone. There is no insult, mockery, or negative intent present. It does not target any individual or group disrespectfully."
+    },
+    {
+        "text": "tôi thì tôi k thành kiến vs lgbt. như vct ấy thì ngưỡng mộ, muốn chúc phúc. chứ đôi này tôi thấy mẹ nào. đặc biệt là bà xn. rõ ràng trc cưới và yêu đàn ông như thường . cái chia tay quay ra chơi les ???? bộ giới tính linh loạt à. hay cú sốc chia tay nên quay ra chơi đàn bà cho bõ tức 🥲",
+        "category": "lgbtq",
+        "id": "lgbtq_371",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment superficially claims no prejudice against LGBT but proceeds to mock and invalidate a person's sexual orientation by suggesting it is not genuine and merely a reaction to breakup shock, using dismissive terms like 'chơi les' and trivializing language, which is disrespectful and perpetuates harmful stereotypes.",
+        "toxicity_mistral_reason": "The comment expresses disapproval and mockery toward a specific LGBTQ+ couple, particularly targeting one individual ('bà xn') with derogatory implications about their sexual orientation. Phrases like 'mẹ nào,' 'chơi les,' and the sarcastic questions ('bộ giới tính linh loạt à,' 'hay cú sốc chia tay nên quay ra chơi đàn bà cho bõ tức') convey judgment, ridicule, and negative stereotypes about bisexuality or fluid sexuality. The tone is dismissive and demeaning, contributing to toxicity.",
+        "toxicity_qwen_reason": "The text expresses skepticism and mockery toward a person's sexual orientation, implying that their lesbian relationship is not genuine but a result of a 'shock' or 'revenge' after a breakup ('cú sốc chia tay nên quay ra chơi đàn bà cho bõ tức'). It questions the legitimacy of LGBTQ+ identities ('giới tính linh hoạt à'), perpetuating harmful stereotypes about fluid sexual orientation being a choice or phase. The use of rhetorical questions and emotional language like '🥲' adds a patronizing, judgmental tone, undermining the authenticity of the relationship and thus constituting implicit homophobia."
+    },
+    {
+        "text": "hoàng nguyễn toi cung dong tinh",
+        "category": "lgbtq",
+        "id": "lgbtq_15560",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Đây là câu nói tuyên bố xu hướng tính dục của người nói ('tôi cũng đồng tính'). Nó không chứa lời lẽ xúc phạm, mỉa mai, hay có ý định hạ thấp, quấy rối bất kỳ cá nhân hay nhóm nào. Ngữ cảnh cho thấy đây có thể là một sự chia sẻ thông tin cá nhân, không mang tính công kích.",
+        "toxicity_mistral_reason": "The comment 'hoàng nguyễn tôi cũng đồng tình' translates to 'Hoang Nguyen, I also agree.' It expresses agreement in a neutral and respectful manner without any insults, mockery, or negative implications toward any individual or group. There is no toxic language or cultural insensitivity present.",
+        "toxicity_qwen_reason": "The text 'hoàng nguyễn toi cung dong tinh' appears to be a self-identification or statement of solidarity (possibly meaning 'I am also gay' or 'I also support LGBTQ'), with no derogatory language, mockery, or targeting of others. While 'toi cung dong tinh' could literally mean 'I am also gay', it does not contain slurs, sarcasm, or negative connotations in this context. There is no evidence of toxic intent, insult, or cultural insensitivity."
+    },
+    {
+        "text": "hoàng kiệt và cũng vô phúc lắm mới thấy đc cái bình luận này",
+        "category": "lgbtq",
+        "id": "lgbtq_13378",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses strong negative language ('vô phúc lắm') to express that seeing the comment is very unfortunate, implying contempt or dismissal towards the content. This introduces hostility and disrespect, aligning with toxic behavior by demeaning the comment and potentially its author indirectly.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'vô phúc lắm mới thấy được cái bình luận này,' which implies that encountering the mentioned person's comment is unfortunate or cursed. This carries a strong negative connotation, suggesting disdain or contempt toward Hoàng Kiệt or their comment. The tone is disrespectful and emotionally negative.",
+        "toxicity_qwen_reason": "The phrase 'cũng vô phúc lắm mới thấy đc cái bình luận này' uses sarcasm to express extreme displeasure or disdain toward the comment (and by implication, the person who wrote it). 'Vô phúc lắm' (very unlucky) is a culturally loaded expression that suggests seeing the comment is such a negative experience that it's a misfortune, which is a harsh and disrespectful way of dismissing someone. This conveys strong negativity and mockery, fitting the definition of toxic language."
+    },
+    {
+        "text": "2 đứa con gái t thấy bình thường mà sao 2 ông con trai t thấy kì kì 🥲",
+        "category": "lgbtq",
+        "id": "lgbtq_13452",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận chỉ đơn thuần thể hiện quan sát cá nhân và sự ngạc nhiên về sự khác biệt trong cách nhìn nhận giữa con trai và con gái. Từ 'kì kì' là cách nói thân mật, không mang tính xúc phạm, chế giễu hay hạ thấp bất kỳ ai. Biểu tượng cảm xúc 🥲 diễn tả sự hơi bối rối, buồn cười chứ không phải mỉa mai. Không có yếu tố nào thuộc phạm trù ngôn ngữ độc hại như lăng mạ, kỳ thị, đe dọa hay tạo ra sự thù địch.",
+        "toxicity_mistral_reason": "The comment expresses a personal observation about finding two girls normal but two boys 'kì kì' (strange/odd), with a slightly emotional tone (🥲). While it may carry a subtle implication of discomfort or surprise, it does not contain insults, mockery, slurs, or hostility toward any individual or group. The tone is more reflective than toxic, and there is no intent to demean or attack others.",
+        "toxicity_qwen_reason": "The statement expresses a personal observation about perceived differences in behavior or vibe between boys and girls, using subjective language ('kì kì') and a sad/neutral emoji (🥲). It does not contain insults, slurs, or hostile intent toward any individual or group. While it reflects a subjective judgment, it lacks the explicit or implicit negativity, mockery, or discriminatory tone that would make it toxic."
+    },
+    {
+        "text": "wins phan gửi tâm thư lên liên hợp quốc liền",
+        "category": "lgbtq",
+        "id": "lgbtq_7360",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment sarcastically mocks the action of sending a heartfelt letter to the United Nations, implying it is foolish, exaggerated, or attention-seeking, which conveys disrespect and negativity through implicit ridicule.",
+        "toxicity_mistral_reason": "The comment uses sarcasm and mockery to ridicule 'wins phan' for allegedly sending a letter ('gửi tâm thư') to the United Nations ('liên hợp quốc'). The tone implies disbelief or derision toward the person's actions, framing it as absurd or attention-seeking, which can be seen as demeaning or dismissive.",
+        "toxicity_qwen_reason": "The phrase 'gửi tâm thư lên liên hợp quốc' (send a heartfelt letter to the UN) is a sarcastic exaggeration, often used mockingly toward someone perceived as overly dramatic or making trivial issues seem grandiose. In the context of 'wins phan', it implies ridicule of the person’s actions or opinions, diminishing them through mockery. The tone is derisive, using hyperbole to belittle, which constitutes indirect toxicity."
+    },
+    {
+        "text": "tiện đây mình cũng nói luôn",
+        "category": "lgbtq",
+        "id": "lgbtq_12264",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase is a neutral and common conversational transition in Vietnamese, meaning 'Speaking of which, I'll also say.' It contains no offensive, abusive, discriminatory, or negative language, does not target any individual or group, and has no implicit toxicity such as sarcasm or mockery.",
+        "toxicity_mistral_reason": "The phrase 'tiện đây mình cũng nói luôn' translates to 'while I'm at it, I'll also say...' and is a neutral, conversational opener. It does not contain any insults, mockery, slurs, or emotionally negative content. There is no indication of toxicity in either the literal meaning or the cultural context.",
+        "toxicity_qwen_reason": "Câu 'tiện đây mình cũng nói luôn' mang tính trung lập, thường dùng để chuyển sang nói thêm điều gì đó trong cuộc hội thoại. Không có ngôn ngữ xúc phạm, miệt thị hay ám chỉ tiêu cực. Ngữ cảnh và từ ngữ không thể hiện ý định công kích, chế giễu hay truyền tải nội dung độc hại."
+    },
+    {
+        "text": "nhật trâm ko xem hết cũng cmt dc vậy? tư duy gì lạ ha",
+        "category": "lgbtq",
+        "id": "lgbtq_9725",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Comment sarcastically mocks an individual for commenting without full context and demeans their thinking, introducing disrespect and negativity.",
+        "toxicity_mistral_reason": "The comment uses a sarcastic and dismissive tone ('tư duy gì lạ ha') to mock the person named 'Nhật Trâm' for commenting without watching the full content. This implies disrespect and ridicule, targeting an individual negatively.",
+        "toxicity_qwen_reason": "The comment sarcastically questions Nhật Trâm's ability to comment without watching the full content, using a mocking tone ('tư duy gì lạ ha'). The phrasing implies the person has strange or irrational thinking, which is a form of indirect insult or ridicule, targeting their intelligence or behavior disrespectfully."
+    },
+    {
+        "text": "loại biến thái",
+        "category": "lgbtq",
+        "id": "lgbtq_4613",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Cụm từ 'loại biến thái' là lời lẽ miệt thị, xúc phạm, dùng để gán ghép một cách tiêu cực và khinh bỉ cho một đối tượng không xác định. Từ 'biến thái' mang hàm ý lệch lạc, đồi bại, và kết hợp với 'loại' càng làm tăng tính công kích, gây tổn thương và tạo ra sự thù địch trong giao tiếp.",
+        "toxicity_mistral_reason": "The phrase 'loại biến thái' directly translates to 'type of pervert' or 'perverted kind,' which is a strong insult targeting an individual or group with derogatory and demeaning language. It is explicitly abusive and disrespectful.",
+        "toxicity_qwen_reason": "The term 'biến thái' is a strong derogatory label meaning 'pervert' or 'deviant', often used to humiliate or insult someone's character or behavior. It carries a highly negative and stigmatizing connotation, indicating moral judgment and contempt. Even without explicit targeting, its use introduces hostility and dehumanizing language, which qualifies as toxic."
+    },
+    {
+        "text": "tương lai các nhà khoa học đang nghiên cứu để biến đổi tinh trùng của nam sang trứng và ngược lại sử dụng tế bào da hay da của nữ để thành tinh trùng r nhé, nếu k tới cái này thì cx có thụ tinh ntao r",
+        "category": "lgbtq",
+        "id": "lgbtq_16832",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận chỉ mô tả các hướng nghiên cứu khoa học trong tương lai về công nghệ sinh sản. Ngôn từ mang tính thông tin, không có lời lẽ xúc phạm, chế giễu, tấn công cá nhân hay nhóm nào, và không biểu lộ sự thù địch, khinh miệt hoặc cố ý gây sốc tiêu cực.",
+        "toxicity_mistral_reason": "Bình luận này thảo luận về một chủ đề khoa học (nghiên cứu biến đổi tế bào sinh sản) mà không sử dụng ngôn từ xúc phạm, công kích cá nhân hay nhóm nào. Nội dung mang tính thông tin, không có ý chế giễu, miệt thị hay gây căng thẳng. Từ viết tắt như 'r' (rồi) hay 'ntao' (nhân tạo) là cách viết teen-code thông thường, không mang hàm ý tiêu cực.",
+        "toxicity_qwen_reason": "The text discusses scientific research on reproductive technology in a neutral, informative tone. It mentions using skin cells to create sperm or eggs and artificial fertilization, without targeting or mocking any individual or group. There is no profanity, sarcasm, or derogatory implication present."
+    },
+    {
+        "text": "thế văn ý là mình cùng thuyền hay sao ạ?",
+        "category": "lgbtq",
+        "id": "lgbtq_9164",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu hỏi sử dụng thành ngữ 'cùng thuyền' (cùng hoàn cảnh) một cách lịch sự với từ 'ạ' để hỏi về việc chia sẻ tình huống, không có yếu tố xúc phạm, lăng mạ, chế giễu hay biểu đạt cảm xúc tiêu cực nào. Giọng điệu trung lập và tôn trọng, phù hợp với giao tiếp xây dựng.",
+        "toxicity_mistral_reason": "Câu nói mang tính chất hỏi thăm hoặc xác nhận thông tin một cách trung lập, không chứa từ ngữ xúc phạm, châm chọc hay ám chỉ tiêu cực. 'Cùng thuyền' ở đây được hiểu theo nghĩa đen hoặc nghĩa bóng (cùng hoàn cảnh, cùng chung mục tiêu) mà không mang hàm ý chế giễu hay công kích.",
+        "toxicity_qwen_reason": "Câu hỏi mang tính chất nghi vấn, hài hước nhẹ, không chứa từ ngữ miệt thị, công kích hay ám chỉ tiêu cực. 'Cùng thuyền' có thể là cách nói đùa về sự liên kết, không có dấu hiệu chế giễu hay động cơ độc hại."
+    },
+    {
+        "text": "khi nào có cháu bồng",
+        "category": "lgbtq",
+        "id": "lgbtq_29029",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a common social inquiry about when someone will have grandchildren, expressed in neutral language without offensive, abusive, or disrespectful elements. It does not target any individual or group negatively, and no sarcasm or implicit toxicity is detected.",
+        "toxicity_mistral_reason": "The comment 'khi nào có cháu bồng' (When will you have a grandchild to hold?) is a neutral or mildly curious question about family life. It does not contain insults, mockery, profanity, or any negative intent toward an individual or group. The tone is casual and lacks hostility or derogatory implications.",
+        "toxicity_qwen_reason": "Câu 'khi nào có cháu bồng' là một cách nói thông dụng, thường mang tính hỏi thăm hoặc chúc mừng, thể hiện sự quan tâm đến đời sống cá nhân như chuyện kết hôn, sinh con. Trong bối cảnh thông thường, đây là lời nói mang sắc thái tích cực, thân mật, không mang ý chế giễu, miệt thị hay công kích. Không có bằng chứng về sử dụng teen-code, nhạo báng tôn giáo, kỳ thị hay nói giảm nói tránh mang tính độc hại trong câu này."
+    },
+    {
+        "text": "hoá ra việt nam mình cung có phim nhu nay",
+        "category": "lgbtq",
+        "id": "lgbtq_7398",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses mild surprise or realization about Vietnam having movies of a certain type, using a neutral and inclusive tone ('việt nam mình') without any offensive, abusive, discriminatory, or mocking elements. It does not target any individual or group negatively and lacks sarcasm or implicit toxicity.",
+        "toxicity_mistral_reason": "The comment expresses surprise or discovery ('hoá ra') that Vietnam also has films of a certain quality or style ('phim như này'). There is no insult, mockery, profanity, or negative targeting of any individual or group. The tone is neutral or mildly curious, without hostility or derogatory intent.",
+        "toxicity_qwen_reason": "The statement 'hoá ra việt nam mình cung có phim nhu nay' (meaning: 'So turns out Vietnam also has films like this') expresses surprise or realization, possibly positive or neutral in tone. There is no derogatory language, mockery, or targeting of individuals or groups. Spelling errors ('cung' instead of 'cũng', 'nhu' instead of 'như') appear to be typos rather than intentional slang or code. Without additional context implying disdain or sarcasm, the comment is neutral and non-toxic."
+    },
+    {
+        "text": "tuyệt🗿",
+        "category": "lgbtq",
+        "id": "lgbtq_26670",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'tuyệt🗿' uses a positive word meaning 'excellent' with an emoji that can imply irony or deadpan humor. However, it does not target any individual or group, lacks insults, threats, or discriminatory content, and does not convey clear hostility or negativity. In isolation, it is likely a neutral or humorous expression without toxic intent.",
+        "toxicity_mistral_reason": "The comment 'tuyệt🗿' translates to 'awesome' or 'great' with a stone face emoji (🗿), which is often used in Vietnamese online culture to express a deadpan or sarcastic tone. However, there is no direct insult, mockery, or hostility toward any individual or group. The tone is neutral to mildly positive, and the emoji does not introduce toxicity in this context.",
+        "toxicity_qwen_reason": "The word 'tuyệt' means 'great' or 'excellent' in Vietnamese, expressing a positive sentiment. The emoji 🗿 (stone statue) is often used to convey calmness, neutrality, or stoic approval, commonly in internet slang to imply something is impressively solid or cool. There is no offensive language, mockery, or negative intent present. The phrase is brief but remains non-toxic in both literal meaning and cultural context."
+    },
+    {
+        "text": "khi nào vn áp dụng đây",
+        "category": "lgbtq",
+        "id": "lgbtq_24281",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Văn bản là một câu hỏi trung lập về việc áp dụng một điều gì đó tại Việt Nam, không chứa ngôn ngữ xúc phạm, nhắm mục tiêu tiêu cực, hoặc giọng điệu thù địch. Nó duy trì sự tò mò hoặc quan tâm xây dựng mà không có dấu hiệu độc hại.",
+        "toxicity_mistral_reason": "The comment 'khi nào vn áp dụng đây' translates to 'When will Vietnam apply this?' and is a neutral, inquisitive question without any harsh, disrespectful, or emotionally negative language. It does not contain slurs, insults, or implicit toxicity, nor does it target any individual or group negatively.",
+        "toxicity_qwen_reason": "The text 'khi nào vn áp dụng đây' (When will Vietnam apply this?) is a neutral question expressing curiosity or interest about the implementation of a certain policy, idea, or trend. It contains no insults, slurs, sarcasm, or negative implications. Without additional context suggesting mockery or hostile intent, this statement is non-toxic."
+    },
+    {
+        "text": "parky😂😂😂",
+        "category": "region",
+        "id": "region_11949",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The term 'parky' is a derogatory slang for 'Bắc Kỳ,' targeting Northern Vietnamese people, and the laughing emojis indicate mockery, making it insulting and discriminatory.",
+        "toxicity_mistral_reason": "The term 'parky' is a derogatory deformation of 'Bắc Kỳ,' historically used as a slur to mock or belittle Northern Vietnamese people. The accompanying laughing emojis (😂😂😂) amplify the sarcastic and mocking tone, making the comment toxic.",
+        "toxicity_qwen_reason": "“parky” is a derogatory misspelling of “Bắc Kỳ”, used to mock people from Northern Vietnam. The repeated laughter emojis (😂) emphasize mockery and scorn, indicating a disrespectful and ridiculing intent towards a regional group."
+    },
+    {
+        "text": "ai đông sơn thanh hoá k",
+        "category": "region",
+        "id": "region_8353",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu hỏi 'ai đông sơn thanh hoá k' là một câu hỏi bình thường, có thể hỏi về địa danh hoặc một người nào đó từ Đông Sơn, Thanh Hóa. Không chứa ngôn ngữ lăng mạ, đe dọa, kỳ thị, hay bất kỳ yếu tố nào biểu lộ sự thù địch, chế nhạo hoặc độc hại. Giọng điệu trung lập và không nhắm mục tiêu xúc phạm cá nhân hay nhóm nào.",
+        "toxicity_mistral_reason": "The comment simply refers to 'Đông Sơn Thanh Hóa,' a well-known cultural and historical site in Vietnam (famous for the Đông Sơn bronze drums). There is no insult, mockery, or negative implication toward any individual or group. The tone is neutral and factual.",
+        "toxicity_qwen_reason": "The text is a neutral, open-ended question asking if anyone is from Dong Son, Thanh Hoa. It does not contain insults, mockery, or negativity, and lacks any harmful intent or toxic language."
+    },
+    {
+        "text": "nhìn chị ăn em chảy nước miếng",
+        "category": "region",
+        "id": "region_28724",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu này thể hiện sự thèm ăn hoặc cảm giác đồ ăn trông hấp dẫn khi nhìn người khác ăn. 'Chảy nước miếng' là cách nói tự nhiên, không có ý lăng mạ, công kích hay tiêu cực nhắm vào bất kỳ cá nhân hay nhóm nào. Giọng điệu trung lập, thân thiện.",
+        "toxicity_mistral_reason": "The comment 'nhìn chị ăn em chảy nước miếng' literally means 'Watching you eat makes me drool,' which expresses admiration or craving for food in a lighthearted and non-offensive way. There is no insult, mockery, or negative intent toward any individual or group. The tone is neutral and does not contain any toxic elements.",
+        "toxicity_qwen_reason": "Literal meaning is a comment on someone eating, expressing that it looks appetizing. In Vietnamese culture, saying 'chảy nước miếng' (salivating) is a common, informal way to compliment food or express desire to eat. No mockery, insult, or negative intent detected. Tone is casual and neutral, not directed at the person as an attack or with derogatory subtext."
+    },
+    {
+        "text": "giỏi mà để nước ngoài nó cấm xkld 😂 sứ thanh mãi đỉnh",
+        "category": "region",
+        "id": "region_19397",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses sarcasm ('giỏi mà') and a laughing emoji to mock people associated with labor export, particularly targeting those from Thanh Hóa province ('sứ thanh'), implying they are responsible for foreign bans and perpetuating negative regional stereotypes.",
+        "toxicity_mistral_reason": "The comment uses sarcasm and mockery to criticize a situation (labor export being banned abroad) while targeting a group (likely Vietnamese workers or authorities). The phrase 'sứ thanh mãi đỉnh' is a distorted, mocking way to say 'xứ Thanh' (Thanh Hóa province), combined with 'đỉnh' (great) in a sarcastic tone. The laughing emoji (😂) reinforces the dismissive and derisive intent, making the overall tone disrespectful and toxic.",
+        "toxicity_qwen_reason": "The text uses sarcasm and mockery ('giỏi mà để nước ngoài cấm XKLD 😂') to ridicule Vietnam's overseas labor export policies, implying national incompetence. 'Sứ thanh mãi đỉnh' is ironic, referencing a phrase associated with blind patriotism or propaganda, further deriding the subject. The tone is dismissive and demeaning toward national efforts, using humor to belittle a societal issue, which constitutes indirect toxicity."
+    },
+    {
+        "text": "nhưng mà bạn ơi, chúng nó dùng để pbvm mà , vd như là \"namki ăn cá rô cây đi \" mình biết nó có trong từ điển, nhưng tụi nó dùng để pbvm ạ!",
+        "category": "region",
+        "id": "region_10671",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu nói sử dụng từ 'namki' (biến tấu của 'Nam Kỳ') với mục đích phân biệt vùng miền, mang tính chế giễu, xúc phạm và tạo ra sự kỳ thị dựa trên nguồn gốc địa lý. Ngữ điệu mệnh lệnh ('...đi') càng làm tăng tính công kích và tiêu cực, phù hợp với định nghĩa về ngôn ngữ độc hại.",
+        "toxicity_mistral_reason": "Cụm từ 'namki' là biến thể viết tắt và biến âm của 'nam kì' (Nam Kỳ), một thuật ngữ lịch sử nhưng thường được sử dụng với ý nghĩa châm chọc, phân biệt vùng miền hoặc mang tính miệt thị đối với người miền Nam trong một số ngữ cảnh teen-code/slang. Việc dùng từ này để 'pbvm' (phân biệt vùng miền) dù có trong từ điển nhưng mang sắc thái giễu cợt, hạ thấp, đặc biệt khi kết hợp với câu mệnh lệnh như 'ăn cá rô cây đi' – một món ăn đặc trưng miền Nam – nhằm tạo sự khác biệt hoặc chế nhạo. Điều này có thể gây tổn thương hoặc kích động sự phân biệt, do đó được đánh giá là toxic.",
+        "toxicity_qwen_reason": "‘Namki’ là dạng viết lệch của ‘Nam Kỳ’, thường được dùng như một cách gọi miệt thị người miền Nam. Việc khẳng định ‘chúng nó dùng để pbvm’ (phân biệt vùng miền) cho thấy nhận thức về tính chất công kích của từ này, và việc trích dẫn cụ thể ‘ăn cá rô đồng’ – một định kiến gắn với người miền Nam – cho thấy đang duy trì hoặc cổ súy cho định kiến vùng miền, dù có thể ở dạng ẩn dụ. Dù không trực tiếp chửi bới, nhưng nội dung nuôi dưỡng tư tưởng phân biệt, do đó mang tính độc hại về mặt xã hội."
+    },
+    {
+        "text": "tổng 9 đầu 3 tích 18. hiệu bằng -3 12 đôi dép",
+        "category": "region",
+        "id": "region_7205",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Đoạn văn bản là một chuỗi các cụm từ ngẫu nhiên, có thể liên quan đến toán học ('tổng', 'tích', 'hiệu') và một đồ vật thông thường ('12 đôi dép'). Nó không chứa từ ngữ thô tục, xúc phạm, không nhắm mục tiêu vào cá nhân/nhóm nào, không có ẩn ý chế nhạo văn hóa hay xã hội, và cũng không biểu lộ sự thù địch hay tiêu cực. Đây có vẻ chỉ là một bình luận ngẫu nhiên, vô thưởng vô phạt.",
+        "toxicity_mistral_reason": "The comment consists of mathematical calculations and a playful reference to '12 đôi dép' (12 pairs of flip-flops), which is a common Vietnamese meme or joke format. There is no insult, mockery, profanity, or negative targeting of any individual or group. The tone is neutral and does not convey hostility or toxicity.",
+        "toxicity_qwen_reason": "Thực chất là một chuỗi số học hoặc đố vui với các từ khóa như 'tổng', 'đầu', 'tích', 'hiệu' kèm theo hình ảnh 'đôi dép' để gợi ý về con số 12 (12 đôi dép = 24 chiếc, hoặc chơi chữ với số 12). Nội dung mang tính đố mẹo, giải trí, không nhắm vào cá nhân hay nhóm nào để chế giễu, không sử dụng ngôn ngữ miệt thị, tục tĩu hay tiêu cực. Dù có thể khó hiểu, nhưng không mang tính công kích hay độc hại."
+    },
+    {
+        "text": "bởi ngta kì thi thì tui trả thấy j lạ",
+        "category": "region",
+        "id": "region_14467",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a neutral observation about exam periods, using informal slang without targeting any individual or group. It lacks offensive, abusive, discriminatory, or hostile content, and the tone is matter-of-fact without sarcasm or implicit toxicity.",
+        "toxicity_mistral_reason": "The comment 'bởi ngta kì thị thì tui trả thấy j lạ' translates to 'If people discriminate, why should I find it strange?' The tone is neutral and expresses a personal observation or mild confusion rather than hostility, insult, or mockery. There is no profanity, slur, or targeted negativity toward any individual or group.",
+        "toxicity_qwen_reason": "Câu này có nghĩa là 'vì người ta kỳ thị thì tôi trả thấy gì lạ', diễn đạt sự thờ ơ hoặc chấp nhận thực trạng kỳ thị, không mang tính công kích, không sử dụng từ ngữ miệt thị hay chỉ trích cá nhân/nhóm. Dù thể hiện thái độ dửng dưng với vấn đề xã hội, nhưng không đủ cơ sở để coi là độc hại."
+    },
+    {
+        "text": "hay giống mom bạn",
+        "category": "region",
+        "id": "region_25984",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The phrase references the listener's mother ('mom bạn') in a comparative context, which in Vietnamese online culture is often used sarcastically or disrespectfully, potentially implying mockery or insult towards the listener or their family, even with the positive word 'hay'.",
+        "toxicity_mistral_reason": "The phrase 'hay giống mom bạn' is a common Vietnamese insult implying that someone resembles the speaker's mother in a negative way (often suggesting ugliness, stupidity, or other undesirable traits). It is a direct personal attack and carries a disrespectful, mocking tone.",
+        "toxicity_qwen_reason": "‘Mom bạn’ (your mom) is often used in Vietnamese slang as an indirect insult or provocation, especially when combined with mocking tone or context. The phrase ‘giống mom bạn’ implies resemblance to someone’s mother in a derogatory way, typically to insult appearance or behavior. Even without explicit profanity, it carries disrespectful intent and is commonly used in online toxicity."
+    },
+    {
+        "text": "bạn ấy nói rất chuẩn 🙂",
+        "category": "region",
+        "id": "region_28700",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu bình luận là một lời khen ngợi ('nói rất chuẩn'), mang ý nghĩa tích cực và đồng tình. Biểu tượng cảm xúc 🙂 được sử dụng phù hợp để thể hiện sự hài lòng. Không chứa yếu tố xúc phạm, mỉa mai, tấn công cá nhân hoặc nhóm nào, và không tạo ra sự thù địch trong giao tiếp.",
+        "toxicity_mistral_reason": "The comment expresses a positive opinion ('nói rất chuẩn') with a friendly emoji (🙂). There is no insult, mockery, or negative implication toward any individual or group. The tone is neutral and respectful.",
+        "toxicity_qwen_reason": "Lời khen tích cực, mang tính đồng tình và tôn trọng, không có dấu hiệu chế giễu, thù địch hay ngôn ngữ tiêu cực. Ký hiệu 🙂 thể hiện thái độ thiện chí."
+    },
+    {
+        "text": "tại bọn tao đoàn kết",
+        "category": "region",
+        "id": "region_14634",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu nói 'tại bọn tao đoàn kết' là một lời khẳng định về tinh thần đoàn kết của một nhóm. Từ 'bọn tao' là cách xưng hô suồng sã, thân mật, không mang hàm ý xúc phạm, miệt thị hoặc nhắm mục tiêu vào bất kỳ cá nhân hay nhóm nào khác. Nội dung trung tính, không chứa ngôn từ thô tục, đe dọa, kỳ thị hay thể hiện sự thù địch.",
+        "toxicity_mistral_reason": "Câu nói 'tại bọn tao đoàn kết' mang ý nghĩa tích cực, thể hiện tinh thần đoàn kết, gắn bó của một nhóm người. Không có yếu tố xúc phạm, chế giễu, hay ngôn từ tiêu cực nào đối với cá nhân hay tập thể khác. Ngữ cảnh và từ ngữ sử dụng hoàn toàn trung lập và không mang tính công kích.",
+        "toxicity_qwen_reason": "The phrase 'tại bọn tao đoàn kết' literally means 'because we (a group) are united.' It expresses solidarity within a group, without targeting or demeaning anyone. While 'bọn tao' is informal and colloquial, it is not inherently disrespectful or hostile in Vietnamese peer contexts. There is no toxic intent, insult, or negative stereotype present."
+    },
+    {
+        "text": "cali con miệng còn hôi sữa",
+        "category": "region",
+        "id": "region_11483",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the derogatory idiom 'miệng còn hôi sữa' to mock and belittle the target, implying they are immature and inexperienced, which is disrespectful and insulting in tone and intent.",
+        "toxicity_mistral_reason": "The phrase 'con miệng còn hôi sữa' is a derogatory expression in Vietnamese, implying that the target is immature, inexperienced, or childish. When directed at someone (in this case, 'cali'), it functions as an insult, mocking their age, knowledge, or credibility. The tone is dismissive and demeaning.",
+        "toxicity_qwen_reason": "‘Cali’ là cách viết lệch của ‘con gái lỡ’, mang tính chế giễu người trẻ, đặc biệt là nữ giới tham gia tranh luận trên mạng. ‘Miệng còn hôi sữa’ là lời miệt thị, ám chỉ thiếu kinh nghiệm, non nớt, không đủ tư cách phát biểu. Cả cụm từ mang tính hạ thấp, mỉa mai, thể hiện sự khinh thường rõ ràng."
+    },
+    {
+        "text": "tuyệt vời chú ơi 😍",
+        "category": "region",
+        "id": "region_17620",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses admiration and praise with the word 'tuyệt vời' (excellent) and uses 'chú ơi' in a respectful, friendly manner, accompanied by a positive emoji 😍. There is no indication of toxicity such as insults, mockery, or negative intent; it promotes a constructive and appreciative tone.",
+        "toxicity_mistral_reason": "The comment expresses admiration or excitement ('tuyệt vời') in a positive and enthusiastic tone, accompanied by a heart-eyed emoji (😍). There is no insult, mockery, or negative intent toward any individual or group. The language is friendly and respectful.",
+        "toxicity_qwen_reason": "The text expresses positive admiration or affection using 'tuyệt vời' (excellent) and the affectionate term 'chú' with a heart emoji 😍. There is no insult, mockery, or negative intent present. The tone is warm and respectful."
+    },
+    {
+        "text": "ngoại lệ của em 🥰",
+        "category": "region",
+        "id": "region_7529",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text expresses affection or admiration in a positive tone with a loving emoji, showing no signs of hostility, disrespect, or negativity.",
+        "toxicity_mistral_reason": "Cụm từ 'ngoại lệ của em' mang ý nghĩa tích cực, thường được dùng để khen ngợi hoặc bày tỏ sự yêu mến một cách nhẹ nhàng, dễ thương. Emoji 🥰 thể hiện sự trìu mến, không có yếu tố xúc phạm, chế giễu hay tiêu cực. Không có dấu hiệu của ngôn từ độc hại hay công kích cá nhân/nhóm nào.",
+        "toxicity_qwen_reason": "The phrase 'ngoại lệ của em 🥰' translates to 'you are my exception' and is commonly used in an affectionate, endearing way, often in romantic or positive emotional contexts. The heart-eyes emoji 🥰 reinforces a warm, loving tone. There is no insult, mockery, or negative intent present. It does not target anyone disrespectfully and carries no toxic cultural or social connotations."
+    },
+    {
+        "text": "bẩn chỗ nào chưa tiếp súc với hị thì đừng nói linh tinh",
+        "category": "region",
+        "id": "region_15775",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses harsh and dismissive language ('đừng nói linh tinh') combined with informal slang ('hị') to mock or belittle the recipient, implying they lack credibility and should not speak. This creates a hostile and disrespectful tone, aligning with toxic communication.",
+        "toxicity_mistral_reason": "The comment uses harsh and disrespectful language ('bẩn', 'đừng nói linh tinh') to insult or dismiss someone's opinion. The phrase 'chưa tiếp súc với hị' (a phonetic approximation of 'chưa tiếp xúc với gì' but distorted to sound like 'hij' or 'HIV') carries a derogatory and mocking tone, implying ignorance or stupidity in a demeaning way. The overall tone is aggressive and dismissive.",
+        "toxicity_qwen_reason": "The phrase 'bẩn chỗ nào chưa tiếp súc với hị thì đừng nói linh tinh' uses coded language where 'hị' is a derogatory phonetic distortion of 'Christ' or 'Christianity' (similar to 'chiên con' usage), implying that interacting with Christians is 'dirty'. This dehumanizes and stigmatizes a religious group, expressing contempt and promoting discrimination, hence toxic."
+    },
+    {
+        "text": "tại sao ,tại sao ,vì sao …….🥺",
+        "category": "region",
+        "id": "region_33762",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Bình luận chỉ thể hiện sự thắc mắc, băn khoăn hoặc buồn bã cá nhân thông qua câu hỏi 'tại sao' lặp lại và emoji mặt mếu 🥺. Không nhắm mục tiêu công kích, chứa lời lẽ xúc phạm, phân biệt đối xử, hoặc có giọng điệu mỉa mai/gây hấn nào.",
+        "toxicity_mistral_reason": "The comment consists of repetitive questioning words ('tại sao', 'vì sao') followed by a sad/cute emoji (🥺). This expresses curiosity or mild frustration in a non-aggressive, non-targeted way. There is no insult, mockery, or hostility toward any individual or group.",
+        "toxicity_qwen_reason": "The text consists of repeated question words ('tại sao', 'vì sao') expressing confusion or curiosity, followed by a pleading or sad emoji (🥺). There is no insult, mockery, or negative intent toward any individual or group. The tone is emotionally expressive but not hostile or disrespectful."
+    },
+    {
+        "text": "tôi đây 36 nè yên ổn ai ghét kệ họ quan tâm chi máy ae 36🥰",
+        "category": "region",
+        "id": "region_32930",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a personal, positive statement promoting self-acceptance and ignoring haters. It uses friendly language ('ae' for friends) and a heart emoji to express warmth, with no offensive, abusive, or hostile content directed at any individual or group.",
+        "toxicity_mistral_reason": "Bình luận thể hiện sự tự tin và thái độ tích cực ('yên ổn ai ghét kệ họ', 'quan tâm chi máy ae'), không chứa ngôn từ xúc phạm, chế giễu hay công kích cá nhân/nhóm nào. Số '36' ở đây mang tính chất vui vẻ, thân thiện trong giao tiếp giới trẻ, không có ý nghĩa xúc phạm.",
+        "toxicity_qwen_reason": "The text expresses self-acceptance and indifference to others' opinions about being '36' (likely referring to bra size or body feature). It uses a positive emoji (🥰) and does not insult or target anyone. The tone is confident and dismissive in a non-aggressive way, hence not toxic."
+    },
+    {
+        "text": "lý thắng đúng bắc blỳ",
+        "category": "region",
+        "id": "region_2617",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Sử dụng từ 'bắc blỳ' là biến thể chế giễu của 'Bắc Kỳ' - một từ mang tính miệt thị, phân biệt vùng miền đối với người miền Bắc Việt Nam. Cấu trúc 'đúng bắc blỳ' nhằm gán ghép, dán nhãn tiêu cực cho một cá nhân cụ thể ('Lý Thắng'), thể hiện sự khinh miệt và tạo ra sự chia rẽ.",
+        "toxicity_mistral_reason": "The term 'bắc blỳ' is a derogatory deformation of 'Bắc Kỳ' (Northern Vietnam), often used as a slur with mocking or dismissive intent. The comment directly targets a regional group (Northern Vietnamese) in a disrespectful manner, making it toxic.",
+        "toxicity_qwen_reason": "The term 'bắc blỳ' is a distorted and mocking version of 'Bắc Kỳ' (Northern Vietnam), used in a derogatory manner. The misspelling combined with the context of affirming someone ('lý thắng đúng') suggests sarcastic approval, amplifying the negative connotation. This aligns with known toxic patterns where regional slurs are used to belittle or mock people from Northern Vietnam."
+    },
+    {
+        "text": "việt nam là1",
+        "category": "region",
+        "id": "region_28039",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu này chỉ đơn thuần là một tuyên bố khách quan, trung lập về tên quốc gia Việt Nam, không chứa ngôn từ thô tục, lăng mạ, đe dọa, hoặc bất kỳ hình thức biểu đạt tiêu cực, thiếu tôn trọng nào. Không có ý định nhắm mục tiêu, chế giễu hay thể hiện sự thù địch đối với cá nhân hoặc nhóm nào.",
+        "toxicity_mistral_reason": "The comment 'việt nam là1' is a simple, positive expression of national pride. It does not contain any insults, mockery, profanity, or negative targeting toward individuals or groups. The tone is neutral and supportive.",
+        "toxicity_qwen_reason": "The text 'việt nam là1' appears to be an incomplete or shorthand expression, possibly meaning 'Vietnam is no. 1'. It conveys a positive sentiment or national pride without targeting or insulting any individual or group. There is no toxic language, slur, or negative intent present."
+    },
+    {
+        "text": "uk",
+        "category": "region",
+        "id": "region_6666",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Chỉ là cách viết tắt của 'ừ'/'được', mang ý nghĩa đồng ý, chấp thuận một cách trung lập. Không chứa bất kỳ yếu tố lăng mạ, tấn công, kỳ thị hay bày tỏ sự tiêu cực, thù địch nào.",
+        "toxicity_mistral_reason": "The term 'uk' is a casual, phonetic approximation of 'ừ' or 'ừk' (a colloquial way to say 'yes' or acknowledge something in Vietnamese). It does not contain any offensive, disrespectful, or negative connotations. The tone is neutral and informal, commonly used in everyday online communication among friends or peers.",
+        "toxicity_qwen_reason": "The text 'uk' is a short, informal affirmation or agreement, likely a phonetic rendering of 'ok' in Vietnamese context. It carries no negative, disrespectful, or hostile intent. There is no indication of insult, sarcasm, or cultural insensitivity. The tone is neutral and does not target any individual or group."
+    },
+    {
+        "text": "mình cũng dây phải vài lần nói chung chạy mất dép😂",
+        "category": "region",
+        "id": "region_5305",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "Câu nói mang tính chất chia sẻ trải nghiệm cá nhân một cách hài hước ('dính phải vài lần', 'chạy mất dép') với emoji cười. Ngôn ngữ thân mật, không nhắm mục tiêu xúc phạm cá nhân hay nhóm nào, không chứa lời lẽ thô tục, đe dọa, hay sắc thái tiêu cực. Nó chỉ đơn thuần kể một tình huống vui vẻ.",
+        "toxicity_mistral_reason": "The comment uses casual, playful language ('chạy mất dép') to express a lighthearted, relatable situation (being caught off guard or in a hurry). The emoji 😂 adds a humorous tone rather than mockery or hostility. There is no insult, slur, or negative targeting of any individual or group.",
+        "toxicity_qwen_reason": "Câu nói mang tính tự sự, chia sẻ trải nghiệm cá nhân với giọng điệu hài hước ('chạy mất dép' là thành ngữ biểu đạt sự hoảng hốt, bất ngờ, thường dùng trong văn nói). Không nhắm vào ai để chế giễu, phân biệt hay công kích. Emoji 😂 tăng cường yếu tố hài hước, không mang tính chế nhạo người khác."
+    },
+    {
+        "text": "bạn không đc phân biệt namkiky nhé 😜",
+        "category": "region",
+        "id": "region_30152",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The term 'namkiky' is a playful or mocking deformation of 'Nam Kỳ', referring to Southern Vietnamese, and the winking emoji 😜 adds a sarcastic or ironic tone, trivializing the issue of discrimination and potentially perpetuating regional stereotypes in a disrespectful manner.",
+        "toxicity_mistral_reason": "The comment uses 'namkiky' (a phonetic deformation of 'nam kỳ,' historically a derogatory term for Southern Vietnamese) in a playful but still potentially divisive or mocking tone. The winking emoji 😜 does not fully neutralize the underlying regional reference, which can carry negative connotations in Vietnamese cultural context.",
+        "toxicity_qwen_reason": "‘namkiky’ là cách viết biến dạng, chế giễu từ ‘Nam Kỳ’, thường được dùng với hàm ý miệt thị vùng miền, đặc biệt trong bối cảnh phân biệt Bắc-Nam. Kèm theo biểu tượng cảm xúc 😜 (trêu cợt), cho thấy thái độ chế giễu hơn là nhắc nhở tích cực. Dù có vẻ như đang nói ‘không được phân biệt’, nhưng việc sử dụng từ này thể hiện sự khơi lại định kiến vùng miền một cách mỉa mai, gây chia rẽ."
+    },
+    {
+        "text": "đây nàyy🤟🤟🤟",
+        "category": "region",
+        "id": "region_7552",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a casual and excited expression ('here it is') with positive emojis 🤟, indicating a friendly and upbeat tone. It does not contain any offensive, abusive, discriminatory, or negative content, and does not target any individual or group.",
+        "toxicity_mistral_reason": "The comment consists of the phrase 'đây nàyy' accompanied by the 🤟 emoji (a hand gesture often used to signal 'rock on' or positivity). There is no offensive, disrespectful, or negative content. The tone appears playful or casual without targeting any individual or group negatively.",
+        "toxicity_qwen_reason": "The text 'đây nàyy🤟🤟🤟' is a casual, enthusiastic way of pointing something out or drawing attention, commonly used in friendly or excited contexts. The use of extended vowels and love-hand-sign emojis (🤟) suggests a positive, playful tone without any insult, mockery, or negative intent. There is no slang or code targeting individuals or groups. The expression is neutral to positive in tone and does not contain any toxic elements."
+    },
+    {
+        "text": "ừm",
+        "category": "region",
+        "id": "region_7222",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'ừm' is a neutral interjection commonly used in Vietnamese to indicate agreement or acknowledgment, with no toxic elements such as insults, profanity, negative targeting, or harmful cultural implications.",
+        "toxicity_mistral_reason": "The comment 'ừm' is a very short, neutral interjection commonly used in Vietnamese online communication to acknowledge or agree with something in a casual manner. It does not contain any harsh, rude, disrespectful, or negative content. There is no intent to insult, mock, or target anyone, and it lacks any implicit or explicit toxicity.",
+        "toxicity_qwen_reason": "The text 'ừm' is a simple, neutral interjection in Vietnamese, equivalent to 'umm' or 'yeah' in English, used to acknowledge or show attentiveness. It carries no negative intent, insult, or hostility, and does not target anyone. It is contextually harmless and non-offensive."
+    },
+    {
+        "text": "còn thiếu phố bắc kì d.ỏ.m nữa nè kkk",
+        "category": "region",
+        "id": "region_4647",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses 'bắc kì' (a derogatory term for Northern Vietnamese) in a mocking context, combined with 'd.ỏ.m' (likely a censored insult), and laughter 'kkk' to demean a regional group, constituting regional discrimination and toxic language.",
+        "toxicity_mistral_reason": "The phrase 'phố bắc kì d.ỏ.m' uses 'bắc kì' (a historically derogatory term for Northern Vietnamese) combined with 'd.ỏ.m' (a vulgar deformation of 'đồ ôm,' implying prostitution or immorality). The 'kkk' laughter intensifies the mocking and demeaning tone, targeting Northern Vietnamese in a disrespectful and insulting manner.",
+        "toxicity_qwen_reason": "The phrase 'phố bắc kì d.ỏ.m' uses a derogatory term ('bắc kì' as a slur against Northern Vietnamese) combined with a vulgar abbreviation ('d.ỏ.m' for 'đồ mẹ'). The laughter ('kkk') indicates mockery. This is a clear insult targeting a regional group in a disrespectful and vulgar manner."
+    },
+    {
+        "text": "cali đu càng, chết lâm sàng",
+        "category": "region",
+        "id": "region_10591",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The phrase uses derogatory slang 'đu càng' (mocking dependency or parasitism) combined with 'chết lâm sàng' (clinically dead) to insult or demean a target, likely a person or group referred to as 'cali', exhibiting disrespect and negative intent.",
+        "toxicity_mistral_reason": "The phrase 'cali đu càng' is a derogatory slang term mocking people from California (often Vietnamese overseas) by implying they are superficial or overly materialistic. 'Chết lâm sàng' (clinically dead) is used here in a hyperbolic, demeaning way to suggest the person is worthless or beyond redemption. The tone is harsh and insulting.",
+        "toxicity_qwen_reason": "The phrase 'cali đu càng' is a phonetic distortion of 'Cali đũ càng', which mocks Vietnamese diaspora (particularly in California) with derogatory implication of being extreme or absurd. 'Chết lâm sàng' (clinical death) is used sarcastically to intensify mockery, suggesting complete irrelevance or being mentally 'dead'. Together, the tone is scornful and dehumanizing toward a group, using slang to ridicule their beliefs or identity."
+    },
+    {
+        "text": "giặc mỹ là giặc phương nào hả con",
+        "category": "region",
+        "id": "region_1673",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses a confrontational and condescending tone with 'hả con', which belittles the recipient, and the phrase 'giặc Mỹ' is a politically charged term that can provoke hostility or disrespect in certain contexts.",
+        "toxicity_mistral_reason": "The term 'giặc mỹ' (American invaders/enemies) is historically and politically charged in Vietnamese discourse, often used in a derogatory or hostile manner. The addition of 'hả con' (a condescending or mocking way to address someone, roughly translating to 'hey kid/you') introduces a disrespectful and demeaning tone. This combination implies not just disagreement but an intent to belittle or provoke, making the comment toxic.",
+        "toxicity_qwen_reason": "The term 'giặc mỹ' (American invaders) carries strong negative, dehumanizing connotations rooted in war-era propaganda. The phrasing 'giặc phương nào' (invaders from which direction) uses a mocking, rhetorical tone that ridicules or provokes, potentially targeting individuals associated with the U.S. or Western influence. The expression promotes hostility and perpetuates divisive historical stereotypes, aligning with toxic discourse in current socio-cultural context."
+    },
+    {
+        "text": "bách kỳ chó",
+        "category": "region",
+        "id": "region_4895",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Câu 'bách kỳ chó' là lời lẽ xúc phạm và phân biệt vùng miền. 'Bách kỳ' là cách viết chế nhạo của 'Bắc Kỳ', một từ có thể mang nghĩa miệt thị khi dùng trong ngữ cảnh này. Từ 'chó' là lời lăng mạ trực tiếp và rất nặng nề trong văn hóa Việt Nam. Cụm từ này nhắm mục tiêu miệt thị một nhóm người dân (người miền Bắc) một cách thù địch và thiếu tôn trọng.",
+        "toxicity_mistral_reason": "The term 'bách kỳ' is a derogatory deformation of 'Bắc Kỳ' (Northern Vietnam), and 'chó' (dog) is a common insult in Vietnamese. Combining them creates a highly offensive slur targeting Northern Vietnamese people, expressing contempt and demeaning the group.",
+        "toxicity_qwen_reason": "“Bách kỳ” là cách viết sai có chủ ý từ “Bắc Kỳ”, thường được dùng như một biệt danh miệt thị người miền Bắc Việt Nam. Kèm theo từ “chó” làm tăng tính xúc phạm, thể hiện sự khinh thường và phân biệt vùng miền. Đây là ngôn ngữ mang tính công kích, thù địch và phân biệt đối xử."
+    },
+    {
+        "text": "nguyễn kim xuyến 🥲",
+        "category": "region",
+        "id": "region_6072",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a personal name followed by a sad emoji, which expresses a neutral or empathetic emotion without any offensive, abusive, discriminatory, or threatening content. There is no evidence of targeting individuals or groups negatively, using slurs, or conveying hostility, sarcasm, or mockery in the given context.",
+        "toxicity_mistral_reason": "The comment consists of a name ('Nguyễn Kim Xuyến') followed by a crying emoji ('🥲'). There is no insult, mockery, or negative implication directed at any individual or group. The emoji conveys mild sadness or empathy, not toxicity.",
+        "toxicity_qwen_reason": "The text only contains a person's full name 'Nguyễn Kim Xuyến' followed by a neutral or sad emoji 🥲, with no derogatory language, slang, mockery, or negative context. There is no indication of insult, targeting, or toxic intent."
+    },
+    {
+        "text": "học để biết vn cũng chỉ công nhận 2 giới tính mà thôi. nên vn cần theo ai, phải nt là ntn nhỷ?",
+        "category": "lgbtq",
+        "id": "lgbtq_25156",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận có giọng điệu mỉa mai, phủ nhận sự tồn tại và quyền công nhận của các nhóm giới tính đa dạng (LGBTQ+). Cụm 'chỉ công nhận 2 giới tính mà thôi' hàm ý bài trừ các quan điểm đa dạng, kết hợp với câu hỏi tu từ châm biếm 'phải nói là ntn nhỷ?' tạo ra sự khinh miệt và gây hằn học đối với một nhóm xã hội cụ thể.",
+        "toxicity_mistral_reason": "The comment dismisses the existence of more than two genders, implying that Vietnam should follow a specific narrative, which can be seen as discriminatory and dismissive towards the LGBTQ+ community. The use of the phrase 'nhỷ' (a derogatory term) further indicates a hostile and disrespectful tone, making the comment toxic.",
+        "toxicity_qwen_reason": "The text uses sarcastic and dismissive tone to downplay gender diversity by emphasizing Vietnam only recognizes two genders, implying rejection of non-binary or LGBTQ+ identities. Phrases like 'nên vn cần theo ai, phải nt là ntn nhỷ?' carry a mocking undertone ('nhỷ' as sarcastic politeness), questioning the legitimacy of gender identities outside the binary, which contributes to discrimination and exclusion of LGBTQ+ individuals."
+    },
+    {
+        "text": "trần minh quân bạn đó nói đúng mà bán nam bán nữ như bạn mới nên tích đức để kiếp sau thành nguyên bản🙂",
+        "category": "lgbtq",
+        "id": "lgbtq_9620",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng cụm từ miệt thị 'bán nam bán nữ' để chỉ trích bản dạng giới của một người, kết hợp với lời 'khuyên' mang tính mỉa mai ('tích đức để kiếp sau thành nguyên bản') và biểu tượng mặt cười 🙂 để thể hiện thái độ chê bai, phủ nhận. Ngôn từ này có tính chất xúc phạm, kỳ thị dựa trên bản dạng giới.",
+        "toxicity_mistral_reason": "The comment uses derogatory language and cultural insinuations. 'bán nam bán nữ' (selling male and female) is a derogatory phrase implying promiscuity or prostitution. The phrase 'tích đức để kiếp sau thành nguyên bản' (accumulate merit to become a complete person in the next life) adds a layer of mockery and disrespect. The emoji 🙂 does not mitigate the toxic nature of the comment.",
+        "toxicity_qwen_reason": "The comment mocks someone's gender identity by implying they are 'bán nam bán nữ' (half-male, half-female), which is a derogatory way to refer to LGBTQ+ or gender-nonconforming individuals. It uses sarcasm and moral superiority ('nên tích đức để kiếp sau thành nguyên bản') to suggest that being non-binary or transgender is a punishment or flaw, and implies they are not 'whole' or 'normal'. The smiley emoji 🙂 adds a passive-aggressive, mocking tone. This constitutes gender-based stigmatization and is toxic in nature."
+    },
+    {
+        "text": "đỗ thanh hằng đồng tính chỉ chiếm số ít dân số 2 lo xa thấy sợ luôn biết đâu 2 đầu thai thêm chục kiếp nữa cũng chưa diệt vong đc đâu 2, 2 cx đừng lo k sinh nở đc r diệt vong vn biết bao nhiêu em bé ra đời bằng kỹ thuật khoa học rồi 2, 2 ơi 2 vn mình đang phát triển và thế giới đang ngày càng đi lên 2 đừng có đi lùi nữa 2",
+        "category": "lgbtq",
+        "id": "lgbtq_4445",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Bình luận sử dụng từ '2' (slang chỉ người đồng tính) một cách lặp đi lặp lại với giọng điệu mỉa mai, coi thường. Văn bản khẳng định đồng tính là 'thiểu số', gieo rắc nỗi sợ ('lo xa thấy sợ'), và đưa ra lập luận sai lệch rằng cộng đồng LGBTQ+ có thể dẫn đến 'diệt vong' dân số. Ngôn ngữ và cách diễn đạt mang tính bài xét, củng cố định kiến tiêu cực và gây tổn thương cho một nhóm xã hội cụ thể.",
+        "toxicity_mistral_reason": "The text contains derogatory language and mockery directed at the LGBTQ community, specifically using the term 'đồng tính' (homosexual) in a derogatory context. The text also includes phrases that imply fear and ridicule, such as 'sợ luôn' (always scared) and 'đầu thai thêm chục kiếp nữa cũng chưa diệt vong đc' (even if you give birth for tens of lifetimes, you still won't be able to exterminate). The repeated use of '2' and '2, 2' is a mocking tone, and the overall tone is hostile and disrespectful towards the LGBTQ community.",
+        "toxicity_qwen_reason": "The text uses repeated infantilizing address '2' (a slang deformation of 'mày') and mocks the idea of LGBTQ+ individuals not contributing to population growth, implying they are a threat to national survival. Phrases like 'đồng tính chỉ chiếm số ít', '2 lo k sinh nở đc r diệt vong', and '2 đừng có đi lùi' carry derogatory undertones, framing homosexuality as regressive and unnatural. The tone is dismissive and contemptuous, contributing to hostility toward a marginalized group."
+    },
+    {
+        "text": "t co thang quản lý nghệ an😏 làm việc thi an nói không ra gi cậy quyền cac kiểu 😏 sống bợ đít 😏 thang đo tên cao đức long😏",
+        "category": "region",
+        "id": "region_15282",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses derogatory term 'thằng' to refer to an individual, includes vulgar slang 'bợ đít' (bootlicking), and makes insulting accusations about their work and character. The sarcastic emojis 😏 reinforce a mocking and hostile tone, targeting a specific person with disrespectful and demeaning language.",
+        "toxicity_mistral_reason": "The text contains derogatory language and insults directed at specific individuals. The use of phrases like 'quản lý nghệ an' (manager of Nghệ An), 'thang quản lý nghệ an' (that manager of Nghệ An), and 'thang đo tên cao đức long' (that guy named Cao Đức Long) indicates targeting specific people. The tone is mocking and disrespectful, with repeated use of the 😏 emoji to emphasize sarcasm and contempt. The phrase 'sống bợ đít' (living like a butt) is a crude and offensive insult. The overall tone is hostile and intended to degrade and insult the individuals mentioned.",
+        "toxicity_qwen_reason": "The text contains derogatory language and personal attacks. Phrases like 'cậy quyền cac kiểu', 'sống bợ đít', and using a mocking tone with emojis (😏) to refer to a specific person ('Cao Đức Long') indicate disrespect, hostility, and ridicule. Mentioning the person’s name and workplace (Nghệ An) makes it a direct, negative targeting, which constitutes toxic behavior in social context."
+    },
+    {
+        "text": "em trai nói quá hay đúng 1000000",
+        "category": "region",
+        "id": "region_2724",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment praises someone for speaking well, using enthusiastic and positive language without any offensive, disrespectful, or negative targeting. It is a supportive statement with no signs of toxicity.",
+        "toxicity_mistral_reason": "The text translates to 'the guy is talking too much, but it's true 1,000,000 times'. It is a playful exaggeration and does not contain any offensive, abusive, or discriminatory content. The tone is lighthearted and does not target anyone negatively. The use of '1,000,000' is a common exaggeration in Vietnamese to emphasize agreement or approval.",
+        "toxicity_qwen_reason": "The text expresses enthusiastic praise using exaggerated positive language ('hay đúng 1000000') towards 'em trai' (brother). There is no insult, mockery, or negative intent. The tone is complimentary and affectionate, common in casual Vietnamese online speech."
+    },
+    {
+        "text": "sau bao năm tôi vẫn không hiểu nổi người việt \"bển\" dạy con cháu kiểu gì. đã mất công \"vượt mọi sóng gió\" để chiếm trọn bang cali rồi. mà không nhân rộng ra. thay vì những bài như này có thể viết bài kêu gọi anh em việt nam ủng hộ để ăn từ từ thêm 1 tiểu bang nữa, rồi ăn cả bang, miền, rồi người việt sẽ thống trị cả liên bang xa xôi. cố gắng ăn mòn cái mảnh đất đã bị số bom dội vào còn hơn \"tất cả số bom trong chiến tranh thế giới thứ 2 làm gì\".",
+        "category": "region",
+        "id": "region_382",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The text uses sarcastic and critical language to mock overseas Vietnamese ('người việt bển') for their perceived failures, implying aggressive nationalism with terms like 'chiếm trọn' and 'thống trị,' and trivializes historical trauma through bomb comparisons, fostering negativity and division.",
+        "toxicity_mistral_reason": "The text contains derogatory language and implies a sense of superiority and aggression towards a specific group. The phrase 'bển' is a derogatory term for Vietnamese people. The text also suggests a desire to conquer and dominate, which is toxic and aggressive. The use of phrases like 'vượt mọi sóng gió' and 'thống trị' further emphasizes the toxic nature of the text.",
+        "toxicity_qwen_reason": "Ngôn ngữ sử dụng mang tính miệt thị và thù địch, khi mô tả cộng đồng người Việt ở nước ngoài (đặc biệt là tại California) như một thế lực xâm lược ('chiếm trọn bang', 'ăn từ từ thêm', 'thống trị cả liên bang'), sử dụng hình ảnh chiến tranh và bạo lực ('số bom dội vào') để miêu tả sự hiện diện của người Việt. Cách dùng từ như 'người Việt bển', 'dạy con cháu kiểu gì' thể hiện sự chế giễu, phân biệt và khinh thường. Toàn bộ văn cảnh mang tính kích động dân tộc, xuyên tạc và hạ thấp một nhóm người Việt Nam hải ngoại, tạo ra chia rẽ và thù ghét – rõ ràng là độc hại về mặt xã hội và văn hóa."
+    }
+]

@@ -1,0 +1,605 @@
+[
+    {
+        "text": "t thích đất nước mình thờ phụng tổ tiên ông bà. còn thánh thần chính là các anh hùng dân tộc đã bảo vệ đất nước này. được người dân ta thờ phụng . chứ ko phải 1 ông từ phương tây.",
+        "category": "religion",
+        "id": "religion_7605",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment negatively targets religious figures from the West by dismissing them as 'some guy from the West,' which mocks and ridicules a religious group, fitting the TOXIC criteria for religion under the provided definitions and examples.",
+        "toxicity_mistral_reason": "The comment mocks and negatively targets a religion or religious figure, specifically implying that worshiping a Western figure is inferior to worshiping national heroes.",
+        "toxicity_qwen_reason": "The comment mocks or negatively targets Christianity by contrasting Vietnamese ancestral worship and national heroes with the Christian God, referring to Him as '1 ông từ phương tây' (a man from the West), which diminishes and derides the religious beliefs of Christians. This constitutes an indirect religious insult."
+    },
+    {
+        "text": "mẹ đâu có im đâu con, nay mẹ lội cmt mới thấy tụi con đây con iu chứ tt k có thông báo nè con iuuu",
+        "category": "religion",
+        "id": "religion_13629",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment uses affectionate and familial language (e.g., 'con iu', 'mẹ') to express a personal observation about browsing comments and missing notifications, with no insults, mockery, or attacks towards any individual or group.",
+        "toxicity_mistral_reason": "The comment expresses frustration and disappointment but does not attack or insult anyone. It uses informal language but does not target any individual or group.",
+        "toxicity_qwen_reason": "The comment uses affectionate language and emojis ('con iu', 'con iuuu') and does not contain any insults, attacks, or derogatory expressions toward individuals or groups. It appears to be a casual, emotionally expressive comment without toxic intent."
+    },
+    {
+        "text": "chắc mấy đạo khác người vn đó bây, luận điệu chia rẻ tôn giáo, phân biệt sân si vì đạo ngta lớn thấy rõ… t bây có làm gì thì đức tin cg cũng vậy thôi! bắt bớ đàn áp chỉ sinh loạn, đn ko phát triển thôi 🤣🤣🤣🤣",
+        "category": "religion",
+        "id": "religion_1250",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks religious groups and their conflicts by using critical language and laughing emojis (🤣), which implies ridicule and targets religion, falling under the TOXIC definition for implicit insults and religion-based attacks.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules different religions and religious beliefs, using derogatory language and emojis to imply ridicule and hostility. This falls under the religion category and is considered TOXIC.",
+        "toxicity_qwen_reason": "Bình luận sử dụng ngôn ngữ mang tính mỉa mai, chế giễu (có biểu tượng 🤣🤣🤣🤣) và khẳng định gây chia rẽ tôn giáo, đồng thời miêu tả một nhóm tín đồ ('đức tin cg') theo cách đối lập và tiêu cực với 'mấy đạo khác', tạo cảm giác phân biệt và hạ thấp. Cụm 'bắt bớ đàn áp chỉ sinh loạn, đn ko phát triển thôi' ám chỉ sai lệch và mang tính vu khống, tấn công gián tiếp một tôn giáo (Công giáo), do đó vi phạm quy tắc về nội dung tôn giáo: bình luận có tính chất chế giễu và kích động, nên được đánh giá là TOXIC."
+    },
+    {
+        "text": "hale-970 khả năng kg có bùa. họ cố tạo ra cho ng ta sợ và là màng chê mắt thiên hạ. nói cái gì mấy trăm đời bị cụt tay",
+        "category": "religion",
+        "id": "religion_33004",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks and dismisses the belief in charms, suggesting they are fabricated to scare and deceive people, and uses sarcastic language about consequences ('mấy trăm đời bị cụt tay'). This negatively targets a religious or superstitious practice, fitting the RELIGION case for toxicity as it ridicules a belief system.",
+        "toxicity_mistral_reason": "The comment uses coded wording and metaphors to attack and mock someone, implying that they are deceitful and harmful. The phrase 'cụt tay' (cutting hands) is a metaphorical attack.",
+        "toxicity_qwen_reason": "Comment sử dụng ngôn ngữ miệt thị, mỉa mai ('họ cố tạo ra cho ng ta sợ và là màng chê mắt thiên hạ'), kèm theo lời nguyền mang tính xúc phạm ('nói cái gì mấy trăm đời bị cụt tay') → đây là hình thức chửi bới, đe dọa gián tiếp, mang tính tấn công cá nhân. Thuộc dạng implicit insult, vi phạm RULE C."
+    },
+    {
+        "text": "thày lừa bịp , bạn tôi theo chùa ba vàng bn năm , chưa đi thì gd còn hp con cái ngoan ngoãn , đi rồi nghiệp chẳng giảm mà lại tăng , gd lục đục , vc bỏ nhau con cái thì ngang bướng , con mẹ yến này trước quét chùa h là tay chân đắc lực của lão tăng này .",
+        "category": "religion",
+        "id": "religion_29675",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment insults a religious figure ('thày lừa bịp') and uses derogatory language ('con mẹ yến') to attack individuals associated with a pagoda, mocking religious practice and implying harm, which constitutes verbal attack and demeaning behavior.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules religious practices and figures, specifically targeting Buddhism and Buddhist monks, which is a clear violation of the TOXIC category.",
+        "toxicity_qwen_reason": "The comment attacks and mocks a religious figure (Mrs. Yen from Ba Vang Pagoda) and associates her with negative outcomes (family discord, increasing karma), implying deceit and harmful influence. Phrases like 'thày lừa bịp' (fraudulent teacher) and blaming religious practice for family breakdown constitute a negative targeting of a religious group, which falls under the religion-related toxicity rule."
+    },
+    {
+        "text": "tốt nhất m về với chúa đi ý gọi ông thọ rèn",
+        "category": "religion",
+        "id": "religion_20833",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the phrase 'về với chúa' (go back to God) as an implicit insult to attack the recipient, implying they should die or be gone, which demeans the individual and constitutes verbal attack under the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules a religious figure, specifically 'chúa' (God) and 'ông thọ rèn' (a deity in Vietnamese folklore), which is a clear violation of the religion TOXIC rule.",
+        "toxicity_qwen_reason": "Comment sử dụng cụm 'về với chúa' mang tính mỉa mai, kết hợp với việc nhắc tên người cụ thể ('ông thọ rèn') theo cách không tôn trọng, gợi ý việc người này nên chết hoặc biến mất. Đây là dạng thức công kích cá nhân dưới hình thức ngôn ngữ bóng gió, bị coi là độc hại theo quy tắc C (implicit insults)."
+    },
+    {
+        "text": ":))) nghe văn biết trẻ trâu ff r:)",
+        "category": "religion",
+        "id": "religion_10067",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the derogatory slang 'trẻ trâu' to mock and insult an individual or group, implying immaturity and stupidity, and the emoji ':)' signals sarcastic ridicule, constituting a verbal attack.",
+        "toxicity_mistral_reason": "The comment uses coded wording and emojis to mock and insult someone, implying an attack on their intelligence or maturity.",
+        "toxicity_qwen_reason": "Comment uses 'trẻ trâu' – a derogatory slang implying immature, rude behavior – to mock someone's speech ('nghe văn'), combined with 'ff' (likely 'fake') and laughing emojis, indicating ridicule. This constitutes an implicit personal attack based on speech style, which falls under RULE C (coded wording/wordplay as insult)."
+    },
+    {
+        "text": "hayyy quá",
+        "category": "religion",
+        "id": "religion_13931",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses positive enthusiasm without targeting or attacking any individual or group, and it does not contain profanity, implicit insults, or hostile elements.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any individual or group.",
+        "toxicity_qwen_reason": "The comment 'hayyy quá' is a positive expression of enthusiasm or approval, with no indication of insult, mockery, or attack toward any individual or group."
+    },
+    {
+        "text": "thời nào gòi ông ơi",
+        "category": "religion",
+        "id": "religion_24126",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a general exclamation about the current era ('thời nào gòi ông ơi'), which translates to 'What time is it already, sir?' or idiomatically expresses surprise about modern times. It does not contain insults, profanity, mockery, or any targeted attack on an individual or group. The tone is casual and conversational without implicit hostility.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mockery, or attacks on any individual or group. It is a simple, neutral statement.",
+        "toxicity_qwen_reason": "The comment 'thời nào gòi ông ơi' is a colloquial expression, likely pointing out the current time or era, possibly in response to an outdated opinion or behavior. It does not attack, mock, or demean any individual or group. The informal tone and spelling ('gòi' for 'rồi') are stylistic and not used as a verbal attack. No implicit insults, coded language, or harmful intent is present."
+    },
+    {
+        "text": "đừng gọi bọn ma tăng là thày nữa.bọn xàm tăng",
+        "category": "religion",
+        "id": "religion_32676",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults and mocks religious monks using derogatory terms ('ma tăng' and 'xàm tăng'), which constitutes an attack on a religious group under the religion-specific rules.",
+        "toxicity_mistral_reason": "The comment mocks and insults a religious group (Buddhists) by using derogatory terms like 'bọn ma tăng' and 'bọn xàm tăng'.",
+        "toxicity_qwen_reason": "Comment uses derogatory term 'bọn xàm tăng' – a mocking deformation of 'bọn ma tăng' (monks) – to insult religious figures. This constitutes religious mockery under RULE C and the RELIGION case, making the comment TOXIC."
+    },
+    {
+        "text": "cứt",
+        "category": "religion",
+        "id": "religion_14365",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment 'cứt' is a vulgar term used in isolation without targeting any individual or group. According to RULE A, profanity alone without an attack is non-toxic.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any person or group, so it is NON-TOXIC.",
+        "toxicity_qwen_reason": "The word 'cứt' is profane, but it is used in isolation without targeting any individual or group. According to Rule A, profanity alone without an attack is classified as NON-TOXIC."
+    },
+    {
+        "text": "ai cho tôi vào clip 5\" được không ...",
+        "category": "religion",
+        "id": "religion_2042",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a neutral request or question ('who can let me into clip 5?') without any insults, mockery, profanity, or targeting of individuals or groups. It does not meet the criteria for TOXIC.",
+        "toxicity_mistral_reason": "The comment is a simple request and does not contain any insults, mockery, or attacks on any individual or group.",
+        "toxicity_qwen_reason": "The comment is a simple request to be included in a clip and does not contain any insults, mockery, or attacks toward individuals or groups. It lacks hostile intent or toxic language."
+    },
+    {
+        "text": "ngô đình diệm là người công giáo làm tay sai cho mỹ kìa😆",
+        "category": "religion",
+        "id": "religion_8303",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment demeans Ngô Đình Diệm by calling him a 'puppet for America,' which is a derogatory term that constitutes a verbal attack on an individual, and the use of the emoji 😆 adds a mocking tone.",
+        "toxicity_mistral_reason": "The comment attacks a historical figure, Ngô Đình Diệm, by associating him with being a 'tay sai' (puppet) for the US and mocks his religious affiliation as a Catholic. The emoji 😆 further signals ridicule.",
+        "toxicity_qwen_reason": "The comment uses a derogatory and historically charged label ('tay sai cho Mỹ') to attack Ngô Đình Diệm based on his religion (Catholicism) and political alignment, combined with mocking intent signaled by the emoji '😆'. This fits the pattern of religiously-tinged political attacks that are considered toxic under the guidelines."
+    },
+    {
+        "text": "sao k dám làm video về chua tại việt nam ăn chơi lừa bịp phật tử mù quán mà cứ đi soi nước khác?",
+        "category": "religion",
+        "id": "religion_33769",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks and attacks Buddhist temples and their followers in Vietnam by using derogatory terms such as 'lừa bịp' (deceiving) and 'mù quán' (blindly following), which constitutes verbal attack on a religious group as per the religion case rules.",
+        "toxicity_mistral_reason": "The comment attacks and mocks a religious group (Buddhists) by using derogatory language and implies that they are being deceived. The phrase 'mù quán' (blind) is used to insult and demean the group.",
+        "toxicity_qwen_reason": "The comment uses derogatory language and makes a negative, unfounded accusation against religious individuals in Vietnam (‘ăn chơi lừa bịp phật tử mù quán’), which mocks and disrespects a religious group. This constitutes a religiously charged attack, even if indirect, and fits the pattern of mocking religious believers, hence classified as TOXIC."
+    },
+    {
+        "text": "chiên con đường cùng, vẫn cố bênh được😂",
+        "category": "religion",
+        "id": "religion_7465",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the deformed term 'chiên' to mock religious believers, accompanied by a laughing emoji 😂 that signals ridicule, aligning with the rule that attacks on religion are toxic.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules a religious figure, which falls under the TOXIC category according to the religion rules.",
+        "toxicity_qwen_reason": "The comment uses 'chiên con', a deformation of 'con chiên' (flock/devout follower in Christianity), in a mocking manner, implying blind allegiance even in hopeless situations. Combined with the laughing emoji 😂, it ridicules religious believers, which falls under the religion-related toxic pattern."
+    },
+    {
+        "text": "cha buồi gì cái thằng này",
+        "category": "religion",
+        "id": "religion_2732",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses vulgar slang ('buồi') and a derogatory term ('thằng') to directly insult an individual, constituting a verbal attack as per the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment contains a direct insult to an individual, using the phrase 'cha buồi gì cái thằng này' which is a derogatory expression.",
+        "toxicity_qwen_reason": "The comment uses a vulgar and insulting phrase 'cha buồi' directed at 'thằng này', which is a personal attack and verbal insult toward an individual. This constitutes explicit offensive language targeting someone, making it TOXIC."
+    },
+    {
+        "text": "ôi nói vậy cũng nói, t lạy đạo chúng bây thật!",
+        "category": "religion",
+        "id": "religion_22442",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses sarcasm ('lạy đạo chúng bây') to mock and demean a group, implying their beliefs or behavior are absurd, which constitutes an implicit verbal attack under the rules for religion and coded wording.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules a religion, which falls under the TOXIC classification according to the religion case in the guidelines.",
+        "toxicity_qwen_reason": "Comment sử dụng ngôn ngữ miệt thị tôn giáo ('t lạy đạo chúng bây thật!') với thái độ chế giễu và phỉ báng, thể hiện sự khinh thường đối với một nhóm tín đồ. Đây là dạng công kích gián tiếp vào tôn giáo, vi phạm quy tắc về nội dung liên quan đến tôn giáo."
+    },
+    {
+        "text": "thế mày người gì nói tiếng gì da vàng mà thờ tây lông",
+        "category": "religion",
+        "id": "religion_16131",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks and attacks an individual based on racial identity ('da vàng') and cultural allegiance ('thờ tây lông'), using derogatory language to demean and insult.",
+        "toxicity_mistral_reason": "The comment uses derogatory language and insults someone based on their appearance and cultural background, which is a direct attack on an individual or a group.",
+        "toxicity_qwen_reason": "The comment uses mocking and derogatory language to attack someone's identity and cultural practices, implying inconsistency or inferiority based on race ('da vàng') and religious choice ('thờ tây lông'). This constitutes a discriminatory and insulting remark targeting both ethnicity and belief, which fits the definition of implicit verbal attack under RULE C."
+    },
+    {
+        "text": "hoá ra kiến thức mình đc dậy lâu nay là sai. o2 k phải do cây xanh quang hợp ra mà do ông nào đó làm ra à.",
+        "category": "religion",
+        "id": "religion_22511",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "This comment uses sarcasm to mock religious or dogmatic beliefs by ridiculing the scientific fact of photosynthesis, implying oxygen is made by a person. It aligns with the TOXIC example under the RELIGION category in the guidelines.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules a religious or scientific belief, implying that oxygen is not produced by photosynthesis but by a certain individual. This is a clear attack on scientific knowledge and can be seen as mocking religious or ideological views.",
+        "toxicity_qwen_reason": "The comment uses sarcasm and mockery to discredit religious beliefs, implying that oxygen is created by a divine figure ('ông nào đó') rather than through photosynthesis. This constitutes an indirect attack on religion, particularly ridiculing creationist or religious views in a derisive tone, which falls under the religion-related toxic pattern."
+    },
+    {
+        "text": "nên là tôi mới nói là đề phòng đấy. tức là trong 1 tổ chức đâu cũng có xấu có tốt. lịch sử còn đó nên ta phải đề phòng.",
+        "category": "religion",
+        "id": "religion_6914",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general opinion about being cautious in organizations due to historical reasons, without using insults, profanity, mockery, or explicit attacks. Even in a religious context, it does not mock, ridicule, or negatively target any specific religion or religious figure.",
+        "toxicity_mistral_reason": "The comment expresses an opinion and a value judgment without attacking anyone. It discusses the need for caution within an organization, which is a general statement and does not target any individual or group.",
+        "toxicity_qwen_reason": "Bình luận mang tính cảnh báo chung về việc đề phòng trong một tổ chức do có sự tồn tại của cả người tốt và người xấu, đồng thời tham chiếu đến lịch sử. Không nhắm vào cá nhân hay nhóm cụ thể, không sử dụng ngôn ngữ miệt thị, chế giễu hay tấn công. Chỉ biểu đạt quan điểm thận trọng, không mang tính công kích."
+    },
+    {
+        "text": "thầy minh tuệ xuất hiện có nhiều kẻ tu sai",
+        "category": "religion",
+        "id": "religion_30554",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the derogatory term 'kẻ' to demean religious practitioners, implying they are practicing incorrectly, which constitutes an attack on a religious group and falls under mocking or ridiculing religion.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'kẻ tu sai' (wrongdoers) to mock or insult a group, implying they are incorrect or misguided in their beliefs or actions. This constitutes an attack on a group, making it TOXIC.",
+        "toxicity_qwen_reason": "The comment suggests that people following a certain religious or spiritual path are 'wrong' (tu sai) due to the appearance of 'Thầy Minh Tuệ', implying negative judgment and mockery toward others' religious beliefs. This constitutes an indirect attack on religious practices, which falls under the religion-related toxic category."
+    },
+    {
+        "text": "làm nội dung về sử về đất nước mà ghép quả nhạc trung=]]",
+        "category": "religion",
+        "id": "religion_9680",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses a mocking tone and the emoji '=]]' to ridicule the choice of Chinese music in Vietnamese historical content, implying an attack on the creator's judgment or cultural sensitivity, which falls under implicit insults or coded wording as per RULE C.",
+        "toxicity_mistral_reason": "The comment uses a demeaning term 'quả nhạc trung' which is a derogatory slang for a person of Chinese descent. This is a clear attack on a group based on their ethnicity and is therefore TOXIC.",
+        "toxicity_qwen_reason": "Bình luận sử dụng cụm 'ghép quả nhạc trung' mang hàm ý mỉa mai, chế giễu việc sử dụng nhạc Trung trong nội dung về lịch sử đất nước, có thể ngụ ý phản cảm về sự 'phiêu dạt' văn hóa hoặc thiếu bản sắc. Kết hợp với biểu cảm '=]]' thể hiện sự chế nhạo, do đó đây là hình thức công kích gián tiếp mang tính xúc phạm – phù hợp với RULE C (coded wording, wordplay) và D (emoji thể hiện sự chế giễu)."
+    },
+    {
+        "text": "cha nói đúng thế",
+        "category": "religion",
+        "id": "religion_4890",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses agreement with a statement without attacking, mocking, or targeting any individual or group.",
+        "toxicity_mistral_reason": "The comment is a neutral agreement with someone's statement and does not contain any insults, mockery, or attacks.",
+        "toxicity_qwen_reason": "The comment 'cha nói đúng thế' is a simple agreement with someone's statement and does not contain any insult, mockery, or attack toward an individual or group. It expresses an opinion without using abusive language or implicit hostility."
+    },
+    {
+        "text": "đm đưa cái hình đám ma ở đâu đẩu lên , cho là của ông m đi thì lấy cc gì chứng minh ổng đảng viên 55 năm, xạo loz quen thói, chồn ăn lúa nay đc đào tạo đi xạo loz nữa à",
+        "category": "religion",
+        "id": "religion_11169",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults and verbally attacks an individual using profane language and demeaning metaphors (e.g., 'xạo loz', 'chồn ăn lúa'), accusing them of lying and being deceitful, which fits the TOXIC definition of mocking or demeaning a person.",
+        "toxicity_mistral_reason": "The comment contains explicit insults and mocks an individual, using derogatory language and attacking the person's character and actions.",
+        "toxicity_qwen_reason": "The comment uses offensive language and direct insults such as 'xạo loz', 'chồn ăn lúa', and 'đào tạo đi xạo loz' to attack and demean an individual, implying deceit and moral corruption. These are verbal attacks involving mockery and dehumanizing metaphors, which qualify as toxic under the definitions provided."
+    },
+    {
+        "text": "😊mình phụng dưỡng và lo cho mẹ cha , lo trọn vẹn đạo làm vợ , làm mẹ rồi ,thế là yên tâm, tu tại gia cho lành thôi !",
+        "category": "religion",
+        "id": "religion_33765",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal belief about practicing spirituality at home and fulfilling family duties, with a positive emoji and no evidence of mocking, ridiculing, or attacking any religion or group.",
+        "toxicity_mistral_reason": "The comment expresses personal values and opinions about family and personal life without attacking anyone.",
+        "toxicity_qwen_reason": "The comment expresses personal values and life choices related to family duties and spiritual practice without mocking or attacking any individual or group. The tone is positive and self-reflective, using peaceful and respectful language."
+    },
+    {
+        "text": "giờ ko có rồii thì thôi vậy chứ đem nhai lại hoài biết lịch sử ko thể quên nhưng cái gì được thì mình bỏ qua đii",
+        "category": "religion",
+        "id": "religion_12428",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses an opinion about not dwelling on the past and moving on, without any insults, mockery, or attacks directed at individuals or groups. It is a value judgment conveyed in informal language, but lacks toxic elements.",
+        "toxicity_mistral_reason": "The comment expresses frustration and disagreement without directly attacking anyone. It does not contain insults, mocks, or demean anyone.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about moving on from the past and not dwelling on history. It does not contain insults, attacks, or mocking language toward any individual or group. The tone is reflective and does not target anyone, even indirectly."
+    },
+    {
+        "text": "là ông chúa đấy😂",
+        "category": "religion",
+        "id": "religion_21228",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses a laughing emoji 😂 to mock the term 'ông chúa', which can be interpreted as ridiculing a religious or authoritative figure, indicating implicit ridicule and aligning with TOXIC criteria for mockery and implicit attacks.",
+        "toxicity_mistral_reason": "The comment mocks a religious figure (chúa) and uses an emoji (😂) to signal ridicule.",
+        "toxicity_qwen_reason": "The comment uses 'ông chúa' (a deformation of 'đồng tính nữ' or lesbian, often used mockingly) combined with the laughing emoji 😂, which signals ridicule. This constitutes an implicit insult targeting LGBTQ identity, falling under RULE C and the LGBTQ pattern of coded mockery."
+    },
+    {
+        "text": "ông thích cúng dường chân quang nói bậy bạ quá",
+        "category": "religion",
+        "id": "religion_30572",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks or insults a religious figure or follower (likely referencing 'Chân Quang') by demeaning their speech as 'nonsense', which constitutes a verbal attack under the religion-specific case and general TOXIC definition.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules a religious practice and figure, which is a violation of the religion rule.",
+        "toxicity_qwen_reason": "The comment mocks a religious figure or concept by using 'chân quang' (a term often associated with spiritual or divine light in religious contexts) in a derogatory way with 'nói bậy bạ quá', implying that the person or entity referred to is speaking nonsense. This constitutes an indirect attack on religious beliefs, which falls under the religion-related toxic criteria."
+    },
+    {
+        "text": "riềng nước trà rồi 😏",
+        "category": "religion",
+        "id": "religion_4048",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment 'riềng nước trà rồi 😏' appears to be a casual or playful statement about ginger tea, possibly with a smirk emoji indicating mischief or sarcasm. However, it does not directly insult, mock, demean, discriminate, or attack any individual or group, and there is no clear implicit attack or coded wording targeting a specific person or community. Without a discernible target, it falls under NON-TOXIC as per the general definitions.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mocks, or attacks directed at any individual or group. It is a simple statement with a neutral emoji.",
+        "toxicity_qwen_reason": "The comment 'riềng nước trà rồi 😏' appears to be a play on words or slang, but without clear context indicating an attack on an individual or group. The emoji 😏 may suggest sarcasm or innuendo, but there is no explicit or implicit insult targeting someone based on identity, appearance, region, religion, or other protected characteristics. It does not meet the threshold for toxicity under the given rules."
+    },
+    {
+        "text": "ông ta không xứng đáng là sư",
+        "category": "religion",
+        "id": "religion_27169",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly attacks a religious figure ('sư' meaning monk) by declaring them unworthy, which demeans and insults the individual based on their religious role, falling under the definition of verbal attack and the religion-specific case for toxicity.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'ông ta' (a derogatory term for a person) and 'không xứng đáng là sư' (not worthy to be a monk), which implies an insult or attack on someone's character or status.",
+        "toxicity_qwen_reason": "Bình luận mang tính chất tấn công, phủ nhận vai trò và phẩm chất của một cá nhân trong tôn giáo (sư), ngụ ý người đó không xứng đáng, từ đó thể hiện sự xúc phạm, thiếu tôn trọng đối với chức sắc tôn giáo. Đây là hành vi xúc phạm tôn giáo theo định nghĩa trong phần 3 - RELIGION."
+    },
+    {
+        "text": "“chính quyền theo sát không phải vì đạo sai, mà vì đạo có sức ảnh hưởng lớn. vua chúa ngày xưa sợ dân theo đạo rồi ảnh hưởng đến dân nên mới siết chặt. đó không phải lỗi của đạo, mà là vì quyền lực chính trị lo sợ mất vị trí.”",
+        "category": "religion",
+        "id": "religion_1108",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a neutral opinion on the historical and political relationship between religion and authority, without insulting, mocking, or attacking any individual or group. It lacks profanity, implicit insults, or any elements that constitute toxicity under the given definitions.",
+        "toxicity_mistral_reason": "The comment discusses historical and political contexts without attacking any individual or group. It expresses an opinion about the relationship between religion and political power, which does not fall under the TOXIC category.",
+        "toxicity_qwen_reason": "The comment discusses historical and political dynamics regarding religious control without mocking or attacking any religious group. It presents an analytical perspective on the relationship between authority and religion, focusing on power concerns rather than贬低 or insulting any belief system."
+    },
+    {
+        "text": "loại người không đáng làm sư thầy, có lẽ ông đầu thai lộn rồi đó, phật giáo không nên để loại người này để bị mang tiếng xấu hổ theo vì đạo phật không nên để su thầy tồn tại trong đạo phật sẽ làm mang tiếng cho đạo phật tốt đẹp từ xưa đến nay.",
+        "category": "religion",
+        "id": "religion_27166",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment insults and demeans a Buddhist monk by stating he is unworthy and implying he was reborn incorrectly, which constitutes a verbal attack on an individual within a religious context, aligning with the definition of TOXIC content targeting religious figures.",
+        "toxicity_mistral_reason": "The comment attacks an individual and uses religious context to insult, which is considered TOXIC according to the definitions and rules provided.",
+        "toxicity_qwen_reason": "Bình luận sử dụng ngôn ngữ miệt thị và tấn công cá nhân, khi khẳng định một người 'không đáng làm sư thầy', 'đầu thai lộn', và 'sẽ làm mang tiếng cho đạo phật'. Đây là sự xúc phạm trực tiếp đến tôn giáo (Phật giáo) và cá nhân người được nhắc đến, đồng thời phủ nhận giá trị đạo đức và sự tồn tại hợp pháp của họ trong tôn giáo. Hành vi này vi phạm quy tắc về tấn công tôn giáo, kể cả dưới hình thức gián tiếp."
+    },
+    {
+        "text": "có 3 cái giếng, một cho đạo phật, một cho đạo hồi, một cho đạo chúa. mỗi một giếng chứa một mớ ếch, con thì nói trời màu xanh, con thì nói trời có mây",
+        "category": "religion",
+        "id": "religion_24055",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses a metaphor comparing followers of Buddhism, Islam, and Christianity to frogs in wells, implying they have narrow or ignorant perspectives. This mocks and ridicules religious groups, constituting an implicit attack under the religion category.",
+        "toxicity_mistral_reason": "The comment mocks and ridicules different religions by comparing them to wells with frogs, each claiming different things about the sky. This is a clear example of religious mockery, which is TOXIC according to the given definitions.",
+        "toxicity_qwen_reason": "The comment uses a metaphor involving 'three wells' for different religions (Buddhism, Islam, Christianity) and depicts followers as frogs, each claiming a different version of the sky. This mocks religious beliefs by implying adherents are ignorant and isolated in their views, which constitutes an indirect attack on religion. According to the rules, such metaphorical ridicule of religion is classified as TOXIC."
+    },
+    {
+        "text": "quá thơm",
+        "category": "sexism",
+        "id": "sexism_242",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'quá thơm' (too fragrant) is a neutral descriptive statement with no insults, mockery, or targeting of any individual or group, and does not violate any TOXIC criteria.",
+        "toxicity_mistral_reason": "The comment 'quá thơm' is a simple expression of opinion without attacking anyone or any group. It does not contain any insults, mockery, or discriminatory language.",
+        "toxicity_qwen_reason": "The phrase 'quá thơm' is a colloquial expression that can mean something is very good or appealing, often used positively or sarcastically depending on context. However, it does not contain any insult, attack, or offensive language toward an individual or group. There is no indication of mockery, discrimination, or implicit hostility in this standalone comment."
+    },
+    {
+        "text": "riêng cái việc nhà chia đôi thì t thấy bth mà",
+        "category": "sexism",
+        "id": "sexism_697",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a neutral personal opinion ('I think it's normal') about dividing a house, with no insults, mockery, attacks, or toxic elements targeting any individual or group.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion without attacking or insulting anyone.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about household responsibilities being equally shared, which is a neutral stance and does not attack or demean any individual or group. There is no insulting language, mockery, or harmful intent present."
+    },
+    {
+        "text": "mấy thằng vịt uyn nơ bên mĩ có quốc tịch vẫn chịch mấy em du học sinh để bú ké vé bảo lãnh mà",
+        "category": "sexism",
+        "id": "sexism_521",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory slang ('vịt uyn nơ' as a mockery of overseas Vietnamese) and vulgar language ('chịch') to insult and demean a specific group, implying they exploit female students for visa sponsorship. This constitutes a verbal attack on a group, falling under the definition of TOXIC due to mocking and discriminatory content.",
+        "toxicity_mistral_reason": "The comment uses derogatory language and mocks a group of people, specifically 'mấy thằng vịt uyn nơ' which is a derogatory term for Vietnamese people in the US. The comment also implies that these individuals are taking advantage of others, which is an attack on a group.",
+        "toxicity_qwen_reason": "Comment uses derogatory language and stereotyping to attack a group of people (Vietnamese in the U.S.) by accusing them of exploiting international students for immigration benefits. Terms like 'mấy thằng vịt uyn nơ', 'bú ké' are mocking and dehumanizing, constituting an implicit verbal attack based on nationality and immigration status."
+    },
+    {
+        "text": "anh đừng tuyệt vọng, vẫn còn gái tốt, là em đây",
+        "category": "sexism",
+        "id": "sexism_856",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is supportive and encouraging, offering comfort without any insults, mockery, or attacks towards individuals or groups.",
+        "toxicity_mistral_reason": "The comment is encouraging and does not contain any insults, mockery, or attacks towards anyone. It is simply offering support and encouragement.",
+        "toxicity_qwen_reason": "The comment is a personal, affectionate expression and does not contain any insult, mockery, or attack toward an individual or group. It expresses emotional support or romantic interest without demeaning anyone."
+    },
+    {
+        "text": "không biết trả lời sao luôn",
+        "category": "sexism",
+        "id": "sexism_861",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses personal uncertainty ('don't know how to reply') without insults, mockery, or attacks directed at any individual or group.",
+        "toxicity_mistral_reason": "The comment expresses confusion or uncertainty without attacking anyone. It does not contain any insults, mockery, or discriminatory language.",
+        "toxicity_qwen_reason": "The comment expresses personal confusion or inability to respond, without targeting anyone with insults, mockery, or offensive language. It does not contain any toxic elements as defined."
+    },
+    {
+        "text": "còn tao sợ quen phải trai việt tu tưởng việt cộng nha, ai muốn quen thì tao nói thẳng từ đâu luôn.",
+        "category": "sexism",
+        "id": "sexism_1111",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment discriminates against Vietnamese guys with Viet Cong ideology by expressing fear and avoidance, which constitutes a verbal attack on a group based on political beliefs.",
+        "toxicity_mistral_reason": "The comment uses a regional label 'Việt Cộng' to mock or insult a region, which is a TOXIC pattern according to the definition.",
+        "toxicity_qwen_reason": "Comment sử dụng cụm từ 'trai việt tu tưởng việt cộng' như một cách gắn định kiến, mô tả tiêu cực và phân biệt đối xử với người Việt Nam dựa trên yếu tố chính trị, có tính chất miệt thị và định kiến nhóm người. Đây là hình thức xúc phạm gián tiếp dựa trên quan điểm chính trị, mang tính phân biệt và khinh thường → TOXIC theo định nghĩa về lời nói miệt thị nhóm người."
+    },
+    {
+        "text": "đừng có ạ nữa được không đọc mệt lắm. ạ ạ nhiều nghe nó vừa hèn hạ vừa nhu nhược",
+        "category": "sexism",
+        "id": "sexism_423",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses demeaning language ('hèn hạ', 'nhu nhược') to insult and mock people who use the polite particle 'ạ' excessively, constituting a verbal attack on a group based on their language behavior.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'hèn hạ' (vile) and 'nhu nhược' (weak) to attack and demean someone, which fits the definition of a toxic comment.",
+        "toxicity_qwen_reason": "Comment sử dụng từ ngữ miệt thị ('hèn hạ', 'nhu nhược') để đánh giá, xúc phạm cách hành xử của người khác khi dùng từ 'ạ'. Đây là hình thức công kích cá nhân dựa trên phong cách giao tiếp, mang tính khinh thường và phân biệt đối xử, thuộc dạng insult gián tiếp. Do đó, bình luận này là TOXIC."
+    },
+    {
+        "text": "uhm tại dạo này nhiều chuyện quá",
+        "category": "sexism",
+        "id": "sexism_880",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general observation about personal circumstances without targeting, insulting, mocking, or attacking any individual or group. It contains no profanity, implicit attacks, or elements that align with toxic definitions.",
+        "toxicity_mistral_reason": "The comment expresses frustration or disagreement without attacking anyone.",
+        "toxicity_qwen_reason": "The comment expresses a personal feeling about having a lot on mind recently, without targeting or attacking anyone. It is a general statement of emotional state and contains no insults, mockery, or offensive language."
+    },
+    {
+        "text": "tao thấy việc 1st date, hay quen bất cứ bạn mới nào t cũng dành trả tiền trước. éo đáng bao nhiêu nhưng t cũng thấy đc người đối diện như nào và có lần gặp mặt kế tiếp hay ko. ngẫm có mấy trăm cành cũng biết đc giá trị 1 con người thì cũng đâu mắc",
+        "category": "sexism",
+        "id": "sexism_59",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment uses vulgar language ('éo') but does not target or attack any individual or group; it expresses a personal opinion about dating and evaluating people without hostility, consistent with RULE A.",
+        "toxicity_mistral_reason": "The comment expresses an opinion about dating and getting to know new people, but it does not attack or insult anyone. It follows Rule B, which states that opinions or value judgments are not considered toxic unless they attack someone.",
+        "toxicity_qwen_reason": "Comment sử dụng từ lóng 'é-o' (deform của 'đéo') nhưng không nhằm mục đích công kích cá nhân hay nhóm. Nội dung chia sẻ quan điểm về việc trả tiền khi hẹn hò, mang tính trải nghiệm cá nhân và suy luận xã hội, không có yếu tố công kích, chế giễu hay phân biệt. Phù hợp với quy tắc A: profanity alone ≠ TOXIC."
+    },
+    {
+        "text": "cỡ ngài là vừa đụ vừa ban lệnh thì có",
+        "category": "sexism",
+        "id": "sexism_1121",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment contains vulgar language ('đụ') and sarcastically mocks an individual ('ngài') by associating them with sexual acts and commanding authority, which demeans and verbally attacks the target.",
+        "toxicity_mistral_reason": "The comment uses a metaphor to mock or insult someone's authority or decision-making process, implying that the person is both indecisive and arbitrary. This falls under the definition of TOXIC as it demeans and attacks an individual.",
+        "toxicity_qwen_reason": "The comment uses explicit sexual imagery combined with a derogatory insinuation about someone in a position of authority ('ngài'), implying immoral or inappropriate behavior. The phrase 'vừa đụ vừa ban lệnh' is a mocking and disrespectful metaphor that attacks the integrity of the person referred to, which constitutes a verbal attack. The use of 'ngài' adds a layer of sarcasm, enhancing the insulting intent."
+    },
+    {
+        "text": "ồ mày nhầm nha cháu. chú đã tính giấu rồi. là con mẹ mày đấy",
+        "category": "sexism",
+        "id": "sexism_40",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults the listener using vulgar language ('con mẹ mày'), which is a common Vietnamese curse word targeting the listener's mother, constituting a verbal attack as per the toxic definition.",
+        "toxicity_mistral_reason": "The comment contains explicit insults and attacks directed at an individual, specifically using derogatory language and personal attacks.",
+        "toxicity_qwen_reason": "Comment sử dụng lời lẽ công kích cá nhân, chửi cha mẹ ('con mẹ mày') – đây là dạng chửi bới, khiêu khích mang tính chất tấn công gia đình, xúc phạm nhân phẩm. Dù có thể là tranh cãi cá nhân, nhưng cụm 'con mẹ mày đấy' là lời thô tục và đe dọa gián tiếp, nhằm hạ nhục đối phương → thuộc dạng TOXIC theo định nghĩa tấn công cá nhân."
+    },
+    {
+        "text": "xin lỗi dc chưa 🙏🏻",
+        "category": "sexism",
+        "id": "sexism_510",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a simple question or statement about apologizing, with a pleading emoji. It contains no insults, mockery, or attacks targeting any individual or group, and does not fit any toxic patterns such as implicit insults or coded wording.",
+        "toxicity_mistral_reason": "The comment expresses an apology and does not contain any insults, mockery, or attacks on any individual or group. It is a polite and respectful expression.",
+        "toxicity_qwen_reason": "The comment is an apology and does not contain any insult, mockery, or attack toward an individual or group. It expresses remorse or regret, which is non-toxic by definition."
+    },
+    {
+        "text": "mỗi tội của mấy con tây chắc to , rộng hơn. tiêu chí dv thỏa mãn cũng cao hơn nên mấy thằng asian ko đánh dc",
+        "category": "sexism",
+        "id": "sexism_497",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses demeaning terms ('con', 'thằng') and stereotypes to attack both Western women and Asian men, mocking physical attributes and implying inferiority, which constitutes verbal attack and discrimination based on group identity.",
+        "toxicity_mistral_reason": "The comment uses regional labels and their deformed variants to mock or insult a region. The phrase 'mấy thằng asian' is used in a derogatory manner, implying an attack on a specific group based on their region.",
+        "toxicity_qwen_reason": "The comment uses derogatory language and makes a discriminatory comparison between 'mấy con tây' (Westerners) and 'mấy thằng Asian', implying that Asians are inferior or unable to compete. This constitutes a racial stereotype and verbal attack based on ethnicity, which qualifies as toxic under both explicit and implicit insult rules."
+    },
+    {
+        "text": "có đứa đéo nào trong xã hội này ko coi trọng tiền. trai gái đều như nhau. mày có con đi rồi sẽ thấy, đẻ đái tài chính nó nặng lên cả vợ cả chồng. chỉ mấy thg ít quan hệ ít yêu đương mới có suy nghĩ mối quan hệ nhị nguyên như thế. suy nghĩ như thế là tự hủy hoại 1/2 đời người của mày rồi.",
+        "category": "sexism",
+        "id": "sexism_312",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment uses profanity and strong language to express an opinion about societal values and relationships, but it does not target any individual or group with insults, mockery, or attacks. It is conversational in style and serves as advice or criticism without demeaning intent.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion about the importance of money in relationships and the challenges of raising a family. It does not directly attack or insult any individual or group, even though it uses strong language. It falls under Rule B.",
+        "toxicity_qwen_reason": "Comment expresses a strong opinion about the role of money in relationships and criticizes a certain worldview, but does not target or attack a specific individual or group with insults, slurs, or mocking language. The use of vulgar language ('đéo nào') is for emphasis, not personal attack. Fits under RULE B: opinion/value judgment without direct personal attack."
+    },
+    {
+        "text": "đm do cái xứ bệnh hoạn này cứ thấy gái là đẹp mặc dù nhiều con xấu như con gấu, đi tút tát lại chỉnh sửa nát cái mặt ra còn nghĩ mình là hoàng hậu, đi nhuộm trắng da xong tập gym cho mông má ngon thế là bọn đàn ông súc vật động dục cứ lao vào múc. cũng do cái chủ nghĩa marx tào lao bí đao làm cho xã hội thành bọn há miệng chờ sung. học thì đéo học tử tế cứ ngồi chờ nước ngoài mang dự án sang đầu tư phát triển. hôn nhân tình cảm nam nữ thì biến thành món hàng trao đổi chứ không xuất phát từ trái tim.",
+        "category": "sexism",
+        "id": "sexism_247",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment contains explicit insults and attacks targeting women (calling them ugly, mocking their appearance enhancements), men (labeling them as beastly animals), and society at large (using derogatory terms for the country and criticizing Marxism). It goes beyond mere opinion or profanity by demeaning and verbally attacking multiple groups.",
+        "toxicity_mistral_reason": "The comment contains insults and mocks individuals based on their appearance and behavior, using derogatory language and stereotypes to attack and demean.",
+        "toxicity_qwen_reason": "The comment contains sweeping attacks and derogatory generalizations about women (e.g., 'xấu như con gấu', 'chỉnh sửa nát cái mặt', 'nghĩ mình là hoàng hậu'), men ('bọn đàn ông súc vật'), and society at large, using dehumanizing language and misogynistic stereotypes. It also mocks social behaviors and political ideology in a condemnatory and hostile manner, contributing to a toxic portrayal of groups. The use of profanity and inflammatory rhetoric further reinforces the verbal attack."
+    },
+    {
+        "text": "có lol mà chu cấp, ảo à",
+        "category": "sexism",
+        "id": "sexism_520",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment uses vulgar slang ('lol') and expresses disbelief or sarcasm ('ảo à'), but it does not target any specific individual or group with insults, mockery, or attacks. It falls under RULE A, where profanity alone does not constitute toxicity.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not attack any individual or group. It is expressing frustration or disagreement without targeting anyone.",
+        "toxicity_qwen_reason": "The comment expresses skepticism or disbelief ('ảo à') toward the idea of receiving financial support ('chu cấp') while playing League of Legends ('lol'), but does not attack or mock any individual or group. It uses informal language but lacks targeted insults, discrimination, or implicit hostility. The statement is a value judgment or opinion about a situation, not a personal attack."
+    },
+    {
+        "text": "để khảo sát đúng hơi khó đó. nên nhìn video khoe khoang trên tóp tóp rồi phán thì sẽ chỉ mang tính góc nhìn cá nhân trên tóp tóp. không đúng với thực tế xã hội. làm khảo sát số liệu là tự dưng hiểu điều tôi nói. keyword: fallacy in research.",
+        "category": "sexism",
+        "id": "sexism_1067",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment critiques research methods and social media content without personal attacks, insults, or mockery. It expresses an opinion on validity and fallacies, which falls under non-toxic value judgment.",
+        "toxicity_mistral_reason": "The comment expresses an opinion about research methodology without attacking any individual or group. It uses the term 'fallacy in research' to critique the approach but does not contain insults, mockery, or discriminatory language.",
+        "toxicity_qwen_reason": "Comment discusses methodological flaws in using TikTok videos as data for social research and mentions 'fallacy in research' to critique generalization from limited observations. The tone is analytical and expresses a viewpoint without targeting or attacking any individual or group."
+    },
+    {
+        "text": "cá nhân t thấy thời buổi hội nhập,mở cửa lấy ai là chuyện của nó,tây hay đâu thì cũng là chuyện bình thường.nhưng chuyện có ràng buộc,danh phận-hôn nhân rõ ràng thì khác.còn mấy con ngu vd như chi thằng travelvids chịch (quay clip-lộ mặt-cầm chứng minh thư cho nó chụp) xong cuối cùng nó đem cái clip đấy bán lấy tiền thì lại là 1 thể loại khác",
+        "category": "sexism",
+        "id": "sexism_465",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment includes derogatory insults ('mấy con ngu' meaning 'stupid ones') directed at individuals, which constitutes verbal attack and mockery.",
+        "toxicity_mistral_reason": "The comment uses derogatory terms like 'mấy con ngu' to insult and mock individuals, specifically targeting 'chi thằng travelvids' with a personal attack.",
+        "toxicity_qwen_reason": "Comment sử dụng từ ngữ công kích và miệt thị ('mấy con ngu', 'chịch') để chỉ và hạ thấp những người tham gia vào hành vi nhạy cảm, có yếu tố bóc lột tình dục. Việc dùng từ 'con' để gọi người khác kết hợp với hành vi quay lén, phát tán, và bán clip mang tính chất xúc phạm, kỳ thị và phê phán cá nhân một cách cực đoan. Ngữ cảnh và từ ngữ thể hiện thái độ khinh bỉ, phân biệt, và lên án mang tính tấn công cá nhân, do đó được phân loại là TOXIC."
+    },
+    {
+        "text": "còn 1 đối tượng nữa: là mấy thằng simp lỏ",
+        "category": "sexism",
+        "id": "sexism_1041",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory language 'mấy thằng simp lỏ' to mock and demean a group of people, constituting a verbal attack as per the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment uses a derogatory term 'simp' to mock or insult a group of people, which is considered an attack.",
+        "toxicity_qwen_reason": "The term 'simp' is used here with a derogatory and mocking tone ('mấy thằng simp lỏ'), directly insulting a group of people by demeaning their behavior or perceived lack of self-respect. The use of 'thằng' and 'lỏ' (a deformation implying weakness or inadequacy) constitutes a verbal attack, fitting the definition of implicit insult and coded wording targeting a social group."
+    },
+    {
+        "text": "và con trai thành công cũng toàn tìm gái đẹp, ngon mà ăn chứ cũng chẳng thèm để ý đến mấy em nhan sắc tầm thường",
+        "category": "sexism",
+        "id": "sexism_246",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment demeans and discriminates against women with ordinary appearance by implying they are not worthy of attention from successful men, which constitutes a verbal attack on a group based on physical traits.",
+        "toxicity_mistral_reason": "The comment demeans and discriminates against individuals based on their appearance, implying that only those who are conventionally attractive are worthy of attention. This is a form of verbal attack and falls under the definition of TOXIC.",
+        "toxicity_qwen_reason": "Nhận xét mang tính phân biệt và coi thường người khác dựa trên nhan sắc, cụ thể là miệt thị những người có ngoại hình 'tầm thường'. Đây là dạng đánh giá, khinh thường nhóm người theo tiêu chí ngoại hình, vi phạm nguyên tắc không phân biệt, xem thường đối tượng dựa trên đặc điểm cá nhân."
+    },
+    {
+        "text": "mẹ m đã no homo 3 lần lần này lần thứ 4 r đấy",
+        "category": "sexism",
+        "id": "sexism_939",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses 'no homo', a phrase that can mock or deny LGBTQ identity, in a context that ridicules someone's mother, implying an insult to both the individual and potentially LGBTQ groups through coded wording.",
+        "toxicity_mistral_reason": "The comment contains the phrase 'no homo,' which is a derogatory slang term often used to mock or dismiss LGBTQ identity, even if it is used in a seemingly humorous context. This is a form of coded wording that implies an attack, making the comment TOXIC.",
+        "toxicity_qwen_reason": "The phrase 'no homo' is used in a mocking and sarcastic way, combined with 'mẹ m đã' which implies a personal attack. The structure and context suggest derision toward LGBTQ identity, using coded language to demean. This falls under the LGBTQ-related toxicity rule (RULE C), as it uses implicit, teasing wording to mock non-heteronormative behavior."
+    },
+    {
+        "text": "khốn nạn mong mày bị bệnh sida chết quách đi rộng đất",
+        "category": "sexism",
+        "id": "sexism_735",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults and verbally attacks an individual by wishing them to contract AIDS and die, which constitutes a clear verbal attack as per the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment contains a direct and explicit attack, wishing harm and death to someone, which is a clear form of verbal abuse.",
+        "toxicity_qwen_reason": "The comment contains a direct verbal attack wishing someone to contract a serious disease (SIDA) and die, which constitutes a severe form of verbal abuse and hostility. This is a clear case of toxic language."
+    },
+    {
+        "text": "nghĩ lại thì bò đỏ cần được yêu thương để có thể sớm giác ngộ sau khi phải sống trong ảo giác quá lâu",
+        "category": "sexism",
+        "id": "sexism_859",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the derogatory term 'bò đỏ' to refer to a specific group and implies they are delusional ('sống trong ảo giác'), which mocks and demeans them, constituting a coded verbal attack under RULE C.",
+        "toxicity_mistral_reason": "The comment uses a metaphor to mock and insult a group of people, specifically those who follow a particular religion or belief system, by referring to them as 'bò đỏ' (red buffalo). This is a derogatory term often used to mock Buddhists, implying that they are misguided or living in a state of delusion.",
+        "toxicity_qwen_reason": "The term 'bò đỏ' is a derogatory slang used to mock or demean individuals, often those perceived as overly nationalistic or supportive of certain political ideologies in Vietnam. The comment uses this term in a patronizing and sarcastic manner ('cần được yêu thương để có thể sớm giác ngộ'), implying that these people are living in 'ảo giác', which is a demeaning characterization. This constitutes an indirect but clear verbal attack, fitting the definition of TOXIC under implicit insults and coded language."
+    },
+    {
+        "text": "những ví dụ t đưa ra để đánh giá 1 thằng đàn ông có ổn để làm chồng hay ko đều có thể đánh giá bằng bằng chứng dc chứ ko phải niềm tin vô căn cứ đâu :)) * sức khỏe? * tử tế? * nghiêm túc trong mqh vs cô gái đó? ngoài ra cũng có vài tiêu chí khác tùy theo từng người. nhưng tao nghĩ chỉ cần căn bản như kia thì chăm chỉ làm ăn vẫn chẳng nghèo dc đâu :)) chỉ có đứa nào mong giàu ú ụ mà ko muốn vất vả thì mới cho rằng mấy thứ trên là vô căn cứ thôi",
+        "category": "sexism",
+        "id": "sexism_179",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses personal opinions and value judgments about criteria for evaluating a potential husband without attacking any specific individual or group. While it uses informal language and profanity ('đứa nào'), it does so in a general, non-targeted manner to criticize a mindset, not a person. This aligns with RULE B (Opinions or value judgments ≠ TOXIC unless attacking).",
+        "toxicity_mistral_reason": "The comment expresses opinions and value judgments about evaluating a man's suitability as a husband, but it does not attack or insult anyone. It uses informal language but does not target any individual or group.",
+        "toxicity_qwen_reason": "Comment expressing personal opinion about criteria for evaluating a suitable husband, using informal language and emoticons but not targeting or attacking any individual or group. It discusses values like health, kindness, and seriousness in relationships without insults or derogatory language. Aligns with Rule B: opinions or value judgments without personal attacks are NON-TOXIC."
+    },
+    {
+        "text": "trường tiểu học, chứ cấp 2 h cũng nát lắm r. nuôi đến đủ 18 tuổi r tính.",
+        "category": "sexism",
+        "id": "sexism_690",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a critical opinion about the education system and child-rearing without targeting, insulting, or mocking any individual or group. It does not contain profanity or implicit attacks.",
+        "toxicity_mistral_reason": "The comment expresses frustration about the quality of education but does not target or attack any individual or group.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about the quality of education at different school levels and suggests waiting until age 18 before making decisions, but it does not attack or demean any individual or group. The language used is informal but not insulting or targeting anyone, falling under acceptable opinion expression (Rule B)."
+    },
+    {
+        "text": "tao ko giỏi hơn đàn bà để giáo dục họ tao ko có nhu cầu học hỏi gì từ đàn bà trong những vấn đề thằng lồn kia nói",
+        "category": "sexism",
+        "id": "sexism_726",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment demeans women as a group by stating 'ko có nhu cầu học hỏi gì từ đàn bà' (have no need to learn anything from women) and uses a vulgar insult 'thằng lồn' (derogatory term) to attack an individual, constituting verbal attack and discrimination.",
+        "toxicity_mistral_reason": "The comment contains derogatory language targeting women ('đàn bà') and uses offensive terms ('thằng lồn') to demean and insult a group, which fits the definition of TOXIC.",
+        "toxicity_qwen_reason": "Comment sử dụng ngôn ngữ tục tĩu ('thằng lồn') và có thái độ miệt thị, khinh thường đối với phụ nữ ('tao ko giỏi hơn đàn bà để giáo dục họ', 'tao ko có nhu cầu học hỏi gì từ đàn bà'), thể hiện sự coi thường và phân biệt đối xử dựa trên giới tính. Đây là hành vi xúc phạm và demeaning đối với một nhóm người (phụ nữ), do đó được phân loại là TOXIC theo định nghĩa về lời nói công kích và phân biệt."
+    },
+    {
+        "text": "ừ mình hiểu mà, minhf cũng mong xã hội có nhiều người có hiểu biết như bạn, cảm ơn bạn, mình cũng thừa nhận điều đó thật, nhưng mình chỉ nói trong xã hội , bạn chí ít là đàn ông hay con trai thì ít bị chê bai khi làm mấy chức kiểu như lãnh đạo này kia hơn, còn phụ nữ thì bị nói là khô khan hay hung dữ . và dù trong xã hội này đã cởi mở hơn cho hai giới và quyền lợi nhưng nếu mình hẹn hò hay như bao bạn nữ khác thì mình vẫn muốn được che chở, dù có leaf tổng thống hay chức vụ cao, và mình đánh giá cao sự lịch sự , ga lăng. nói chung cảm ơn bạn, mình nghĩ cả hai giới hiện nay điều có nhiều vấn đề , cả hai nên tôn trọng nhau.",
+        "category": "sexism",
+        "id": "sexism_439",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment shares observations about gender dynamics in society, expressing personal views and preferences in a respectful manner. It does not insult, mock, demean, or attack any individual or group, and it concludes with a call for mutual respect between genders.",
+        "toxicity_mistral_reason": "The comment expresses opinions and observations about societal expectations and gender roles without attacking or insulting anyone. It promotes mutual respect and understanding.",
+        "toxicity_qwen_reason": "Bình luận thể hiện quan điểm cá nhân về vai trò giới trong xã hội và mong muốn được che chở trong mối quan hệ hẹn hò, đồng thời ghi nhận sự tiến bộ về bình đẳng giới và kêu gọi sự tôn trọng giữa hai giới. Không có hành vi chỉ trích, miệt thị, hay tấn công cá nhân/nhóm nào. Đây là ý kiến mang tính chia sẻ và phản ánh trải nghiệm cá nhân, không mang tính công kích."
+    },
+    {
+        "text": "ừ tại thể chất cũng tốt hơn mà , với lại dù mình có mạnh mẽ đến đâu đi nữa thì mình vẫn muốn có một người đàn ông bảo vệ mình , nói chung chuyện này thì đúng rồi, nhưng có lẽ phụ nữ sẽ gọi cảnh sát, mỗi người một việc ;",
+        "category": "sexism",
+        "id": "sexism_441",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal opinion about gender roles and protection without insulting, mocking, or attacking any individual or group. It uses neutral language and does not contain any profanity, implicit insults, or hostile intent.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion and value judgment about gender roles and personal preferences without attacking or insulting anyone.",
+        "toxicity_qwen_reason": "Comment expresses a personal opinion about gender roles and emotional preferences in a relationship, without insulting or attacking any individual or group. It includes a neutral observation about different reactions (calling the police) but does not demean anyone. The tone is conversational and does not contain mockery, slurs, or implicit attacks."
+    },
+    {
+        "text": "mình thì khác bạn , ai mà không có lúc khó khăn, giả sử bạn có vợ con này kia mà vợ bạn không đi làm, rồi một ngày bạn có biến cố thì ít nhất vẫn còn một số tiền để trụ được . mà nói ở nước ngoài thì có trợ cấp, cũng bớt lo chút",
+        "category": "sexism",
+        "id": "sexism_414",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal opinion and hypothetical scenarios about financial preparedness and social support systems without attacking, mocking, or demeaning any individual or group. There is no use of insults, profanity, coded wording, or hostile emojis.",
+        "toxicity_mistral_reason": "The comment expresses a different opinion but does not attack, insult, or mock anyone. It follows Rule B, as it presents a value judgment without targeting any individual or group.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about financial stability and social support systems without attacking or insulting any individual or group. It discusses hypothetical situations in a neutral and empathetic tone, focusing on life difficulties and preparedness, which falls under permissible opinion under RULE B."
+    },
+    {
+        "text": "t nghĩ là tuỳ quan điểm từng người thôi, t first date thì k quan trọng ai trả lắm t với ny t first date đi lượn cmnl nè, có mất đồng đéo nào đâu =))",
+        "category": "sexism",
+        "id": "sexism_4",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal opinion about first dates using informal language and profanity (e.g., 'đéo'), but it does not target, insult, or attack any individual or group. The profanity is part of the conversational style and lacks hostile intent.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion about first dates and does not attack or target anyone. The use of informal language and emojis does not imply mockery or hostility.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about first dates and who pays, using casual and informal language (e.g., 'cmnl', 'đéo'). However, it does not target or attack any individual or group. According to RULE A and RULE B, profanity and informal speech without intent to insult are classified as NON-TOXIC."
+    },
+    {
+        "text": "t đ biết nhưng 1st date là m phải trả, ko ai cấm share tiền cho các bữa date sau.",
+        "category": "sexism",
+        "id": "sexism_84",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal opinion about who should pay on a first date without targeting, insulting, or mocking any individual or group. It aligns with RULE B, where value judgments without attacks are non-toxic.",
+        "toxicity_mistral_reason": "The comment expresses an opinion about dating without attacking anyone. It does not contain insults, mockery, or any form of verbal attack.",
+        "toxicity_qwen_reason": "Comment is a personal opinion about dating norms, specifically financial responsibility on first dates. It does not insult, mock, or attack any individual or group. The language is informal but not abusive or targeted."
+    },
+    {
+        "text": "thằng đó tao gặp ngoài đời r, mõm trên nhạc thôi chứ đéo có cặc gì hết, trước nó tập gym cùng phòng tao chứ đâu, đợt đó đụng chiện xong cũng chạy vô phòng núp như chó chui chạng. nhiều thằng trong undeground lớn lên từ hood chất hơn nó nhiều",
+        "category": "sexism",
+        "id": "sexism_673",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "Comment directly insults and mocks a specific individual using vulgar language and derogatory comparisons, such as implying cowardice by describing hiding 'like a dog' and dismissing their abilities as worthless.",
+        "toxicity_mistral_reason": "The comment contains explicit insults and mocks an individual, using derogatory language and comparing them to an animal (chó chui chạng).",
+        "toxicity_qwen_reason": "The comment uses explicit insults and degrading language to attack an individual ('mõm trên nhạc thôi chứ đéo có cặc gì hết', 'chạy vô phòng núp như chó chui chạng') implying cowardice and lack of ability, which constitutes a personal attack. The comparison to 'chó' (dog) is a direct demeaning metaphor. This meets the criteria for TOXIC under both explicit and implicit insult rules."
+    },
+    {
+        "text": "gì chứ cái này t nói thật. xung quanh t k hề có ai lại muốn nhà 2 cái rựa hay 2 con vịt trời cùng lúc cả. ý m là t con trai được ưu ái hơn thì t nói k phải nhé, như nhau cả.",
+        "category": "sexism",
+        "id": "sexism_904",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a personal opinion about preferences and denies gender bias without attacking, insulting, or mocking any individual or group. The use of colloquial terms like 'rựa' and 'vịt trời' does not constitute an implicit insult or coded attack in this context, and there is no profanity or hostility present.",
+        "toxicity_mistral_reason": "The comment expresses an opinion and frustration without attacking any individual or group. It does not contain any insults, mockery, or demeaning language.",
+        "toxicity_qwen_reason": "Comment này thể hiện quan điểm cá nhân về sự công bằng trong cách đối xử, không có nội dung chê bai, kỳ thị hay tấn công ai. Các cụm như '2 cái rựa', '2 con vịt trời' là cách nói ẩn dụ mang tính chất ví von, không nhằm chế giễu nhóm người cụ thể. Không có dấu hiệu của lời nói tục tĩu hay hành vi xúc phạm."
+    },
+    {
+        "text": "cay vãi lồn thế tốn cả triệu cơ à.",
+        "category": "sexism",
+        "id": "sexism_41",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment contains profanity ('vãi lồn') but is not directed at any individual or group; it expresses general frustration about a situation (something costing a lot) without attacking anyone, in line with Rule A.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any person or group. It is expressing frustration about a situation without attacking anyone.",
+        "toxicity_qwen_reason": "The comment contains profanity ('lồn') but does not target any individual or group with insults, mockery, or verbal attack. It expresses frustration about a cost (\"tốn cả triệu\") without attacking anyone, which falls under RULE A — profanity alone does not make a comment toxic."
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "text": "di truyền là do gen, vậy hỏi gen nào qui định xhtd của một con người",
+        "category": "lgbtq",
+        "id": "lgbtq_19695",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a neutral, inquisitive statement about genetics and sexuality ('xhtd' likely referring to sexuality or related traits), with no insults, mockery, coded attacks, or targeting of any individual or group. It does not contain profanity, hostile emojis, or derogatory language, and it aligns with expressing a question without attacking.",
+        "toxicity_mistral_reason": "The comment is asking a genuine question about genetics and does not contain any insults, mockery, or attacks on any individual or group. It is a neutral inquiry about scientific information.",
+        "toxicity_qwen_reason": "Câu hỏi mang tính chất trao đổi, tìm hiểu về yếu tố di truyền liên quan đến xu hướng tính dục (XHTD), được đặt ra dưới dạng nghi vấn và không chứa từ ngữ công kích, chế giễu hay nhắm vào nhóm người cụ thể. Mặc dù chủ đề nhạy cảm, nhưng nội dung không có dấu hiệu tấn công hay phân biệt đối xử, do đó không đáp ứng tiêu chí TOXIC."
+    },
+    {
+        "text": "đẹp đôi",
+        "category": "lgbtq",
+        "id": "lgbtq_3036",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment 'đẹp đôi' is a positive compliment meaning 'beautiful couple' or 'perfect match', expressing admiration without any attack, mockery, discrimination, or targeting of individuals or groups.",
+        "toxicity_mistral_reason": "The comment 'đẹp đôi' does not contain any insults, mockery, or attacks on any individual or group. It is a simple, neutral statement.",
+        "toxicity_qwen_reason": "The comment 'đẹp đôi' is a neutral or positive statement expressing an opinion about a couple or pairing. It does not contain any insulting, mocking, or attacking language, and there is no implicit or coded hostility towards any individual or group."
+    },
+    {
+        "text": "à thế 100 ng thì 80 là lgbt r đóa, trên mạng viết đầy",
+        "category": "lgbtq",
+        "id": "lgbtq_17345",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks the LGBT community by exaggerating their prevalence with '80 out of 100 are LGBT' and dismissively noting it's common online, which constitutes an implicit attack on a group.",
+        "toxicity_mistral_reason": "The comment uses a slur to mock or attack the LGBTQ community, which is a violation of the guidelines.",
+        "toxicity_qwen_reason": "Câu bình luận sử dụng thông tin suy diễn (80/100 người là LGBTQ) một cách phi thực tế và mang tính mỉa mai, kết hợp với cụm 'trên mạng viết đầy' để hạ thấp, vô tình hoặc cố ý bêu riếu cộng đồng LGBTQ. Việc đưa ra con số vô lý và khơi lại chủ đề nhạy cảm với thái độ coi thường, đặc biệt trong bối cảnh mạng xã hội thường dùng lối nói như vậy để chế giễu, khiến bình luận mang tính xúc phạm gián tiếp. Dựa theo RULE C và các ví dụ về LGBTQ, đây là dạng nói bóng nói gió, có thể được coi là tấn công gián tiếp vào cộng đồng LGBTQ → TOXIC."
+    },
+    {
+        "text": "cx sszel",
+        "category": "lgbtq",
+        "id": "lgbtq_5041",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'cx sszel' is ambiguous or possibly misspelled, with no clear indication of insults, mockery, demeaning language, or attacks targeting any individual or group. It does not align with typical toxic patterns such as coded attacks, slurs, or implicit hostility.",
+        "toxicity_mistral_reason": "The text contains profanity but does not target any individual or group. It is a general expression of frustration or disagreement without attacking anyone.",
+        "toxicity_qwen_reason": "The text 'cx sszel' appears to be an abbreviation or shorthand (possibly 'cũng' and a name or typo), but it lacks clear context or identifiable offensive content. There is no evident insult, mockery, or attack toward any individual or group. Without clearer indications of toxic intent, it is classified as NON-TOXIC."
+    },
+    {
+        "text": "ko có ai nối dõi thì chả chấm dứt",
+        "category": "lgbtq",
+        "id": "lgbtq_20777",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general opinion about lineage continuation without targeting, insulting, or attacking any individual or group, and it contains no profanity or implicit mockery.",
+        "toxicity_mistral_reason": "The comment expresses frustration or disagreement without attacking anyone. It does not contain insults, mockery, or discriminatory language.",
+        "toxicity_qwen_reason": "The statement is a general observation about lineage or continuity and does not target or attack any individual or group. It expresses a consequence (extinction of lineage) without using insults, mockery, or discriminatory language."
+    },
+    {
+        "text": "hoang ngann tr má☺️",
+        "category": "lgbtq",
+        "id": "lgbtq_12738",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment contains a direct vulgar insult ('tr má') targeting the individual 'hoang ngann', which demeans and verbally attacks them, even with a smiling emoji indicating mockery.",
+        "toxicity_mistral_reason": "The comment uses a derogatory term 'hoang ngann' which is a derogatory slang for someone who is perceived as stupid or foolish. The emoji ☺️ does not mitigate the insulting nature of the comment.",
+        "toxicity_qwen_reason": "The comment uses a deformation of a person's name ('hoang ngann') combined with 'tr má' (a vulgar expression meaning 'f*ck your mother') and a sarcastic emoji (☺️), which together constitute a personal attack. This fits the definition of implicit insult and verbal attack under RULE C."
+    },
+    {
+        "text": "yee lynhlam bùi",
+        "category": "lgbtq",
+        "id": "lgbtq_16055",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'yee lynhlam bùi' appears to be a mention of a name or a casual phrase without any evident insults, mockery, or attacks. It contains no profanity, does not target any individual or group, and lacks contextual cues indicating hostility or toxicity based on the provided definitions and rules.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mocks, or attacks directed at any individual or group. It is simply a name or phrase without any context of toxicity.",
+        "toxicity_qwen_reason": "The text appears to be a name or a casual mention without any insulting, mocking, or attacking language. There is no evidence of derogatory intent, profanity, or harmful implications toward an individual or group."
+    },
+    {
+        "text": "xuân lộc tam quan lệch lạc? ns thử t tam quan lệch lạc chỗ nào? mấy cái thk xem sét cho cố r lên mxh ik khoe chắc là bth🤣🤣🤣",
+        "category": "lgbtq",
+        "id": "lgbtq_7433",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory slang ('thk') and sarcastic mockery to attack a group of people who brag on social media, with laughing emojis 🤣🤣🤣 emphasizing ridicule, which constitutes verbal attack under the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment uses mocking language and emojis (🤣) to ridicule and attack the group 'tam quan', implying they are deceitful or dishonest. The phrase 'khoe chắc là bth' further suggests mockery and ridicule.",
+        "toxicity_qwen_reason": "The comment uses sarcasm and mocking language (e.g., 'ns thử t tam quan lệch lạc chỗ nào?', 'khoe chắc là bth🤣🤣🤣') to ridicule someone's values or behavior, implying moral judgment in a derisive way. The use of laughter emojis (🤣🤣🤣) reinforces the tone of mockery, which qualifies as an implicit verbal attack under RULE C."
+    },
+    {
+        "text": "ừ t tưởng m chơi y học =)) chôn lầy",
+        "category": "lgbtq",
+        "id": "lgbtq_21788",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses coded wording ('chôn lầy') and a laughter emoji (=)) to implicitly mock or attack, which aligns with RULE C for implicit insults and is exemplified as a TOXIC LGBTQ implied attack in the guidelines.",
+        "toxicity_mistral_reason": "The comment uses coded wording and wordplay to imply an attack, specifically targeting the person's knowledge or competence in a field of study, which is a form of ridicule and mockery.",
+        "toxicity_qwen_reason": "The phrase 'chôn lầy' is a deformation of 'Chúa trời', used in a mocking and sarcastic context towards religious belief. Combined with the preceding sentence implying the person believes in a false or absurd notion ('tưởng m chơi y học'), this constitutes an indirect but clear ridicule of religious concepts, which falls under the religion-related toxic pattern."
+    },
+    {
+        "text": "tiến ngyen cần gì tap với một kẻ ngu học",
+        "category": "lgbtq",
+        "id": "lgbtq_11119",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults an individual by using the term 'ngu học' (foolish/ignorant), which constitutes a verbal attack and demeans the person, fitting the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment contains an insult directed at an individual ('kẻ ngu học'), which is a direct attack and falls under the definition of TOXIC language.",
+        "toxicity_qwen_reason": "The comment uses a derogatory term ('kẻ ngu học') to mock and demean an individual, which constitutes a personal attack. This fits the definition of TOXIC under general definition 1: insults or verbal attacks targeting someone."
+    },
+    {
+        "text": "lê quốc duy cùng nghĩ là cặp này sẽ k bền",
+        "category": "lgbtq",
+        "id": "lgbtq_165",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses an opinion about a couple's relationship not lasting, but it does not contain insults, mockery, profanity, or direct attacks on any individual or group. It is a value judgment that falls under non-toxic opinions as per the rules.",
+        "toxicity_mistral_reason": "The comment expresses an opinion about the longevity of a relationship without attacking or insulting anyone.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about a couple's relationship longevity without insulting, mocking, or attacking any individual or group. It does not contain derogatory language, coded insults, or harmful implications."
+    },
+    {
+        "text": "chủ yếu mình yêu nhau và dc mọi ng công nhận hết là đã là điều tuyệt vời lắm rồi 🥰, chúc bạn luôn hp nha",
+        "category": "lgbtq",
+        "id": "lgbtq_30656",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses love, recognition, and well-wishes without any attack, mockery, or insult. The emoji 🥰 reinforces positive sentiment.",
+        "toxicity_mistral_reason": "The comment expresses positive sentiments and well-wishes without attacking anyone.",
+        "toxicity_qwen_reason": "Comment is positive, expressing well-wishes and support for others' happiness. There is no insult, mockery, or attack towards any individual or group."
+    },
+    {
+        "text": "không liên quan nhưng thích cmt á. thích chọc chiến đo vậy á được không=)))) trêu m vui gần chết.",
+        "category": "lgbtq",
+        "id": "lgbtq_21784",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses coded wording 'chọc chiến' and emojis =)))) in a mocking tone, which implicitly attacks or ridicules a group, specifically related to LGBTQ context, as per the examples and rules on implicit insults.",
+        "toxicity_mistral_reason": "The comment contains coded wording and wordplay that implies an attack, specifically using phrases like 'chọc chiến đo' and 'trêu m vui gần chết' to mock or ridicule someone, which fits the definition of TOXIC according to RULE C.",
+        "toxicity_qwen_reason": "The comment uses coded language and playful emojis (e.g., '=))))') to express amusement in 'teasing' and 'prodding' someone ('chọc chiến đo' – a deformation of 'chọc chế độ', implying provoking a reaction from someone, often in a mocking way). The phrase 'trêu m vui gần chết' (teasing you is almost killing me from laughter) indicates that the humor is derived from ridiculing the target, which constitutes an implicit personal attack. According to RULE C, such indirect but hostile or mocking language, especially when combined with laughter-indicating emojis, is classified as TOXIC."
+    },
+    {
+        "text": "tea nguyen não lô.n hay não cat đéo bằng bải não ne con.ra đg kiếm chuyện nguoi ta.để nguoi ta kêu phu huynh ra thi thua b.não nưa ne.bao vê ko đc bà già mày thi về kêu bả cho het hang xom choi free đi.",
+        "category": "lgbtq",
+        "id": "lgbtq_5578",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses vulgar language ('đéo') in an insulting context and directly attacks individuals with demeaning terms like 'bà già mày' (your old lady) and mocks intelligence or actions, constituting verbal attack and mockery as per TOXIC definition.",
+        "toxicity_mistral_reason": "The comment contains insults and demeaning language targeting an individual, using offensive terms and mocking their intelligence and actions.",
+        "toxicity_qwen_reason": "The comment uses deformed profanity and derogatory language (e.g., 'não lô.n', 'não cat', 'bà già mày') to insult and attack an individual, including their family. Phrases like 'kêu bả cho het hang xom choi free' carry mocking and demeaning implications. This constitutes a direct personal attack with abusive intent."
+    },
+    {
+        "text": "lê thành ý",
+        "category": "lgbtq",
+        "id": "lgbtq_15314",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a neutral name with no content that attacks, insults, or mocks any individual or group, and it does not contain any profanity, opinions, or implicit insults as defined.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mockery, or attacks. It is a simple statement of opinion without targeting anyone.",
+        "toxicity_qwen_reason": "The text consists of only a name ('Lê Thành Ý') with no additional content, commentary, or context that indicates an attack, insult, or derogatory intent. A standalone name, without modifying language or negative framing, does not meet the criteria for toxicity."
+    },
+    {
+        "text": "mong hai cháu luôn hạnh phúc",
+        "category": "lgbtq",
+        "id": "lgbtq_32107",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a positive wish for happiness without any insults, mockery, demeaning language, or attacks directed at individuals or groups.",
+        "toxicity_mistral_reason": "The comment expresses a wish for happiness for two individuals, which is a positive sentiment and does not contain any insults, mockery, or attacks.",
+        "toxicity_qwen_reason": "The comment expresses a positive wish for happiness and does not contain any insults, mockery, or attacking language toward individuals or groups."
+    },
+    {
+        "text": "dng thẳng mà gặp dc chân ái là cx công thôi",
+        "category": "lgbtq",
+        "id": "lgbtq_24855",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general opinion about honesty and meeting true love without targeting, insulting, mocking, or attacking any individual or group. It contains no profanity, implicit insults, or elements from the specified toxic categories.",
+        "toxicity_mistral_reason": "The comment expresses an opinion about relationships without attacking or insulting anyone.",
+        "toxicity_qwen_reason": "The comment expresses a personal opinion about finding true love and implies that being straightforward (honest) makes one deserving of love. There is no insult, mockery, or attack toward any individual or group. The language used is informal but does not target anyone in a harmful or demeaning way."
+    },
+    {
+        "text": "me",
+        "category": "lgbtq",
+        "id": "lgbtq_19016",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The word 'me' alone is a neutral self-reference without any target, insult, mockery, or attack. It contains no profanity aimed at others and no implicit hostility.",
+        "toxicity_mistral_reason": "The comment 'me' does not contain any insults, mockery, or attacks towards any individual or group. It is a neutral and non-toxic statement.",
+        "toxicity_qwen_reason": "The input 'me' is a pronoun and does not contain any insulting, mocking, or attacking content. It does not target anyone nor express hostility, discrimination, or verbal attack. It is neutral and context-free."
+    },
+    {
+        "text": "nguyễn văn phương hahha , có lẽ mình hiểu lầm ha em iu",
+        "category": "lgbtq",
+        "id": "lgbtq_385",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text contains casual laughter and a personal apology or clarification about a misunderstanding, with no insults, mockery, or attacks directed at any individual or group. The tone is informal and playful but not demeaning or hostile.",
+        "toxicity_mistral_reason": "The comment uses informal language and profanity but does not attack or insult anyone. It expresses a misunderstanding and uses a friendly tone.",
+        "toxicity_qwen_reason": "The comment is lighthearted and includes laughter ('hahha') and a term of endearment ('em iu'), indicating friendly or affectionate tone. There is no insult, mockery, or attack toward any individual or group. It appears to clarify a misunderstanding in a non-hostile way."
+    },
+    {
+        "text": "chuẩn chỉ",
+        "category": "lgbtq",
+        "id": "lgbtq_25552",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'chuẩn chỉ' is a positive affirmation meaning 'accurate' or 'correct' and does not contain insults, mockery, or attacks towards any individual or group.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mockery, or attacks. It is a simple statement without any toxic elements.",
+        "toxicity_qwen_reason": "The comment 'chuẩn chỉ' is a short expression meaning 'exactly right' or 'perfectly accurate' and does not contain any insult, mockery, or attack toward an individual or group. It is a colloquial affirmation without toxic intent."
+    },
+    {
+        "text": "trần mạnh hùng ✔",
+        "category": "lgbtq",
+        "id": "lgbtq_4871",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text is a name ('Trần Mạnh Hùng') with a checkmark emoji (✔), which is neutral or positive in tone. There is no insult, mockery, profanity, or attack targeting any person or group, and it does not fall under any specified toxic categories such as religion, region, LGBTQ, or appearance.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mocks, or attacks directed at any individual or group. It simply mentions a name without any derogatory language or intent.",
+        "toxicity_qwen_reason": "The text only contains a name and a checkmark symbol, with no offensive, insulting, or attacking content. There is no indication of toxicity, mockery, or harmful intent."
+    },
+    {
+        "text": "xem mà gay cấn quá 😱🤡",
+        "category": "lgbtq",
+        "id": "lgbtq_28855",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the phrase 'gay cấn' which, combined with mocking emojis 😱🤡, suggests wordplay that implicitly ridicules LGBTQ individuals or situations. This aligns with RULE C (implicit insults or coded wording are TOXIC) and the emojis signal mockery per RULE D.",
+        "toxicity_mistral_reason": "The comment uses the word 'gay' in a derogatory manner, combined with emojis (😱🤡) that signal ridicule or mockery, implying an attack on LGBTQ identity.",
+        "toxicity_qwen_reason": "The term 'gay cấn' uses wordplay on 'gay', combining it with 'cấn' (emotional, intense) which creates a pun that mocks LGBTQ identity. The emojis 😱🤡 further suggest ridicule or mockery, aligning with RULE C (coded wording/wordplay) and the provided LGBTQ examples where similar phrasing is classified as TOXIC."
+    },
+    {
+        "text": "loạn mẹ hết rồi",
+        "category": "lgbtq",
+        "id": "lgbtq_1990",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment contains profanity ('mẹ') but does not target any individual or group; it expresses general frustration about a situation without attacking anyone.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any individual or group. It is an expression of frustration without attacking anyone.",
+        "toxicity_qwen_reason": "The comment expresses frustration or strong emotion using profanity ('loạn mẹ hết rồi') but does not target or attack any individual or group. It lacks insulting, demeaning, or discriminatory language. According to RULE A, profanity alone without a target is classified as NON-TOXIC."
+    },
+    {
+        "text": "tôi chỉ muốn xin in4 váy của xoài",
+        "category": "lgbtq",
+        "id": "lgbtq_4508",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a straightforward request for information about a dress, with no insults, mockery, profanity, or attacks targeting any individual or group.",
+        "toxicity_mistral_reason": "The comment is a simple request for information about a dress, without any insults, mockery, or attacks.",
+        "toxicity_qwen_reason": "Comment là một yêu cầu thông tin về sản phẩm váy, không chứa nội dung chế giễu, tấn công hay nhắm vào cá nhân/nhóm. Không có ngôn ngữ lóng, tục tĩu hay hình thức công kích ẩn."
+    },
+    {
+        "text": "cố gắng lên bạn",
+        "category": "lgbtq",
+        "id": "lgbtq_21924",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a straightforward encouragement ('try harder, friend') with no insults, mockery, coded attacks, or targeting of any individual or group.",
+        "toxicity_mistral_reason": "The comment 'cố gắng lên bạn' is encouraging and does not contain any insults, mockery, or attacks. It is a positive statement aimed at motivating someone.",
+        "toxicity_qwen_reason": "The comment 'cố gắng lên bạn' is a positive and encouraging statement, with no indication of insult, mockery, or attack towards any individual or group. It does not contain profanity, coded language, or any form of verbal aggression."
+    },
+    {
+        "text": "cậu râu này khôn quá",
+        "category": "lgbtq",
+        "id": "lgbtq_32141",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment 'cậu râu này khôn quá' is an opinion about someone's cleverness without insults, profanity, or implicit attacks. It does not mock, demean, or target any individual or group, and there are no indicators of sarcasm or hostility in the text.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mockery, or attacks directed at any individual or group. It is simply expressing an opinion about someone's intelligence.",
+        "toxicity_qwen_reason": "The comment 'cậu râu này khôn quá' is a general observation or opinion about someone being clever, without any insult, mockery, or attack toward an individual or group. It does not contain profanity, discrimination, or implicit hostility. The statement lacks targeting or harmful intent, and thus falls under NON-TOXIC."
+    },
+    {
+        "text": "nguyễn thị thanh hiềnchtrinh say gex gì v tr",
+        "category": "lgbtq",
+        "id": "lgbtq_13801",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses deformed slang 'gex' (likely a coded term related to sex or LGBTQ identity) to mock or insult an individual named Nguyễn Thị Thanh Hiền Ch Trinh, which constitutes an implicit attack under the rules for TOXIC behavior and aligns with LGBTQ-related toxicity patterns.",
+        "toxicity_mistral_reason": "The comment uses slang and deformation to mock or attack LGBTQ identity, as indicated by the phrase 'say gex' which is a derogatory term for LGBTQ individuals.",
+        "toxicity_qwen_reason": "The phrase 'say gex gì v tr' uses deformed slang and ambiguous wording that can be interpreted as a veiled reference mocking LGBTQ identity ('gex' as a deformation of 'gay'). Combined with the unusual name formatting and lack of clear non-hostile context, this aligns with RULE C — implicit insults or coded language targeting LGBTQ individuals. The comment carries a mocking tone, typical of indirect LGBTQ-related attacks."
+    },
+    {
+        "text": "loại biến thái",
+        "category": "lgbtq",
+        "id": "lgbtq_4613",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'loại biến thái' directly insults and demeans a person or group by labeling them as perverts, which constitutes a verbal attack as per the toxic definition.",
+        "toxicity_mistral_reason": "The comment uses slang 'loại biến thái' which is a derogatory term often used to mock or attack LGBTQ individuals, implying an attack on their identity.",
+        "toxicity_qwen_reason": "The term 'biến thái' is a Vietnamese slur that means 'pervert' or 'deviant' and is used to insult or demean someone by implying they have abnormal or unacceptable behavior, often of a sexual nature. This is a direct personal attack and qualifies as toxic language under the definition of insults or verbal attacks."
+    },
+    {
+        "text": "đúng tam tai 2025 của quý mùi lướt auto thấy",
+        "category": "lgbtq",
+        "id": "lgbtq_12987",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment discusses astrological or folk beliefs ('tam tai', 'quý mùi') without directly insulting, mocking, or attacking any individual or group. It lacks profanity, emojis signaling mockery, or coded wording that implies an attack, and appears to be a casual observation or statement of belief.",
+        "toxicity_mistral_reason": "The comment does not contain any insults, mocks, or attacks directed at any individual or group. It is a neutral statement about a specific event or situation.",
+        "toxicity_qwen_reason": "Comment là một nhận xét mang tính dự đoán hoặc bàn luận về vận hạn (tam tai) trong năm 2025 liên quan đến tuổi Quý Mùi, không chứa nội dung công kích, chế giễu, hay nhắm vào cá nhân/tập thể nào. Dù có thể liên quan đến tín ngưỡng, nhưng không có dấu hiệu chế giễu tôn giáo hay nhóm người."
+    },
+    {
+        "text": "là rất nhiều 1 đứa trẻ ko phải là mạng hay j mà m nói đc câu đấy, cuộc đời của chúng với m rẻ mạt tới vậy sao",
+        "category": "lgbtq",
+        "id": "lgbtq_19858",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly attacks the recipient ('m') by accusing them of treating children's lives as cheap ('rẻ mạt'), which demeans their character and constitutes a verbal attack.",
+        "toxicity_mistral_reason": "The comment attacks and demeans a group of people (children) by implying their lives are worthless, which is a form of verbal attack and discrimination.",
+        "toxicity_qwen_reason": "Bình luận sử dụng lời lẽ miệt thị, xúc phạm và coi thường mạng sống hoặc cuộc đời của trẻ em ('một đứa trẻ không phải là mạng hay gì mà m nói được câu đấy', 'cuộc đời của chúng với m rẻ mạt tới vậy sao'), mang tính chất tấn công người khác về mặt đạo đức và cảm xúc, thể hiện sự khinh thường và phán xét nặng nề. Đây là dạng công kích gián tiếp nhưng mang tính chất độc hại."
+    },
+    {
+        "text": "hết phước mới coi đc cái clip của mấy thành phần suy đồi xh này,lỏ thiệt",
+        "category": "lgbtq",
+        "id": "lgbtq_13719",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly attacks a group by using derogatory language such as 'thành phần suy đồi' (degenerate social elements) to mock and demean them, which aligns with the definition of TOXIC as it involves insulting or verbally targeting individuals or groups.",
+        "toxicity_mistral_reason": "The comment contains explicit insults and demeaning language targeting a group of people, which aligns with the definition of TOXIC.",
+        "toxicity_qwen_reason": "Comment sử dụng ngôn ngữ miệt thị ('thành phần suy đồi xh') để tấn công, xúc phạm một nhóm người, thể hiện thái độ khinh thường và phân biệt. Cụm từ 'hết phước' cũng mang tính mỉa mai, ám chỉ việc xem clip là điều xui rủi, gián tiếp công kích người liên quan đến nội dung clip. Đây là dạng lời nói mang tính công kích, không chỉ là ý kiến cá nhân."
+    },
+    {
+        "text": "cha mẹ sinh con, trời sinh tánh. làm ơn k có giúp thì được thì đừng buôn lời cay nghiệt người khác",
+        "category": "lgbtq",
+        "id": "lgbtq_21216",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general plea against using harsh language without targeting any specific person or group with insults, mockery, or attacks. It advocates for kinder speech without demeaning or attacking anyone.",
+        "toxicity_mistral_reason": "The comment expresses a general opinion and does not target any individual or group with insults or attacks. It advises against harsh words and does not fall under any of the toxic categories.",
+        "toxicity_qwen_reason": "Bình luận thể hiện quan điểm về việc không nên buôn lời cay nghiệt với người khác, không nhằm tấn công hay xúc phạm cá nhân, nhóm nào. Dù có dùng từ 'cay nghiệt', nhưng ngữ cảnh là phê phán hành vi thiếu thiện chí, không mang tính chỉ trích trực tiếp hay miệt thị. Do đó không đủ tiêu chí để gán nhãn TOXIC."
+    },
+    {
+        "text": "một câu chuyện tình rất đẹp rất dễ thương. chúc 2 cháu trăm năm hp chung thủy bên nhau suốt đời.",
+        "category": "lgbtq",
+        "id": "lgbtq_32610",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a positive and congratulatory message expressing good wishes without any insults, mockery, or attacks directed at individuals or groups.",
+        "toxicity_mistral_reason": "The comment expresses a positive sentiment and good wishes for a couple, without any insults, mockery, or attacks.",
+        "toxicity_qwen_reason": "Comment là một lời chúc tích cực, thể hiện sự trân trọng và mong ước hạnh phúc cho đôi trẻ. Không có dấu hiệu tấn công, chế giễu hay phân biệt đối xử nào."
+    },
+    {
+        "text": "binh nguyen cạn phước khi lướt face",
+        "category": "lgbtq",
+        "id": "lgbtq_12701",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks an individual named 'Binh Nguyen' by implying they exhaust their luck or face misfortune when scrolling through Facebook, which is demeaning and constitutes a verbal attack.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'cạn phước' (bad luck) to mock or insult someone, which is an implicit attack.",
+        "toxicity_qwen_reason": "The comment uses indirect, mocking language by implying someone 'cạn phước' (ran out of luck/blessings) while 'lướt face' (browsing Facebook), which is a sarcastic or superstitious way of belittling the person's character or fate. This kind of expression often carries a tone of ridicule or implied misfortune, qualifying as an implicit insult under RULE C."
+    },
+    {
+        "text": "v chj ở ngoài đời có nghe đc từ parky nào ko ạ hay tụi nó chỉ gáy trên mạng thôi",
+        "category": "region",
+        "id": "region_23118",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the deformed regional label 'parky' to refer to Northern Vietnamese people and insults them with 'gáy' (bark), implying they are only brave or noisy online, which constitutes mocking and demeaning a group, making it TOXIC according to the rules on region-based attacks and implicit insults.",
+        "toxicity_mistral_reason": "The comment uses the term 'parky' which is a derogatory term for people from the Northern region of Vietnam. This is a clear example of regional mockery and insult, making the comment TOXIC.",
+        "toxicity_qwen_reason": "The comment uses 'parky' — a deformed, derogatory term referencing 'Bắc Kỳ' (Northern people) — in a mocking context, implying that people from that region are loud or obnoxious ('chỉ gáy trên mạng'). This constitutes a regional insult under the defined rules, especially given the use of slang and dismissive tone."
+    },
+    {
+        "text": "đâu cũng có người này người kia nhưng dân thanh hoá toàn người kia ko thấy người này",
+        "category": "region",
+        "id": "region_20058",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment negatively generalizes and discriminates against people from Thanh Hoa by implying they are all of a certain undesirable kind, which constitutes a verbal attack on a regional group.",
+        "toxicity_mistral_reason": "The comment uses regional labels ('dân Thanh Hoá') to mock or insult a region, which is a clear violation of the regional TOXIC rule.",
+        "toxicity_qwen_reason": "Comment sử dụng yếu tố vùng miền (Thanh Hóa) để quy chụp, phân biệt và có ý mỉa mai, coi thường bằng cụm 'dân thanh hoá toàn người kia ko thấy người này', mang tính xúc phạm, kỳ thị địa phương. Đây là dạng tấn công gián tiếp dựa trên khu vực địa lý → TOXIC theo quy định về REGION."
+    },
+    {
+        "text": "mãi iu c đẹp",
+        "category": "region",
+        "id": "region_22431",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a positive expression of affection and admiration ('forever love you beautiful'), with no insults, mockery, or attacks directed at any individual or group.",
+        "toxicity_mistral_reason": "The comment expresses admiration for someone's appearance without any insulting or attacking language.",
+        "toxicity_qwen_reason": "The comment 'mãi iu c đẹp' expresses affection or admiration and does not contain any insulting, discriminatory, or attacking language. It is a positive, non-aggressive statement."
+    },
+    {
+        "text": "đù. gái ở mới nhau. tự dưng có chửa😁😁😁",
+        "category": "region",
+        "id": "region_5213",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses indirect mockery and laughing emojis to ridicule a situation involving an unexpected pregnancy, implying derision toward the individuals involved.",
+        "toxicity_mistral_reason": "The comment uses the word 'đù' (a derogatory term for a woman) and implies that the woman is promiscuous by suggesting she got pregnant shortly after meeting someone. The emojis 😁😁😁 also signal mockery.",
+        "toxicity_qwen_reason": "The comment uses mockery and insinuation about a woman suddenly becoming pregnant early in a relationship, implying promiscuity or lack of morals. The use of 'đù' and excessive smiley emojis (😁😁😁) adds a mocking, derisive tone. This constitutes an implicit attack on an individual's character based on gender and reproductive status, which falls under TOXIC according to RULE C (coded wording, mock implied attack) and aligns with patterns of gender-based ridicule."
+    },
+    {
+        "text": "qua chuẩn 36 mãi đỉnh",
+        "category": "region",
+        "id": "region_20491",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment uses positive language ('chuẩn', 'đỉnh') to express admiration or approval without targeting, insulting, or mocking any individual or group.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any individual or group. It is expressing frustration or disagreement without attacking someone.",
+        "toxicity_qwen_reason": "The comment appears to be a short, informal expression of approval or admiration, possibly related to gaming or a personal achievement (e.g., '36' might refer to a level or score). There is no insult, attack, or derogatory language toward any individual or group. The informal tone does not constitute toxicity under the given criteria."
+    },
+    {
+        "text": "nhận là người việt nam nhưng mở mồm ra là parky với cali",
+        "category": "region",
+        "id": "region_23924",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment mocks or insults a person's identity by using deformed regional terms ('parky' likely for 'Bắc Kỳ' and 'cali'), implying they are not authentically Vietnamese, which constitutes a demeaning attack based on regional speech patterns.",
+        "toxicity_mistral_reason": "The comment uses a regional label (parky) to mock or insult a region, which is explicitly prohibited by the guidelines.",
+        "toxicity_qwen_reason": "Comment sử dụng từ 'parky' và 'cali' như một cách chế giễu, gán ghép người Việt Nam với các biệt danh vùng miền (Bắc Kỳ, Cali - chỉ người Việt ở hải ngoại, thường mang sắc thái miệt thị). Việc dùng từ mang tính mỉa mai để gắn nhãn một cách tiêu cực cho nhóm người dựa trên vùng miền → thuộc trường hợp REGION theo quy định, do đó là TOXIC."
+    },
+    {
+        "text": "oanh vy lý có đâu, tụi bán nước chạy qua cali cả rồi",
+        "category": "region",
+        "id": "region_1401",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment insults and verbally attacks a group by labeling them as 'tụi bán nước' (traitors) and mocking their escape to California, which fits the definition of toxic language targeting individuals or groups.",
+        "toxicity_mistral_reason": "The comment uses the phrase 'tụi bán nước' which is a derogatory term targeting a specific group, implying they are traitors or sellouts. This constitutes an attack on a group, making the comment TOXIC.",
+        "toxicity_qwen_reason": "The comment uses regional implication and mocking tone toward a group of people (likely referring to Vietnamese individuals in California, often associated with overseas Vietnamese communities). The phrase 'tụi bán nước chạy qua cali' carries a derogatory stereotype, accusing them of being traitors ('bán nước') and fleeing the country, which is a common insult in political and regional conflicts. This constitutes a verbal attack based on regional and political identity."
+    },
+    {
+        "text": "kiểu phân biệt",
+        "category": "region",
+        "id": "region_16198",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The phrase 'kiểu phân biệt' translates to 'type of discrimination' and is a general descriptive statement. Without additional context or explicit targeting, it does not insult, mock, demean, or attack any individual or group, thus it does not meet the criteria for TOXIC.",
+        "toxicity_mistral_reason": "The comment 'kiểu phân biệt' does not contain any insults, mocks, or attacks directed at any individual or group. It is a neutral statement that could be interpreted as a question or statement about distinguishing or categorizing something, without any toxic intent.",
+        "toxicity_qwen_reason": "The phrase 'kiểu phân biệt' is incomplete and lacks context to determine an attack or insult. It literally means 'a type of discrimination' but is not directed at any individual or group here. Without a target or clear derogatory intent, it does not meet the threshold for TOXIC under the given rules."
+    },
+    {
+        "text": "nguyễn thoại đây là món ăn truyền thống từ đời này sang đời khác của xứ bắc kỳ 😂",
+        "category": "region",
+        "id": "region_2539",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the regional label 'xứ bắc kỳ' in a mocking way to insult the northern region, reinforced by the laughing emoji 😂, which aligns with the REGION case definition for TOXIC content.",
+        "toxicity_mistral_reason": "The comment uses regional labels (xứ bắc kỳ) and emojis (😂) to mock or insult a region, which is a clear violation of the regional toxic language rule.",
+        "toxicity_qwen_reason": "The comment uses 'xứ Bắc Kỳ' in a mocking way, combined with laughter emoji 😂, to ridicule people from the Northern region of Vietnam. This fits the pattern of using regional labels in a derogatory, stereotypical manner, which is classified as TOXIC according to the REGION examples provided."
+    },
+    {
+        "text": "tôi nghệ an đây ai kì tôi cũng ko quan tâm đùng đụng chén cơm tôi ăn là đc🥰",
+        "category": "region",
+        "id": "region_16128",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a personal statement expressing indifference towards others and a defensive boundary regarding one's own livelihood (symbolized by 'rice bowl'), without insulting, mocking, or attacking any individual or group. The positive emoji 🥰 indicates a friendly or affectionate tone, and there is no use of profanity or regional mockery.",
+        "toxicity_mistral_reason": "The comment expresses a personal opinion and uses informal language but does not target or attack any individual or group.",
+        "toxicity_qwen_reason": "Comment thể hiện thái độ tự vệ và khẳng định ranh giới cá nhân, không có nội dung xúc phạm, chế giễu hay tấn công ai. Dù dùng từ mạnh ('đùng đụng'), nhưng không nhằm vào cá nhân hay nhóm người nào. Biểu tượng cảm xúc 😊 thể hiện thái độ tích cực, không gây hằn học."
+    },
+    {
+        "text": "parrky 🤨🤣",
+        "category": "region",
+        "id": "region_6455",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses 'parrky', a deformed variant of a regional label, combined with emojis 🤨🤣 that signal ridicule and mockery, directly attacking a regional group as specified in the REGION category examples.",
+        "toxicity_mistral_reason": "The comment uses a regional label 'parrky' which is a deformed variant of 'Bắc Kỳ' (Northern Vietnam) and is used to mock or insult the region. The emojis 🤨🤣 further signal ridicule or hostility.",
+        "toxicity_qwen_reason": "The term 'parrky' is a deformed variant of 'Bắc Kỳ', used as a regional label to mock people from Northern Vietnam. Combined with the emojis 🤨🤣, which signal ridicule, this constitutes an indirect but clear mockery based on regional identity, per the defined rules."
+    },
+    {
+        "text": "giọng bk 75 🤣🤣😬",
+        "category": "region",
+        "id": "region_132",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the regional label 'bk' (Bắc Kỳ) to mock the Northern Vietnamese accent, and the emojis 🤣🤣😬 signal ridicule, constituting an implicit attack on a regional group as per the REGION case and RULE C.",
+        "toxicity_mistral_reason": "The comment uses a regional label 'giọng bk 75' to mock or insult a region, which is considered TOXIC according to the regional rules.",
+        "toxicity_qwen_reason": "The comment uses coded language and emojis (🤣🤣😬) to mock or ridicule based on regional accent ('giọng bk 75'), which is a deformation referring to a Northern Vietnamese (Bắc Kỳ) accent associated with Hanoi. This fits the pattern of regional mockery, which is considered TOXIC under the rules."
+    },
+    {
+        "text": "lũ mất z , bắc con mịa nhà mày",
+        "category": "region",
+        "id": "region_1882",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment contains explicit insults and uses regional derogatory language ('bắc') to attack a group, which constitutes verbal attack and discrimination under the TOXIC definition.",
+        "toxicity_mistral_reason": "The comment contains explicit insults and derogatory language targeting an individual or a group, which is a clear violation of the TOXIC definition.",
+        "toxicity_qwen_reason": "The comment uses offensive language and regional derogation. 'Bắc con mịa nhà mày' is a direct insult targeting people from the North (Bắc), which falls under the 'REGION' category of toxic speech. The phrase 'lũ mất z' (a deformed spelling of 'lũ mất dạy') further amplifies the derogatory tone, indicating verbal attack and mockery towards a group."
+    },
+    {
+        "text": "màu son đẹp thế e",
+        "category": "region",
+        "id": "region_5965",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a positive compliment about lipstick color ('what a beautiful lipstick color, e') with no insults, mockery, profanity, or attacks directed at any individual or group. It expresses a harmless opinion without any toxic elements.",
+        "toxicity_mistral_reason": "The comment is expressing an opinion about the appearance of lipstick, which does not attack or insult anyone.",
+        "toxicity_qwen_reason": "The comment is a positive remark about lipstick color, expressing admiration without any attack, insult, or derogatory content."
+    },
+    {
+        "text": "(3) có nhiều vị vua nhất việt nam , một vài thành phần chửi bọn t parky thì xem lại nơi bọn m ở đã từng có ai làm vua và đóng kinh đô ở đó chưa ,",
+        "category": "region",
+        "id": "region_21934",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the regional label 't parky' (a deformed variant likely referring to a specific region) to mock and insult individuals or groups by questioning their historical heritage, implying inferiority based on region, which demeans and attacks them.",
+        "toxicity_mistral_reason": "The comment uses the term 'parky' to mock or insult a region, which is a TOXIC pattern according to the regional rules.",
+        "toxicity_qwen_reason": "The comment uses 'parky' (a deformed spelling of 'Bắc Kỳ' – Northern Vietnam) to mock or insult a region, which falls under the REGION category. This constitutes a regional slur, especially in the context of challenging others' historical significance, and is therefore classified as TOXIC according to the provided rules."
+    },
+    {
+        "text": "nếu là m bị chửi m có đáp lại ko",
+        "category": "region",
+        "id": "region_24423",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a neutral hypothetical question about responding to being cursed at, with no insults, mockery, or attacks directed at any individual or group.",
+        "toxicity_mistral_reason": "The comment is asking a question about responding to insults, but it does not contain any insults, mockery, or attacks directed at anyone. It is simply seeking information or advice.",
+        "toxicity_qwen_reason": "Câu hỏi mang tính giả định và phản hồi cá nhân, không chứa sự tấn công, xúc phạm hay chế giễu ai. Đây là dạng đặt câu hỏi về hành vi trong tình huống bị chửi, không mang tính độc hại."
+    },
+    {
+        "text": "chúng nó thấy người cùng miền lên tiếng cái lặn mất tăm=) thử là ng miền bắc lên tiếng coi cno giãy lên sủa ấy.!",
+        "category": "region",
+        "id": "region_22337",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses derogatory language ('giãy lên sủa' meaning 'squirm and bark') to mock and insult people from the Northern region of Vietnam, implying they are animal-like and reactive. This constitutes an attack on a regional group, aligning with the REGION category's TOXIC definition.",
+        "toxicity_mistral_reason": "The comment uses regional labels to mock or insult a region, specifically targeting people from the same region who speak up. The use of 'cno giãy lên sủa ấy' and the emoji =) suggest ridicule and hostility.",
+        "toxicity_qwen_reason": "The comment uses regional labels ('người cùng miền', 'người miền Bắc') in a mocking and confrontational way, implying that people from the North are quick to argue or 'sủa' (bark), which is a dehumanizing and derogatory term. This fits the pattern of regional-based insult, which is considered TOXIC under the special case rules."
+    },
+    {
+        "text": "ai o si ma",
+        "category": "region",
+        "id": "region_36001",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The text 'ai o si ma' is ambiguous and does not contain explicit or implicit insults, mockery, or attacks targeting any individual or group. It appears to be casual or deformed language without malicious intent.",
+        "toxicity_mistral_reason": "The comment contains profanity but does not target any person or group. It is a general expression of frustration or disagreement without attacking someone.",
+        "toxicity_qwen_reason": "The phrase 'ai o si ma' appears to be a deformed or playful way of writing 'ai ở sự mà', but without clear context or target, it does not contain insults, attacks, or discriminatory language. There is no evidence of mockery toward an individual or group, and it does not fit any of the specified toxic patterns related to religion, region, LGBTQ, or appearance."
+    },
+    {
+        "text": "chê cá miền tây mà kéo cả lũ về miền tây sống, kéo cả họ cả hàng vào xin ở nhờ đất người miền tây",
+        "category": "region",
+        "id": "region_3236",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses regional labeling ('miền tây') and derogatory terms ('cả lũ') to mock and criticize a group for hypocrisy, constituting a verbal attack based on region as per the REGION case rules.",
+        "toxicity_mistral_reason": "The comment uses regional labels to mock or insult a region, specifically targeting 'miền tây' and implying that people from this region are inferior or should be relocated.",
+        "toxicity_qwen_reason": "The comment uses regional labeling ('miền tây') in a derogatory and mocking manner, implying negative stereotypes and collective blame. The phrasing 'kéo cả lũ', 'kéo cả họ cả hàng vào xin ở nhờ' carries a hostile tone that demeans people from a specific region, which falls under the RULE on REGION-based insults. This constitutes a regional attack, making the comment TOXIC."
+    },
+    {
+        "text": "này là bắc kỳ lừa, không phải là bắc kỳ lừa",
+        "category": "region",
+        "id": "region_4906",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses the derogatory regional term 'bắc kỳ lừa' to mock and insult northern Vietnamese people, constituting a verbal attack based on regional discrimination.",
+        "toxicity_mistral_reason": "The comment uses a regional label 'bắc kỳ lừa' to mock or insult a region, which falls under the REGION category of toxic language.",
+        "toxicity_qwen_reason": "The comment uses a repeated phrase with deformation ('bắc kỳ lừa') that mocks people from the Northern region of Vietnam by implying they are 'liars' (lừa), which is a derogatory stereotype. This constitutes a regional insult under the defined rules."
+    },
+    {
+        "text": "ko có \"parky\" sao có \"namky\"",
+        "category": "region",
+        "id": "region_12038",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses deformed regional labels ('parky' and 'namky') in a mocking or rhetorical context, implying ridicule or insult towards regional identities, which aligns with the TOXIC definition for region-based attacks.",
+        "toxicity_mistral_reason": "The comment uses a deformed regional label 'namky' to mock or insult a region, which is a clear violation of the regional toxicity rule.",
+        "toxicity_qwen_reason": "The comment uses a playful but intentional deformation of regional labels ('parky' for Bắc Kỳ, 'namky' for Nam Kỳ), evoking regional stereotyping. The phrasing implies mockery toward regional identity by treating it as an absurd or inconsistent concept, which aligns with the pattern of region-based implicit insult. This is similar to the example 'parrky 🤨🤣' which is classified as TOXIC under regional mockery."
+    },
+    {
+        "text": "nói vậy cho bọn kid không biết gì mà hay nói parky cho bọn nó hiểu, t nói vậy m hiểu chưa kid?",
+        "category": "region",
+        "id": "region_12217",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment insults and mocks a group by referring to them as 'bọn kid' (ignorant kids) and uses 'parky', likely a deformed regional label, to demean and attack, which aligns with the definitions of TOXIC language involving insults and regional mockery.",
+        "toxicity_mistral_reason": "The comment uses the term 'parky' which is a deformed variant of 'bắc kỳ' (northern region) to mock or insult people from that region, violating the REGION rule.",
+        "toxicity_qwen_reason": "The comment uses 'parky' (a deformed variant of 'Bắc Kỳ') in a mocking manner towards a regional group, and includes condescending language ('bọn kid không biết gì', 't nói vậy m hiểu chưa kid?') that demeans and ridicules others based on regional identity. This aligns with the TOXIC pattern for regional mockery."
+    },
+    {
+        "text": "😅😅😅 mượn tiền xong mất hút",
+        "category": "region",
+        "id": "region_33252",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general observation about someone borrowing money and disappearing, without explicitly targeting any individual or group. The emojis 😅😅😅 suggest a light-hearted or frustrated tone, but do not constitute ridicule or hostile mockery directed at a specific person. It lacks insults, demeaning language, or implicit attacks as defined for TOXIC content.",
+        "toxicity_mistral_reason": "The comment uses emojis and informal language to express frustration, but it does not target or attack any individual or group.",
+        "toxicity_qwen_reason": "The comment expresses a personal experience or frustration about someone borrowing money and disappearing, using laughing emojis that likely signal irony or self-mockery rather than mocking or attacking a person or group. There is no insult, discrimination, or targeted verbal attack present."
+    },
+    {
+        "text": "tự hào parky😂",
+        "category": "region",
+        "id": "region_11516",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses 'parky', likely a deformed regional term, in a sarcastic context with 'tự hào' and a laughing emoji 😂, which collectively mock or insult a region or group, falling under implicit insults and regional targeting as per the rules.",
+        "toxicity_mistral_reason": "The comment uses the regional label 'parky' in a mocking manner, which is a clear violation of the regional TOXIC rule.",
+        "toxicity_qwen_reason": "The term 'parky' is a deformation of 'Bắc Kỳ', used here with mocking intent. The emoji 😂 reinforces ridicule. This aligns with the rule that regional labels or their deformed variants used to mock a region are TOXIC."
+    },
+    {
+        "text": "biêt 2 thằng thanh hóa. cho mượn tiền đóng tiền ăn trong trung tâm học tiếng nhật. xong mất tích con mẹ nó luôn. có hơn triệu bạc mỗi thằng mà đối lấy nhân cách rẻ rách.",
+        "category": "region",
+        "id": "region_33117",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment directly insults two individuals from Thanh Hoa by demeaning their character ('nhân cách rẻ rách'), which constitutes a verbal attack. The use of regional reference in a derogatory context further contributes to toxicity under the regional mockery rule.",
+        "toxicity_mistral_reason": "The comment contains insults and demeans a group of people by calling them 'con mẹ nó' and 'nhân cách rẻ rách'.",
+        "toxicity_qwen_reason": "Comment uses derogatory language ('mất tích con mẹ nó luôn', 'nhân cách rẻ rách') to personally attack and insult individuals from Thanh Hóa, implying they are untrustworthy and of low moral value. This constitutes a personal attack based on regional origin, which falls under the TOXIC category according to the rules."
+    },
+    {
+        "text": "não t:mấy đứa nói parky namkiki nói v qua mỹ sống đi ở việt nam mà nói parky namkiki có phải người việt nam ko nx",
+        "category": "region",
+        "id": "region_12622",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses deformed regional label 'parky namkiki' to mock and insult people based on their accent, implying they are not truly Vietnamese, which is an attack on a group according to REGION rules.",
+        "toxicity_mistral_reason": "The comment uses regional labels 'parky' and 'namkiki' to mock or insult people from certain regions, which is considered toxic according to the given definitions.",
+        "toxicity_qwen_reason": "The comment uses 'parky namkiki', a phonetic deformation of 'Bắc Kỳ Nam Kỳ', to mock regional identities in Vietnam. This aligns with the pattern where deformed regional labels are used to belittle or ridicule, which is classified as TOXIC under the REGION category. The sarcastic tone and implied insult toward people from different regions indicate verbal attack rather than neutral discussion."
+    },
+    {
+        "text": "ai rồi cũng lớn thôi quan tâm làm gì cho mệt",
+        "category": "region",
+        "id": "region_27927",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment expresses a general opinion about not worrying too much as everyone grows up, without any insults, mockery, or targeted attacks towards individuals or groups.",
+        "toxicity_mistral_reason": "The comment expresses frustration or disagreement without attacking anyone.",
+        "toxicity_qwen_reason": "The comment is a general, philosophical statement about growing up and not overthinking things. It does not target anyone, contain insults, or express hostility. It reflects a personal opinion or mindset without attacking individuals or groups."
+    },
+    {
+        "text": "ê mà người gốc nam ngta k z đâu, toàn mấy đứa gốc bắc hoặc gốc các tỉnh khác nói v á",
+        "category": "region",
+        "id": "region_22919",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses regional labels ('gốc bắc', 'gốc các tỉnh khác') in a derogatory manner to mock and insult people from Northern Vietnam and other provinces, implying they have undesirable speech patterns. This constitutes an attack on a regional group, falling under the REGION case for toxicity.",
+        "toxicity_mistral_reason": "The comment uses regional labels (gốc nam, gốc bắc) to mock or insult people from different regions, which falls under the REGION category of toxic language.",
+        "toxicity_qwen_reason": "The comment uses regional labels ('gốc bắc', 'gốc các tỉnh khác') to imply negative generalizations and create division based on regional origin, which constitutes a regional-based insinuation. This aligns with the rule that mocking or assigning negative traits based on region is TOXIC."
+    },
+    {
+        "text": "giờ vn chỉ đề phòng t.ộc que thôi 🤣🤣🤣",
+        "category": "region",
+        "id": "region_1985",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment uses deformed slang 't.ộc que' to implicitly mock and attack LGBTQ individuals, with laughing emojis (🤣🤣🤣) indicating ridicule, falling under RULE C for implicit insults and the LGBTQ-specific case.",
+        "toxicity_mistral_reason": "The comment uses emojis (🤣) to signal ridicule and mockery, targeting a specific group (t.ộc que) in a derogatory manner.",
+        "toxicity_qwen_reason": "The term 't.ộc que' is a deformed and derogatory reference to a specific ethnic group, used here in a mocking and ridiculing manner. The comment uses coded language and regional slur with laughing emojis (🤣), indicating ridicule. This constitutes an implicit but clear attack on an ethnic group, making it TOXIC under RULE C and the REGION category examples."
+    },
+    {
+        "text": "thọ xuân có ai ko",
+        "category": "region",
+        "id": "region_8086",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is a neutral question without any insults, mockery, or attacks targeting individuals or groups. It does not contain profanity, coded wording, or elements that fit any toxic criteria defined.",
+        "toxicity_mistral_reason": "The comment is a simple question without any insulting, mocking, or attacking language. It does not target any individual or group.",
+        "toxicity_qwen_reason": "The comment is a simple question asking if anyone is from Thọ Xuân, without any insulting, mocking, or attacking language. It does not target any individual or group, and contains no profanity, implicit insults, or coded language."
+    },
+    {
+        "text": "tao sợ nhất trai gái thanh hoá",
+        "category": "region",
+        "id": "region_5473",
+        "toxicity": "TOXIC",
+        "toxicity_deepseek_reason": "The comment discriminates against and expresses negative fear towards people from Thanh Hóa based on their region, which constitutes an attack on a group.",
+        "toxicity_mistral_reason": "The comment uses a regional label 'thanh hoá' in a derogatory manner, which falls under the REGION category of toxic language.",
+        "toxicity_qwen_reason": "The comment uses a regional label ('Thanh Hóa') to express fear or negative stereotyping, which mocks or demeans people from that region. This fits the pattern of regional-based insult, which is classified as TOXIC under the rules."
+    },
+    {
+        "text": "nguyễn ngọc lâm nè mình genz cũng bất lực :)) mỗi tội k chửi 😂",
+        "category": "lgbtq",
+        "id": "lgbtq_15679",
+        "toxicity": "NON-TOXIC",
+        "toxicity_deepseek_reason": "The comment is self-referential and humorous, expressing the speaker's own helplessness as a gen Z individual without targeting or attacking any person or group. The emojis indicate amusement rather than ridicule or hostility towards others.",
+        "toxicity_mistral_reason": "The comment expresses frustration and uses informal language but does not attack or insult anyone. It does not contain any explicit or implicit attacks.",
+        "toxicity_qwen_reason": "The comment uses informal language and includes laughter emojis, but it does not mock, insult, or target any individual or group. The tone appears self-deprecating or playful, expressing personal inability ('bất lực', 'k chửi') rather than making an attack. According to RULE B, expressing personal limitations or opinions without targeting others is NON-TOXIC."
+    }
+]
