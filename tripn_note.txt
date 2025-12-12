@@ -7,7 +7,7 @@ python labeling\\running\\run_data_annotator_pipeline.py --label-type toxicity -
 -- Push branch tripn
 git status
 git add .
-git commit -m "Update dataset of tripn from 401 to 790"
+git commit -m "Update dataset of tripn from 401 to 790 (second)"
 git push origin tripn
 git push -u origin tripn
 
