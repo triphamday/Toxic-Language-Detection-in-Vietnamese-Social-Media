@@ -1,6 +1,7 @@
 .venv/
 git/
 __pycache__/
+data/
 draft.ipynb
 README.md
 .env
