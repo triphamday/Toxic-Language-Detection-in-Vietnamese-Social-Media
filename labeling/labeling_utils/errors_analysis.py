@@ -2,7 +2,6 @@ import os
 import logging
 import numpy as np
 from statsmodels.stats.inter_rater import fleiss_kappa
-from sklearn.metrics import cohen_kappa_score
 from collections import defaultdict
 import matplotlib.pyplot as plt
 
@@ -71,7 +70,7 @@ def measure_agreement(
         print("Fleiss' Kappa agreement:", kappa_score)
         if sample:
             logging.basicConfig(
-                filename=os.path.join(agreement_folder, "agreement.log"),
+                filename=os.path.join(agreement_folder, f"{label_type}_agreement.log"),
                 level=logging.INFO,
                 format="%(asctime)s [%(levelname)s] %(message)s",
                 datefmt="%Y-%m-%d %H:%M:%S"
@@ -80,55 +79,36 @@ def measure_agreement(
         else:
             logging.info(f"Fleiss' Kappa agreement with prompt round {prompt_round} in all data: {kappa_score}")
 
-    else:
-        llms_annotated_data = [all_labelled_data[0][id] for id in all_ids]
-        result_data = [all_labelled_data[1][id] for id in all_ids]
-        
-        kappa_score = cohen_kappa_score(result_data, llms_annotated_data)
-
-        print("Cohen' Kappa agreement:", kappa_score)
-        if sample:
-            logging.basicConfig(
-                filename=os.path.join(agreement_folder, "agreement.log"),
-                level=logging.INFO,
-                format="%(asctime)s [%(levelname)s] %(message)s",
-                datefmt="%Y-%m-%d %H:%M:%S"
-            )
-            logging.info(f"Cohen' Kappa agreement with prompt round {prompt_round} in sample {sample}: {kappa_score}")
-        else:
-            logging.info(f"Cohen' Kappa agreement with prompt round {prompt_round} in all data: {kappa_score}")
-
     differently_labelled_data = []
     final_data = []
-    if kappa_score <= 0.9:
-        for id in all_ids:
-            labels = [labelled_data[id] for labelled_data in all_labelled_data]
-            
-            if len(set(labels)) > 1:
-                entry = {
-                    "id": id,
-                    "text": all_information.get(id)[0],
-                    "category": all_information.get(id)[1]
-                }
+    for id in all_ids:
+        labels = [labelled_data[id] for labelled_data in all_labelled_data]
+        
+        if len(set(labels)) > 1:
+            entry = {
+                "id": id,
+                "text": all_information.get(id)[0],
+                "category": all_information.get(id)[1]
+            }
 
-                different_entry = entry.copy()
-                for i, label in enumerate(labels):
-                    different_entry[f"{annotators[i]}_label"] = label
-                different_entry["note"] = ""
-                different_entry["final"] = ""
-                differently_labelled_data.append(different_entry)
-                
-                entry[f"{label_type}_fixed"] = ""
-                final_data.append(entry)
-            else:
-                entry = {
-                    "id": id,
-                    "text": all_information.get(id)[0],
-                    "category": all_information.get(id)[1],
-                    f"{label_type}_fixed": labels[-1]
-                }
-                final_data.append(entry)
-    
+            different_entry = entry.copy()
+            for i, label in enumerate(labels):
+                different_entry[f"{annotators[i]}_label"] = label
+            different_entry["note"] = ""
+            different_entry["final"] = ""
+            differently_labelled_data.append(different_entry)
+            
+            entry[f"{label_type}_fixed"] = ""
+            final_data.append(entry)
+        else:
+            entry = {
+                "id": id,
+                "text": all_information.get(id)[0],
+                "category": all_information.get(id)[1],
+                f"{label_type}_fixed": labels[-1]
+            }
+            final_data.append(entry)
+
     different_labelled_folder = os.path.join(result_folder, "differently_labelled")
     os.makedirs(different_labelled_folder, exist_ok=True)
     save_json(differently_labelled_data, os.path.join(different_labelled_folder, "differently_labelled_data.json"))

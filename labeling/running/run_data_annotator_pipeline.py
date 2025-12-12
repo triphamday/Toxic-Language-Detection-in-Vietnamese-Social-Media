@@ -29,7 +29,10 @@ if __name__ == "__main__":
     )
     if args.error_flag:
         pipeline.annotate_error_data(error_batch_folder=args.error_batch_folder)
+        # pipeline.annotate_error_data_parallelly(error_batch_folder=args.error_batch_folder)
     else:
         # pipeline.annotate()
         # pipeline.check()
-        pipeline.main()
+        # pipeline.main()
+        # pipeline.annotate_temp()
+        pipeline.main_parallel()
