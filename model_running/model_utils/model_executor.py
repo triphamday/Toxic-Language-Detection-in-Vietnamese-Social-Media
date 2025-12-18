@@ -163,7 +163,7 @@ class ModelExecutor:
         validation_recall: float,
         training_time: float
     ):
-    """Save checkpoint."""
+        """Save checkpoint."""
         dict_for_saving = {
             "epoch": self.epoch,
             "patience": self.patience,
