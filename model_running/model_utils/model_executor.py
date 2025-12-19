@@ -33,10 +33,12 @@ class ModelExecutor:
         super(ModelExecutor, self).__init__()
 
         self.batch_size = batch_size
-        self.checkpoint_path = checkpoint_path
         self.learning_rate = learning_rate
         self.device = device
 
+        self.checkpoint_path = checkpoint_path
+        os.makedirs(self.checkpoint_path, exist_ok=True)
+        
         if pretrained_flag:
             self.model = PretrainedModel(
                 model_name=model_name,
@@ -66,6 +68,7 @@ class ModelExecutor:
         self.test_loader = DataLoader(test_dataset, shuffle=False, batch_size=1)
 
     def train(self):
+        """Train model."""
         self.model.train()
 
         running_loss = 0.0
@@ -100,6 +103,7 @@ class ModelExecutor:
         self,
         type: str
     ):
+        """Evaluate model."""
         if type == "validation":
             loader = self.validation_loader
         else:
@@ -180,7 +184,8 @@ class ModelExecutor:
 
         torch.save(dict_for_saving, os.path.join(self.checkpoint_path, "last_model.pth"))
 
-    def load_checkpoint(self, file_path) -> dict:
+    def load_checkpoint(self, file_path: str):
+        """Load checkpoint."""
         if not os.path.exists(file_path):
             return None
         print("Loading checkpoint from ", file_path)
@@ -194,6 +199,7 @@ class ModelExecutor:
         test_dataset: CustomDataset,
         patience_threshold: int = 10
     ):
+        """Run executor."""
         self.create_loader(
             train_dataset=train_dataset,
             validation_dataset=validation_dataset,
