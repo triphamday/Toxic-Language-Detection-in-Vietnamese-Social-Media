@@ -143,7 +143,7 @@ class ModelExecutor:
                 if type == "test":
                     entry = dict()
                     entry["text"] = batch["text"]
-                    entry["prediction"] = prediction
+                    entry["prediction"] = prediction.tolist()
                     entry["label"] = label
                     test_results.append(entry)
 
