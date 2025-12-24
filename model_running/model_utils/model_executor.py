@@ -57,7 +57,8 @@ class ModelExecutor:
                     embedding_file_path=embedding_file_path,
                     word2idx_path=word2idx_path,
                     num_labels=num_labels,
-                    dropout_rate=dropout_rate
+                    dropout_rate=dropout_rate,
+                    freeze_flag=freeze_flag
                 ).to(self.device)
 
         self.num_labels = num_labels
